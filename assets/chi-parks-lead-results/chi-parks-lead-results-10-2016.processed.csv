@@ -1,0 +1,2410 @@
+park_name,fixture_location,result_value,result_flag
+Abbott,Fitness Center,<0.120,U
+Abbott,Main Lobby,0.579,J
+Abbott,Fountain 1 High,<0.120,U
+Abbott,Fountain 1 Low,<0.120,U
+Abbott,Fountain 2,<0.120,U
+Abbott,Fountain 3,0.245,J
+Abbott,Fountain 4,4.48,J
+Ada,Main Lobby,<2.0,U
+Ada,Kitchen Sink,<2.0,U
+Ada,Fountain 1,11.7,
+Ada,Fountain 2,<0.120,U
+Ada,Fountain 3,9.63,
+Ada,Fountain 4,7.57,
+Adams (George & Adelle),Hallway,4.34,J
+Adams (George & Adelle),Kitchen Sink,5.3,
+Adams (George & Adelle),Fountain 1,<2.0,U
+Adams (George & Adelle),Fountain 2 High*,75,
+Adams (George & Adelle),Fountain 2 Low*,75,
+Adams (John),Hallway Outside Washroom,4.02,J
+Addam/Medil,Fountain 1,7.5,
+Addams Memorial (Jane),Fountain 1,<2.0,U
+Aiello,Fountain 1 High,2.9,J
+Aiello,Fountain 1 Middle,2.88,J
+Aiello,Fountain 1 Low,3.3,J
+Algonquin,Fountain 1 High,6.64,
+Algonquin,Fountain 1 Middle,6.65,
+Algonquin,Fountain 1 Low,6.67,
+Altgeld,Main Lobby - High,4.91,J
+Altgeld,Main Lobby - Low,2.31,J
+Altgeld,Basement Fitness Center,0.35,J
+Altgeld,Fountain 2,2.1,J
+Altgeld,Fountain 3 High,2.01,J
+Altgeld,Fountain 3 Low,<0.120,U
+Amundsen,Club Room,0.204,J
+Amundsen,Men's Locker Room,2.01,J
+Amundsen,Women's Locker Room*,53.1,
+Amundsen,Fountain 1*,156,
+Anderson (Fred),Fountain 1 High,<2.0,U
+Anderson (Fred),Fountain 1 Low,<2.0,U
+Anderson (Fred),Fountain 2 High,<2.0,U
+Anderson (Fred),Fountain 2 Low,<2.0,U
+Anderson (Fred),Fountain 3 High,<2.0,U
+Anderson (Fred),Fountain 3 Low,<2.0,U
+Anderson (Louis),Lobby,1.29,J
+Anderson (Louis),Fountain 1*,20,
+Andersonville,Fountain 1*,72.7,
+Arcade,Fountian 1*,16.6,
+Archer,Men's Restroom,0.845,J
+Archer,Women's Restroom,0.771,J
+Archer,Main Lobby,0.561,J
+Archer,Kitchen Sink,<2.0,U
+Archer,Fountain 1 High,0.731,J
+Archer,Fountain 1 Low,1.2,J
+Archer,Fountain 2*,38,
+Archer,Fountain 3 High,1.5,J
+Archer,Fountain 3 Middle,1.53,J
+Archer,Fountain 3 Low,1.57,J
+Archer,Fountain 4,1.18,J
+Armour Square,Main Lobby,0.597,J
+Armour Square,Girl's Gym Hallway,<0.120,U
+Armour Square,Game Room,<0.120,U
+Armour Square,Kitchen Sink,<2.0,U
+Armour Square,Fountain 1,0.167,J
+Armour Square,Fountain 2 High,1.53,J
+Armour Square,Fountain 2 Middle,3.81,J
+Armour Square,Fountain 2 Low,3.37,J
+Armour Square,Fountain 3 High,2.51,J
+Armour Square,Fountain 3 Low,1.63,J
+Armour Square,Fountain 4 High,6.44,
+Armour Square,Fountain 4 Low,6.25,
+Armstrong,Fountain 1,<2.0,U
+Ashe Beach,Fountain 1 High,<2.0,U
+Ashe Beach,Fountain 1 Middle,<2.0,U
+Ashe Beach,Fountain 1 Low,<2.0,U
+Ashmore,Fountain 1*,32.9,
+Aspen,Fountian 1 High,<2.0,U
+Aspen,Fountian 1 Low,2.2,
+Aster,Fountain 1,9.7,
+Athletic Field,Main Lobby,2.25,J
+Athletic Field,Fountain 1*,47.5,
+Athletic Field,Fountain 2 High,<0.120,U
+Athletic Field,Fountain 2 Middle,<0.120,U
+Athletic Field,Fountain 2 Low,<0.120,U
+Augusta,Lobby,10.4,
+Augusta,Fountain 1 High,0.769,J
+Augusta,Fountain 1 Middle,0.769,J
+Augusta,Fountain 1 Low,0.789,J
+Austin-Foster,Fountain 1 High*,20.6,
+Austin-Foster,Fountain 1 Low*,51,
+Austin Town Hall,Main Lobby,<0.120,U
+Austin Town Hall,2nd Floor Outside Gym,1.16,J
+Austin Town Hall,2nd Floor Inside Gym,1.82,J
+Austin Town Hall,Pool Area,<0.120,U
+Austin Town Hall,Basement Girl's Locker Room,0.365,J
+Austin Town Hall,Basement Boy's Locker Room,0.233,J
+Austin Town Hall,Preschool,<0.120,U
+Austin Town Hall,Preschool Sink,0.176,J
+Austin Town Hall,Fountain 1,2.41,J
+Avalon,Main Lobby,0.274,J
+Avalon,Near Kitchen,2.52,J
+Avalon,Girl's Locker Room,1.65,J
+Avalon,Boy's Locker Room,5.01,
+Avalon,Fountain 1,7.9,
+Avalon,Fountain 2 High,<2.0,U
+Avalon,Fountain 2 Low,2.7,
+Avalon,Fountain 3 High*,1800,
+Avalon,Fountain 3 Low*,1200,
+Avalon,Fountain 4 High*,270,
+Avalon,Fountain 4 Low*,400,
+Avalon,Fountain 5 High*,150,
+Avalon,Fountain 5 Low*,170,
+Avalon,Fountain 6 High*,8.2,
+Avalon,Fountain 6 Low*,15,
+Avondale,Main Lobby,0.909,J
+Avondale,Fountain 1,0.457,J
+Avondale,Fountain 2,9.52,
+Barnard,Fountain 1,14,
+Barnard,Fountain 2 High*,6.11,
+Barnard,Fountain 2 Low*,15.5,
+Barrett,Fountain 1,2.6,
+Bartelme,Fountain 1 High,<2.0,U
+Bartelme,Fountain 1 Middle,<2.0,U
+Bartelme,Fountain 1 Low,<2.0,U
+Bartelme,Fountain 2 High,<2.0,U
+Bartelme,Fountain 2 Dog,<2.0,U
+Bauler,Fountain 1*,38,
+Beehive,Fountain 1 High,7.41,
+Beehive,Fountain 1 Low,6.14,
+Bell,Game Room,2.82,J
+Bell,Fountain 1*,16.6,
+Berger Cultural Ctr Annex,Basement Hallway,0.239,J
+Berger,Fountain 1 High,<2.0,U
+Berger,Fountain 1 Middle,<2.0,U
+Berger,Fountain 1 Low,<2.0,U
+Bessemer,North Entrance Lobby,0.342,J
+Bessemer,South Entrance Lobby,0.24,J
+Bessemer,Fountain 1,<2.0,U
+Bessemer,Fountain 2,<2.0,U
+Bessemer,Fountain 3,<2.0,U
+Bessemer,Fountain 4,6.4,
+Bessemer,Fountain 5,<2.0,U
+Beverly,Kitchen Sink,3.3,J
+Beverly,Fountain 1,13.9,
+Beverly,Fountain 2 High,0.519,J
+Beverly,Fountain 2 Low,0.523,J
+Beverly,Fountain 2 Dog,0.549,J
+Beverly,Fountain 3*,91.4,
+Birch,Fountain 1 High,<2.0,U
+Birch,Fountain 1 Low,<2.0,U
+Bixler,Fountain 1 High,0.176,J
+Bixler,Fountain 1 Low,0.185,J
+Blackhawk,Women's Restroom,0.263,J
+Blackhawk,Outside Preschool Room,0.193,J
+Blackhawk,Fountain 1*,22.1,
+Blackhawk,Fountain 2*,23.3,
+Blackwelder,Fountian 1 High,0.299,J
+Blackwelder,Fountian 1 Middle,0.311,J
+Blackwelder,Fountian 1 Low,0.361,J
+Bogan,Outside Office,2.11,J
+Bogan,Fountain 2,0.662,J
+Bogan,Fountain 3 High,2.69,J
+Bogan,Fountain 3 Low,3.09,J
+Bosley,Fountain 1,3.11,J
+Boswell,Fountain 1 High*,17.8,
+Boswell,Fountain 1 Low*,17.7,
+Brainerd,Main Lobby,0.747,J
+Brainerd,Women's Locker Room,1.65,J
+Brainerd,Men's Locker Room,3.39,J
+Brainerd,Fountain 1 High,<0.120,U
+Brainerd,Fountain 1 Middle,<0.120,U
+Brainerd,Fountain 1 Low,<0.120,U
+Brainerd,Fountain 3,5.31,
+Brainerd,Fountain 4,0.694,J
+Bradley,Fountain 2,3,
+Bradley,Fountain 3*,17,
+Brands,Main Lobby,1.62,J
+Brands,Men's Locker Room,9.77,
+Brands,Women's Locker Room,2.44,J
+Brands,Fountain 2 High,2.11,J
+Brands,Fountain 2 Middle,2.19,J
+Brands,Fountain 2 Low,2.08,J
+Brands,Fountain 3*,27.8,
+Brighton,Fountain 1 High,12,
+Brighton,Fountain 1 Middle,13,
+Brighton,Fountain 1 Low,11.8,
+Broadway Armory,Main Lobby,<0.120,U
+Broadway Armory,East Side Vestibule,0.189,J
+Broadway Armory,Kitchen Sink,6.9,
+Bromann,Fountain 1 High,<2.0,U
+Bromann,Fountain 1 Middle,<2.0,U
+Bromann,Fountain 1 Low,<2.0,U
+Bronco Billy,Fountain 1 High,4.1,
+Bronco Billy,Fountain 1 Low,<2.0,U
+Brooks (Gwendolyn),Fountain 1 High,8.1,
+Brooks (Gwendolyn),Fountain 1 Low,8.7,
+Brooks (Oscar),North Foyer,0.617,J
+Brooks (Oscar),2nd Floor Club Room,0.793,J
+Brooks (Oscar),Fountain 1 High*,145,
+Brooks (Oscar),Fountain 1 Low*,83,
+Brooks (Oscar),Fountain 2*,46.5,
+Brown Memorial,Fountain 1*,41.6,
+Brown Memorial,Fountain 2*,76.2,
+Brynford,Fountain 1 High,3.91,
+Brynford,Fountain 1 Low,3.96,
+Burnham,Fountain 1 High,<2.0,U
+Burnham,Fountain 1 Low,<2.0,U
+Burnham,Fountain 2 High,<2.0,U
+Burnham,Fountain 2 Middle,<2.0,U
+Burnham,Fountain 2 Low,<2.0,U
+Burnham,Fountain 3 High,2.4,
+Burnham,Fountain 3 Low,<2.0,U
+Burnham,Fountain 4 High,<2.0,U
+Burnham,Fountain 4 Low,<2.0,U
+Burnham,Fountain 5 High,<2.0,U
+Burnham,Fountain 5 Low,<2.0,U
+Burnham,Fountain 6 High,<2.0,U
+Burnham,Fountain 6 Low,<2.0,U
+Burnham,Fountain 7 High,<2.0,U
+Burnham,Fountain 7 Low,<2.0,U
+Burnham,Fountain 8 High,<2.0,U
+Burnham,Fountain 8 Low,<2.0,U
+Burnham,Fountain 5.1 High,<2.0,U
+Burnham,Fountain 5.1 Low,<2.0,U
+Burnham,Fountain 5.2 High,<2.0,U
+Burnham,Fountain 5.2 Low,<2.0,U
+Burnham,Fountain 9*,24,
+Burnham,Fountain 10,2.8,
+Burnham,Fountain 11*,60,
+Burnham,Fountain 12 High,<2.0,U
+Burnham,Fountain 12 Low,<2.0,U
+Burnham,Fountain 13 High,<2.0,U
+Burnham,Fountain 13 Low,<2.0,U
+Burnham,Fountain 14 High,<2.0,U
+Burnham,Fountain 14 Low,<2.0,U
+Burnham,Fountain 15 High,<2.0,U
+Burnham,Fountain 15 Low,<2.0,U
+Burnham,Fountain 15-Dog,<2.0,U
+Burnham,Fountain 16 High,<2.0,U
+Burnham,Fountain 16 Low,<2.0,U
+Burnham,Fountain 17,<2.0,U
+Burnham,Fountain 18,<2.0,U
+Burnham,Fountain 19 High*,37,
+Burnham,Fountain 19 Middle*,42,
+Burnham,Fountain 19 Low*,40,
+Burnham,Fountain 20,2.5,
+Burnham,Fountain 21*,24,
+Burnham,Fountain 22,<2.0,U
+Burnham,Fountain 23,<2.0,U
+Burnham,Fountain 24*,21,
+Burnham,Fountain 25,<2.0,U
+Burnham,Fountain 26,3.9,
+Burnham,Fountain 27 South,<2.0,U
+Burnham,Fountain 27 East,<2.0,U
+Burnham,Fountain 27 North,<2.0,U
+Burnham,Fountain 28 High,<2.0,U
+Burnham,Fountain 28 Low,<2.0,U
+Burnside,Fountain 1,<2.0,U
+Burnside,Fountain 2,3.3,
+Burnside,Fountain 3,7.4,
+Buttercup,Fountain 1 High,<2.0,U
+Buttercup,Fountain 1 Middle,<2.0,U
+Buttercup,Fountain 1 Low,<2.0,U
+Catalpa,Fountain 1,5.49,
+California,Fountain 1 High,<0.120,U
+California,Fountain 1 Middle,<0.120,U
+California,Fountain 1 Low,<0.120,U
+California,Fountain 2 High,0.137,J
+California,Fountain 2 Low,<0.120,U
+California,Fountain 3*,29.5,
+Calumet,Hall Outside of Women's Room,0.55,J
+Calumet,Hall Outside of Preschool Room,1.05,J
+Calumet,Girl's Locker Room,12.4,
+Calumet,Boy's Locker Room,1.48,J
+Calumet,Basement Near Train Room,1.82,J
+Calumet,Fountain 2*,16,
+Calumet,Fountain 3,<2.0,U
+Calumet,Fountain 4 High,<2.0,U
+Calumet,Fountain 4 Low,<2.0,U
+Calumet,Fountain 5,<2.0,U
+Calumet,Fountain 6,<2.0,U
+Calumet,Fountain 7,7.2,
+Calumet,Fountain 8,9.2,
+Calumet,Fountain 9,9.7,
+Calumet,Fountain 10,<2.0,U
+Calumet,Fountain 11 High,<2.0,U
+Calumet,Fountain 11 Low,<2.0,U
+Calumet,Fountain 12,<2.0,U
+Calumet,Fountain 13,<2.0,U
+Carver,Main Hallway,<0.120,U
+Carver,Between Locker Rooms,2.23,J
+Carver,Pool Deck,1.28,J
+Carver,Kitchen Sink,2.1,
+Carver,Fountain 1,<2.0,U
+Carver,Fountain 2,<2.0,U
+Carver,Fountain 4,13,
+Cedar,Fountain 1 High,<2.0,U
+Cedar,Fountain 1 Middle,<2.0,U
+Cedar,Fountain 1 Low,<2.0,U
+Central Playlot,Fountain 1 High,2.0,J
+Central Playlot,Fountain 1 Low,2.28,J
+Challenger,Fountain 1 High,<2.0,U
+Challenger,Fountain 1 Middle,<2.0,U
+Challenger,Fountain 1 Low,<2.0,U
+Chase,1st Floor Lobby,0.838,J
+Chase,2nd Floor by Bathrooms,0.757,J
+Chase,Fountain 1 High,<2.0,U
+Chase,Fountain 1 Low,<2.0,U
+Chase,Fountain 2*,25,
+Chase,Fountain 3,11,
+Chase,Fountain 4 High,<2.0,U
+Chase,Fountain 4 Middle,<2.0,U
+Chase,Fountain 4 Low,<2.0,U
+Chase,Fountain 5 High*,42,
+Chase,Fountain 5 Low*,41,
+Chestnut,Fountain 1 High*,23.1,
+Chestnut,Fountain 1 Low*,23.5,
+Chicago Women's,1st Floor,<0.120,U
+Chicago Women's,2nd Floor,<0.120,U
+Chicago Women's,3rd Floor,<0.120,U
+Chippewa,Front Hallway,2.3,J
+Chippewa,Fountain 1,0.522,J
+Chopin,Main Lobby,1.37,J
+Chopin,Fountain 1,0.965,J
+Chopin,Fountain 2,5.2,
+Chopin,Fountain 3,0.491,J
+Chopin,Fountain 4*,21.5,
+Churchill,Fountain 1 High,<2.0,U
+Churchill,Fountain 1 Middle,<2.0,U
+Churchill,Fountain 1 Low,<2.0,U
+Churchill,Fountain 2 High,<2.0,U
+Churchill,Fountain 2 Middle,<2.0,U
+Churchill,Fountain 2 Low,<2.0,U
+Citizens Memorial,Fountain 1*,58,
+Clarendon,Game Room East Wall - High,1.37,J
+Clarendon,Game Room East Wall - Low,0.447,J
+Clarendon,2nd Floor Bathrooms,1.09,J
+Clarendon,Fitness Center,0.186,J
+Clarendon,Fountain 1,<2.0,U
+Clarendon,Fountain 2*,45,
+Clarendon,Fountain 3 High,<2.0,U
+Clarendon,Fountain 3 Middle,<2.0,U
+Clarendon,Fountain 3 Low,2.1,
+Clarendon,Fountain 4 High,<2.0,U
+Clarendon,Fountain 4 Middle,<2.0,U
+Clarendon,Fountain 4 Low,<2.0,U
+Clark (John),Lobby,0.837,J
+Clark (John),Fountain 1,0.291,J
+Clark (Richard),Fountain 1 High,0.124,J
+Clark (Richard),Fountain 1 Low,0.127,J
+Clark (Richard),Fountain 2 High,0.994,J
+Clark (Richard),Fountain 2 Low,0.291,J
+Clark Boathouse,Main Lobby,<0.120,U
+Clark Boathouse,By Washrooms,<0.120,U
+Claremont,Fountain 1 High,1.11,J
+Claremont,Fountain 1 Middle,1.1,J
+Claremont,Fountain 1 Low,0.893,J
+Clover,Fountain 1 High*,66,
+Clover,Fountain 1 Low*,58,
+Clybourn,Fountain 1 High*,30,
+Clybourn,Fountain 1 Low*,31,
+Cochran,Fountain 1 High*,41,
+Cochran,Fountain 1 Low*,42,
+Cole,Main Lobby,0.364,J
+Cole,Fountain 1*,42.4,
+Cole,Fountain 2 High,0.599,J
+Cole,Fountain 2 Middle,0.388,J
+Cole,Fountain 2 Low,0.519,J
+Cole,Fountain 3*,140,
+Cole,Fountain 4*,15.5,
+Coleman,Fountain 1*,27.9,
+Coliseum,Fountain 1 High,<2.0,U
+Coliseum,Fountain 1 Low,2.1,
+Coliseum,Fountain 1 Dog,<2.0,U
+Coliseum,Fountain 2,<2.0,U
+Columbus,Front Lobby,0.688,J
+Columbus,Fountain 1,6.5,
+Columbus,Fountain 2,0.436,J
+Columbus,Fountain 3,2.26,J
+Columbus,Fountain 4,1.55,J
+Columbus,Fountain 5,0.593,J
+Columbus,Fountain 6,14,
+Columbus,Fountain 7 High,0.491,J
+Columbus,Fountain 7 Low,0.283,J
+Columbus,Fountain 8 High,6.96,
+Columbus,Fountain 8 Low,7.09,
+Columbus,Fountain 9,3.08,J
+Columbus,Fountain 10 High,0.244,J
+Columbus,Fountain 10 Low,1.35,J
+Columbus,Fountain 11 Low,2.05,J
+Columbus Athletic Building,By Large Gym,0.123,J
+Columbus Refectory,East Foyer,0.66,J
+Commercial Club,Lobby,0.438,J
+Commercial Club,Kitchen Sink,<2.0,U
+Commercial Club,Fountain 1 High,0.661,J
+Commercial Club,Fountain 1 Middle,0.614,J
+Commercial Club,Fountain 1 Low,0.46,J
+Cooper,Main Lobby,1.85,J
+Cooper,Fountain 1,0.916,J
+Cooper,Fountain 2 High,0.205,J
+Cooper,Fountain 2 Low,1.07,J
+Cornell,Fountain 1 High*,97.5,
+Cornell,Fountain 1 Low*,116,
+Cornell Square,Near Women's Room,2.62,J
+Cornell Square,Near Entrance,0.227,J
+Cornell Square,Kitchen Sink,<2.0,U
+Cornell Square,Fountain 1,<0.120,U
+Cornell Square,Fountain 2,6.36,
+Cornell Square,Fountain 3 High,<0.120,U
+Cornell Square,Fountain 3 Low,<0.120,U
+Cornell Square,Fountain 4,3.98,J
+Cosme,Fountain 1 High,0.334,J
+Cosme,Fountain 1 Dog,0.363,J
+Cosme,Fountain 2,10.5,
+Cotton Tail,Fountain 1,<2.0,U
+Cotton Tail,Fountain 2,<2.0,U
+Cotton Tail,Fountain 3 High,<2.0,U
+Cotton Tail,Fountain 3 Low,<2.0,U
+Cragin,Hallway,10.9,
+Cragin,Fountain 1,1.35,J
+Cragin,Fountain 2,1.72,J
+Cresent,Fountain 1,4.21,J
+Daley (Richard),Fountain 1 High,0.333,J
+Daley (Richard),Fountain 1 Low,1.11,J
+Davis (M.),Fountain 1,0.142,J
+Davis Square,1st Floor Near Elevator,<0.120,U
+Davis Square,2nd Floor Near Special Rec,0.138,J
+Davis Square,Kitchen Sink,<2.0,U
+Davis Square,Kitchen Sink 2nd Floor,<2.0,U
+Davis Square,Fountain 1 High,0.623,J
+Davis Square,Fountain 1 Low,0.428,J
+Davis Square,Fountain 2*,15.7,
+Davis Square,Fountain 3 High,<0.120,U
+Davis Square,Fountain 3 Low,<0.120,U
+Dawes,Near Office*,26.5,
+Dawes,Kitchen Sink,0.358,J
+Dawes,Slop Sink,0.83,J
+Dawes,Fountain 1 High,11.9,
+Dawes,Fountain 1 Low,10.1,
+Dawes,Fountain 2*,0.516,J
+Dean,Fountain 1 High,0.911,J
+Dean,Fountain 1 Middle,1.05,J
+Dean,Fountain 1 Low,0.943,J
+Dearborn,Fountain 1 High*,52,
+Dearborn,Fountain 1 Low*,18,
+Dearborn,Fountain 2 High*,120,
+Dearborn,Fountain 2 Low*,110,
+Debow,Fountain 1*,29,
+De Burgos,Fountain 1 High,0.3,
+De Burgos,Fountain 1 Middle,0.311,
+De Burgos,Fountain 1 Low,0.31,
+DeJulio,Fountain 1 High*,24.1,
+DeJulio,Fountain 1 Low*,30.7,
+D'Elia,Fountain 1 High*,33,
+D'Elia,Fountain 1 Low*,33,
+Dickinson,Fountain 1 High,0.231,J
+Dickinson,Fountain 1 Middle,0.211,J
+Dickinson,Fountain 1 Low,0.227,J
+Dixon,Fountain 1 High,12.1,
+Dixon,Fountain 1 Low,12,
+Dogwood,Fountain 1*,17.8,
+Donahue,Fountain 1 High,2,
+Donahue,Fountain 1 Middle,2.7,
+Donahue,Fountain 1 Low,<2.0,U
+Don Nash Community Center,1st Floor Between Room,0.16,J
+Don Nash Community Center,2nd Floor by Fitness Center,<0.120,U
+Don Nash Community Center,Pool Level Women's Washroom,0.462,J
+Don Nash Community Center,Pool Level Men's Washroom,<0.120,U
+Don Nash Community Center,Pool Deck,0.198,J
+Donovan,Club Room,3.01,J
+Donovan,Fountain 1*,16.4,
+Dougherty,Fountain 1,5.2,
+Douglas,Main Lobby,0.219,J
+Douglas,Fountain 1*,21.7,
+Douglas,Fountain 2,2.21,J
+Douglas,Fountain 4 High,0.572,J
+Douglas,Fountain 4 Low,0.128,J
+Douglas,Fountain 5,2.49,J
+Douglas,Fountain 6,1.04,J
+Douglas,Fountain 7 High,7.1,
+Douglas,Fountain 7 Low,6.67,
+Douglas,Fountain 8,3.39,J
+Douglas,Fountain 9*,16.6,
+Douglas,Fountain 10 High,9.22,
+Douglas,Fountain 10 Middle,9.96,
+Douglas,Fountain 10 Low,9.09,
+Drexel,Fountain 1*,70,
+Dubkin,Fountain 1 High,<2.0,U
+Dubkin,Fountain 1 Low,<2.0,U
+Dunbar,Fountain 1*,130,
+Dunbar,Fountain 2,<2.0,U
+Dunbar,Fountain 3*,26,
+Dunbar,Fountain 4 High,<2.0,U
+Dunbar,Fountain 4 Middle,<2.0,U
+Dunbar,Fountain 4 Low,<2.0,U
+Dunbar,Fountain 5 High,<2.0,U
+Dunbar,Fountain 5 Middle,<2.0,U
+Dunbar,Fountain 5 Low,<2.0,U
+Dunham,Main Hall South,0.486,J
+Dunham,Women's Locker Room,10,
+Dunham,Men's Locker Room,3.89,J
+Dunham,Kitchen Sink,<2.0,U
+Dunham,Fountain 1*,30.5,
+Dunham,Fountain 2*,21.9,
+Dunham,Fountain 3 High,7.66,
+Dunham,Fountain 3 Middle,5.78,
+Dunham,Fountain 3 Low,6.06,
+Durkin,Fountain 2,2.72,J
+Durkin,Fountain 3 High,<0.120,U
+Durkin,Fountain 3 Low,<0.120,U
+Dvorak,Main Lobby - High,0.922,J
+Dvorak,Main Lobby - Low,1.44,J
+Dvorak,Kitchen Sink,<2.0,U
+Dvorak,Fountain 1*,17,
+Dvorak,Fountain 2 High,7.4,
+Dvorak,Fountain 2 Middle,4.8,
+Dvorak,Fountain 2 Low,3.8,
+Dvorak,Fountain 3 High*,17,
+Dvorak,Fountain 3 Low*,20,
+Dvorak,Fountain 4 High,<2.0,U
+Dvorak,Fountain 4 Low,<2.0,U
+Dvorak,Fountain 5 High,<2.0,U
+Dvorak,Fountain 5 Low,<2.0,U
+Eckersall,Fountain 1 High,14,
+Eckersall,Fountain 1 Low,13,
+Eckhart,Lobby,0.396,J
+Eckhart,Pool Deck,0.691,J
+Eckhart,Men's Locker Room,4.01,J
+Eckhart,Kitchen Sink,<2.0,U
+Eckhart,Fountain 1 High,14.1,
+Eckhart,Fountain 1 Low,14.6,
+Eckhart,Fountain 2 High,5.6,
+Eckhart,Fountain 2 Middle,5.91,
+Eckhart,Fountain 2 Low,6.8,
+Edgebrook,Fountain 1 High,0.793,J
+Edgebrook,Fountain 1 Low,0.689,J
+Edison,Main Lobby,12.2,
+Edmonds,Fountain 1 High,12.5,
+Edmonds,Fountain 1 Low,14.1,
+Ellis,Outside Gym,<2.0,U
+Ellis,Fitness Center,<2.0,U
+Ellis,Pool Deck,<2.0,U
+Ellis,1st Floor Kitchen,<2.0,U
+Ellis,2nd Floor Kitchen,<2.0,U
+Ellis,Fountain 1*,16,
+Ellis,Fountain 2*,92,
+Elm,Fountain 1,5.3,
+Emerald,Fountain 1*,30.2,
+Emmerson,Main Lobby,1.61,J
+Emmerson,Fountain 1*,102,
+Erhler,Fountain 1,2.5,
+Essex,Fountain 1 High,5.6,
+Essex,Fountain 1 Middle,5.8,
+Essex,Fountain 1 Low,5.9,
+Euclid,Main Lobby,0.871,J
+Euclid,Fountain 1,12.5,
+Euclid,Fountain 2 High,0.76,J
+Euclid,Fountain 2 Low,0.77,J
+Euclid,Fountain 3 High,13.2,
+Euclid,Fountain 3 Low,11.2,
+Eugene Field,1st Floor by Men's Washroom,1.05,J
+Eugene Field, 2nd Floor by Women's Washroom,0.462,J
+Eugene Field,Basement Hallway,0.497,J
+Eugene Field,Women's Locker Room*,58.2,
+Eugene Field,Men's Locker Room*,71.3,
+Eugene Field,Fountain 1 High,9.18,
+Eugene Field,Fountain 1 Low,9.5,
+Eugene Field,Fountain 2 High,<0.120,U
+Eugene Field,Fountain 2 Middle,<0.120,U
+Eugene Field,Fountain 2 Low,<0.120,U
+Eugene Field,Fountain 3 High*,6.74,
+Eugene Field,Fountain 3 Low*,15.4,
+Eugene Field,Fountain 4 High,11.9,
+Eugene Field,Fountain 4 Low,14.3,
+Fellger,Fountain 1 High,<2.0,U
+Fellger,Fountain 1 Low,<2.0,U
+Fernwood,Lobby by Gym,<0.120,U
+Fernwood,Main Lobby,0.232,J
+Fernwood,Fountain 1,<0.120,U
+Fernwood,Fountain 2*,33.2,
+Filbert,Fountain 1 High,2.5,
+Filbert,Fountain 1 Middle,2.2,
+Filbert,Fountain 1 Low,2.3,
+Flower,Fountain 1 High,<2.0,U
+Flower,Fountain 1 Middle,<2.0,U
+Flower,Fountain 1 Low,<2.0,U
+Flying Squirrel,Fountain 1,6.58,
+Forest Glen,Fountain 1 High,4.53,J
+Forest Glen,Fountain 1 Low,4.57,J
+Forest Glen,Fountain 1 Dog,5.39,
+Fosco,Main Hall - High,<0.120,U
+Fosco,Main Hall - Low,<0.120,U
+Fosco,Outside Locker Room,<0.120,U
+Fosco,Outside Gym Near Pool - High,<0.120,U
+Fosco,Outside Gym Near Pool - Low,<0.120,U
+Fosco,Pool Area - High,<0.120,U
+Fosco,Pool Area - Low,<0.120,U
+Fosco,Outside Daycare - High,<0.120,U
+Fosco,Outside Daycare - Low,<0.120,U
+Fosco,Daycare Entrance - High,<0.120,U
+Fosco,Daycare Entrance - Low,<0.120,U
+Fosco,Daycare Sink,<2.0,U
+Fosco,Daycare Employee  Sink,<2.0,U
+Fosco,Senior Room Sink,<2.0,U
+Fosco,Warming Kitchen Sink,<2.0,U
+Fosco,Fountain 1 High,<2.0,U
+Fosco,Fountain 1 Low,<2.0,U
+Fosco,Fountain 2 High,<2.0,U
+Fosco,Fountain 2 Low,<2.0,U
+Foster,Lobby - High,0.34,J
+Foster,Lobby - Low,0.672,J
+Foster,Men's Locker Room,0.733,J
+Foster,Kitchen Sink,<2.0,U
+Foster,Fountain 1 High,0.419,J
+Foster,Fountain 1 Low,0.325,J
+Foster,Fountain 2 High,7.52,
+Foster,Fountain 2 Low,7.89,
+Foster,Fountain 3*,159,
+Foster,Fountain 4 High,<0.120,U
+Foster,Fountain 4 Low,2.06,J
+Foster,Fountain 5 High*,50,
+Foster,Fountain 5 Low*,73,
+Foster,Fountain 6 High,0.182,J
+Foster,Fountain 6 Low,0.28,J
+Franklin,Main Lobby,0.505,J
+Franklin,Women's Locker Room,1.42,J
+Franklin,Men's Locker Room,<0.120,U
+Franklin,Kitchen Sink,2.5,
+Franklin,Fountain 1,2.32,J
+Franklin,Fountain 2 High,<0.120,U
+Franklin,Fountain 2 Low,<0.120,U
+Franklin,Fountain 3,1.12,J
+Franklin,Fountain 4*,37.2,
+Fuller,Main Lobby,0.413,J
+Fuller,West Gym Hallway,0.977,J
+Fuller,East Gym Hallway,2.58,J
+Fuller,Boxing Gym,3.15,J
+Fuller,Kitchen Sink,3.9,
+Fuller,Fountain 1 High*,10.6,
+Fuller,Fountain 1 Middle*,10.9,
+Fuller,Fountain 1 Low*,16.9,
+Fuller,Fountain 2,0.126,J
+Fuller,Fountain 3,0.584,J
+Fuller,Fountain 4*,472,
+Fuller,Fountain 5*,82.1,
+Gage,Basement,0.203,J
+Gage,Women's Locker Room,1.2,J
+Gage,Men's Locker Room,0.524,J
+Gage,Lobby - High,0.343,J
+Gage,Lobby - Low,0.378,J
+Gage,Kitchen Sink West,<2.0,U
+Gage,Kitchen Sink East,<2.0,U
+Gage,Fountain 1,1.24,J
+Gage,Fountain 2,1.07,J
+Gage,Fountain 3,2.09,J
+Gage,Fountain 4*,48.8,
+Gage,Fountain 5 High,0.12,J
+Gage,Fountain 5 Middle,0.17,
+Gage,Fountain 5 Low,0.22,
+Gage,Fountain 6*,30.5,
+Gage,Fountain 7*,124,
+Galewood,Lobby,0.563,J
+Galewood,Bathroom Adaptor,0.218,J
+Galewood,Fountain 1,2.29,
+Garfield,Main Floor North Near Offices,0.281,J
+Garfield,Main Floor South Near Fitness,1.65,J
+Garfield,2nd Floor Near Rotunda,4.18,J
+Garfield,Basement Boy's Locker Room,0.856,J
+Garfield,Basement Girl's Locker Room,1.4,J
+Garfield,Basement Near Gym,6.06,
+Garfield,Kitchen Sink,<2.0,U
+Garfield,Fountain 1,0.387,J
+Garfield,Fountain 2*,43.7,
+Garfield,Foungain 3 High,<0.120,U
+Garfield,Fountain 3 Middle,<0.120,U
+Garfield,Fountain 3 Low,<0.120,U
+Garfield,Fountain 4 High,1.17,J
+Garfield,Fountain 4 Low,1.22,J
+Garfield,Fountain 5,<0.120,U
+Garfield,Fountain 6,2.48,J
+Garfield,Fountain 7,0.781,J
+Garfield,Fountain 8,7.06,
+Garfield,Fountain 9*,72.4,
+Garfield,Fountain 10,13,
+Garfield,Fountain 11,4.11,J
+Garibaldi,Fountain 1,3.3,
+Gately,Fountain 1*,30,
+Gately,Fountain 2,<2.0,U
+Gill,1st Floor - High,<0.120,U
+Gill,1st Floor - Low,1.12,J
+Gill,Basement Men's Locker Room,1.2,J
+Gill,Basement Women's Locker Room,1.79,J
+Gill,Fountain 1 High*,31,
+Gill,Fountain 1 Middle*,32,
+Gill,Fountain 1 Low*,28,
+Gladstone,Fountain 1 High*,44.9,
+Gladstone,Fountain 1 Middle*,0.812,J
+Gladstone,Fountain 1 Low*,28.3,
+Gladys,Fountain 1,4.66,J
+Goldberg,Fountain 1 High*,69,
+Goldberg,Fountain 1 Low*,53,
+Golden Gate,Fountain 1 High,4,
+Golden Gate,Fountain 1 Low,8.8,
+Gooseberry,Fountain 1*,60,
+Gompers,Main Hallway,0.832,J
+Gompers,Women's Locker Room,2.26,J
+Gompers,Men's Locker Room,4.34,J
+Gompers,Fountain 1*,16.2,
+Gompers,Fountain 2*,43.8,
+Gompers,Fountain 2A*,49.4,
+Gompers,Fountain 3 High,6.66,
+Gompers,Fountain 3 Middle,6.78,
+Gompers,Fountain 3 Low,6.82,
+Gompers,Fountain 4*,24.1,
+Gompers,Fountain 5 High,0.431,J
+Gompers,Fountain 5 Low,0.472,J
+Gompers,Fountain 6,0.988,J
+Gompers,Fountain 7,<0.120,U
+Gompers,Fountain 8*,39.8,
+Gompers,Fountain 9*,61.7,
+Goudy,Fountain 1 High,<2.0,U
+Goudy,Fountain 1 Middle,<2.0,U
+Goudy,Fountain 1 Low,<2.0,U
+Grand Playlot,Fountain 1*,54.2,
+Grand Crossing,Lobby South,1.57,J
+Grand Crossing,Lobby North,<0.120,U
+Grand Crossing,Fountian 1,2.43,J
+Grand Crossing,Fountian 2,9,
+Grand Crossing,Fountian 3,1.05,J
+Grand Crossing,Fountian 4,0.975,J
+Grand Crossing,Fountian 5,0.674,J
+Grand Crossing,Fountian 6 High,4.87,J
+Grand Crossing,Fountian 6 Low,4.14,J
+Grand Crossing,Fountian 7 High,10.1,
+Grand Crossing,Fountian 7 Low,6.18,
+Grant,Fountain 1,<2.0,U
+Grant,Fountain 2,<2.0,U
+Grant,Fountain 3,4.3,
+Grant,Fountain 4 High,<2.0,U
+Grant,Fountain 4 Low,<2.0,U
+Grant,Fountain 5 (Bond),<2.0,U
+Grant,Fountain 5a (Trough),<2.0,U
+Grant,Fountain 5b (Trough),<2.0,U
+Grant,Fountain 5c (Trough),<2.0,U
+Grant,Fountain 5d (Trough),<2.0,U
+Grant,Fountain 6,<2.0,U
+Grant,Fountain 7,<2.0,U
+Grant,Fountain 8 High,<2.0,U
+Grant,Fountain 8 Low,2.3,
+Grant,Fountain 9 High,11,
+Grant,Fountain 9 Low,5.4,
+Grant,Fountain 10,<2.0,U
+Grant,Fountain 11,<2.0,U
+Grant,Fountain 13 High,20,
+Grant,-Retest after repair,2.3,
+Grant,Fountain 13 Low,20,
+Grant,-Retest after repair,2.4,
+Grant,Fountain 14 High,29,
+Grant,-Retest after repair,<2.0,U
+Grant,Fountain 14 Low,29,
+Grant,-Retest after repair,<2.0,U
+Grant,Fountain 15 High,<2.0,U
+Grant,Fountain 15 Low,<2.0,U
+Grant,Fountain 16,<2.0,U
+Grant,Fountain 17,<2.0,U
+Grant,Fountain 18 High,<2.0,U
+Grant,Fountain 18 Low,<2.0,U
+Grant,Fountain 19 High,2.7,
+Grant,Fountain 19 Low,7.4,
+Grant,Fountain 20,<2.0,U
+Grant,Fountain 21,11,
+Grant,Fountain 22*,1200,
+Grant,Fountain 23*,80,
+Grant,Fountain 24*,81,
+Grant,Fountain 25,2.2,
+Grant,Fountain 26*,46,
+Grant,Fountain 27 High,9.1,
+Grant,Fountain 27 Low,10,
+Grant,Fountain 28 High*,69,
+Grant,Fountain 28 Low*,75,
+Grant,Fountain 30 High,5.8,
+Grant,Fountain 30 Low,5.5,
+Grant,Fountain 31*,560,
+Grant,Fountain 32,5.4,
+Grant,Fountain 33 High,<2.0,U
+Grant,Fountain 33 Dog,<2.0,U
+Grant,Fountain 34,<2.0,U
+Grant,Fountain 35,<2.0,U
+Grant,Fountain 36 High,<2.0,U
+Grant,Fountain 36 Low,<2.0,U
+Grant,Fountain 37,<2.0,U
+Grant,Fountain 38 High,<2.0,U
+Grant,Fountain 38 Low,<2.0,U
+Grant,Fountain 39 High,<2.0,U
+Grant,Fountain 39 Low,<2.0,U
+Grant,Fountain 40 High,2.5,
+Grant,Fountain 40 Low,<2.0,U
+Grant,Fountain 41 High,<2.0,U
+Grant,Fountain 41 Low,<2.0,J
+Grant,Fountain 42 High,<2.0,U
+Grant,Fountain 42 Low,<2.0,U
+Grant,Fountain 43 High,<2.0,U
+Grant,Fountain 43 Low,<2.0,U
+Grant,Fountain 44 High,<2.0,U
+Grant,Fountain 44 Low,<2.0,U
+Grape,Fountain 1*,21.1,
+Graver,Main Lobby,<0.120,U
+Graver,Kitchen Sink,<2.0,U
+Graver,Fountain 2,0.151,J
+Green,Fountain 1*,76.9,
+Greenbaum,Fountain 1 High,0.178,J
+Greenbaum,Fountain 1 Low,0.178,J
+Greenbaum,Fountain 2 High,<0.120,U
+Greenbaum,Fountain 2 Middle,<0.120,U
+Greenbaum,Fountain 2 Low,<0.120,U
+Green Briar,Lobby East,0.904,J
+Green Briar,Lobby West,0.574,J
+Green Briar,Fountain 1*,24.4,
+Green Briar,Fountain 2*,59.1,
+Green Briar,Fountain 3,0.853,J
+Griffin,Fountain 1*,16,
+Gross,Fountain 1 High*,34.3,
+Gross,Fountain 1 Low*,34.4,
+Haas,Outside Gym - High,<0.120,U
+Haas,Outside Gym - Low,<0.120,U
+Haas,Kitchen Sink,<2.0,U
+Haas,Fountain 1 High,<2.0,U
+Haas,Fountain 1 Middle,<2.0,U
+Haas,Fountain 1 Low,<2.0,U
+Hale,Lobby - High,<0.120,U
+Hale,Lobby - Low,<0.120,U
+Hale,Near Locker Rooms,<0.120,U
+Hale,Pool Building Entrance,0.43,J
+Hale,Fountain 1 High,0.774,J
+Hale,Fountain 1 Low,0.65,J
+Hale,Fountain 2*,44.7,
+Hale,Fountain 3 Low,<0.120,U
+Hale,Fountain 3 High,<0.120,U
+Hale,Fountain 4,0.268,J
+Hamilton,Main Lobby - East Side,0.19,J
+Hamilton,Main Lobby - West Side,0.464,J
+Hamilton,Kitchen Sink,<2.0,U
+Hamilton,Fountain 1,8.49,
+Hamilton,Fountain 2 High,0.137,J
+Hamilton,Fountain 2 Middle,<0.120,U
+Hamilton,Fountain 2 Low,0.906,J
+Hamilton,Fountain 3 High,1.95,J
+Hamilton,Fountain 3 Low,1.35,J
+Hamlin,Main Lobby,1.63,J
+Hamlin,Women's Locker Room,0.888,J
+Hamlin,Fountain 1*,72,
+Hamlin,Fountain 2*,48,
+Hamlin,Fountain 3,4.4,
+Hamlin,Fountain 4*,41,
+Hansberry,Fountain 1,7.42,
+Harding (Frederick),Fountain 1,<0.120,U
+Harding (George),Fountain 1,3.1,
+Harris,Near Gym,<0.120,U
+Harris,2nd Floor Dance Room,2.53,J
+Harris,1st Floor Southwest,<0.120,U
+Harris,Africa Office,1.38,J
+Harris,Basement Back Entrance,4.43,J
+Harris,Fountain 1 High,<0.120,U
+Harris,Fountain 1 Low,<0.120,U
+Harrison,Fitness Center,<0.120,U
+Harrison,Pool Deck,4.07,J
+Harrison,North Gym Entrance,<0.120,U
+Harrison,South Gym Entrance,<0.120,U
+Harrison,Kitchen Sink,<2.0,U
+Harrison,Fountain 1 High,<2.0,U
+Harrison,Fountain 1 Low,<2.0,U
+Harrison,Fountain 3,<2.0,U
+Hartigan Beach,Fountain 1,<2.0,U
+Hartigan Beach,Fountain 2 High,<2.0,U
+Hartigan Beach,Fountain 2 Low,<2.0,U
+Hayes,Hallway Near Lobby,1.22,J
+Hayes,Fitness Center - High,<0.120,U
+Hayes,Fitness Center - Low,<0.120,U
+Hayes,Outside Men's Locker - High,0.24,J
+Hayes,Outside Men's Locker - Low,0.213,J
+Hayes,Pool Area - High,0.288,J
+Hayes,Pool Area - Middle,1.35,J
+Hayes,Pool Area - Low,<0.120,U
+Hayes,Kitchen Sink,<2.0,U
+Hayes,Fountain 2*,243,
+Hayes,Fountain 3*,156,
+Hazelnut,Fountain 1,6.16,
+Hermitage,Club Room,10.5,
+Hermitage,Fountain 1 High,3.49,J
+Hermitage,Fountain 1 Middle,3.54,J
+Hermitage,Fountain 1 Low,3.26,J
+Hermosa,Lobby - High,0.911,J
+Hermosa,Lobby - Low,0.945,J
+Hermosa,Fountain 2,0.729,J
+Hiawatha,Main Lobby - Low,0.936,J
+Hiawatha,Fountain 1,12,
+Hiawatha,Fountain 2*,80.7,
+Hiawatha,Fountain 3 High,0.157,J
+Hiawatha,Fountain 3 Middle,0.143,J
+Hiawatha,Fountain 3 Low,0.166,J
+Hiawatha,Fountain 4,7.75,
+Hickory,Fountain 1 High,2.5,
+Hickory,Fountain 1 Low,<2.0,
+Hoard,Fountain 1,12.9,
+Hollywood,Game Room,5.16,
+Hollywood,Fountain 1,4.85,J
+Hollywood,Fountain 2*,32,
+Holstein,Main Lobby,<0.120,U
+Holstein,Kitchen Sink,<2.0,U
+Holstein,Fountain 1 High,<2.0,U
+Holstein,Fountain 1 Low,<2.0,U
+Holstein,Fountain 2*,210,
+Homan Square,North Wing Near Club Room - High,<0.120,U
+Homan Square,North Wing Near Club Room - Low,0.12,J
+Homan Square,South Wing Near Gym - High,<0.120,U
+Homan Square,South Wing Near Gym - Low,<0.120,U
+Homan Square,Pool Area,<0.120,U
+Homan Square,Ktichen Sink,<2.0,U
+Honeysuckle,Fountain 1 High*,27,
+Honeysuckle,Fountain 1 Low*,28,
+Horan,Fountain 1 High,3.67,
+Horan,Fountain 1 Low,3.71,
+Hornbeam,Fountain 1,0.526,J
+Horner,Lobby Outside Gym,0.531,J
+Horner,Inside Gym - High,1.62,J
+Horner,Inside Gym - Low,1.65,J
+Horner,2nd Floor,1.09,J
+Horner,Fountain 1*,34,
+Horner,Fountain 2 High,13,
+Horner,Fountain 2 Low,12.9,
+Horner,Fountain 3 High,10.9,
+Horner,Fountain 3 Low,10.8,
+Horner,Fountain 4 High*,25.9,
+Horner,Fountain 4 Middle*,26.4,
+Horner,Fountain 4 Low*,25.6,
+Horner,Fountain 5 High*,43.2,
+Horner,Fountain 5 Low*,39,
+Horner,Fountain 6 High*,61.2,
+Horner,Fountain 6 Low*,67.3,
+Horner,Fountain 7 High,3.13,J
+Horner,Fountain 7 Low,6.06,
+Horner,Fountain 8 High,1.74,J
+Horner,Fountain 8 Low*,16.3,
+Horner,Fountain 9 High,0.176,J
+Horner,Fountain 9 Low,0.165,J
+Horner,Fountain 10 High*,110,
+Horner,Fountain 10 Low*,116,
+Horner,Fountain 11 High*,135,
+Horner,Fountain 11 Low*,126,
+Houston,Fountain 1,<2.0,U
+Houston,Fountain 2,2.8,
+Hoyne,Club Room,2.80,J
+Hoyne,Fountain 1,2.55,J
+Huckleberry,Fountain 1,12.2,
+Humbert,Fountian 1 High,10.4,
+Humbert,Fountian 1 Low,11,
+Humboldt,Main Floor East Side,1.34,J
+Humboldt,Main Floor West Side,4.22,J
+Humboldt,Basement West Side*,16.8,
+Humboldt,Basement Game Room,14.4,
+Humboldt,Ktichen Sink,<2.0,U
+Humboldt,Fountain 1*,23.3,
+Humboldt,Fountain 2,5.65,
+Humboldt,Fountain 3*,21.6,
+Humboldt,Fountain 5,<0.120,U
+Humboldt,Fountain 7,1.51,J
+Humboldt,Fountain 8 High,0.437,J
+Humboldt,Fountain 8 Middle,0.431,J
+Humboldt,Fountain 9,5.65,
+Humboldt,Fountain 10,1.38,J
+Humboldt,Fountain 11 High,0.18,J
+Humboldt,Fountain 11 Middle,0.176,J
+Humboldt,Fountain 11 Low,0.191,J
+Humboldt,Fountain 12 High,10.1,
+Humboldt,Fountain 12 Low,8.93,
+Humboldt,Fountain 13 High,0.2,J
+Humboldt,Fountain 13 Low,0.383,J
+Humboldt,Fountain 13 - Dog,0.126,J
+Humboldt,Fountain 14*,15.1,
+Humboldt,Fountain 15,1.85,J
+Humboldt,Fountain 16,1.13,J
+Humboldt,Fountain 17,6.73,
+Humboldt,Fountain 18 High,0.197,J
+Humboldt,Fountain 18 Middle,<0.120,U
+Humboldt,Fountain 18 Low,<0.120,U
+Humboldt,Fountain 20,2.53,J
+Humboldt,Fountain 21*,15.7,
+Humboldt,Fountain 22*,30.4,
+Humboldt,Fountain 23,3.58,J
+Humboldt,Fountain 24*,28.8,
+Hurley,Fountain 1 High,2.17,J
+Hurley,Fountain 1 Middle,1.26,J
+Hurley,Fountain 1 Low,1.77,
+Independence,Special Rec Room,<0.120,U
+Independence,Main Lobby,<0.120,U
+Independence,Pool Area,<0.120,U
+Independence,Fitness Center,0.948,J
+Independence,Fountain 1 High,6.88,
+Independence,Fountain 1 Low,7.39,
+Independence,Fountain 2 High*,17.8,
+Independence,Fountain 2 Low*,22.2,
+Independence,Fountain 3 High,3.06,J
+Independence,Fountain 3 Low,2.84,J
+Independence,Fountain 3 Middle,3.09J,
+Indian Boundary,Main Lobby,3.81,J
+Indian Boundary,Fountain 1 High*,15.6,
+Indian Boundary,Fountain 1 Middle*,16.7,
+Indian Boundary,Fountain 1 Low*,16.2,
+Indian Boundary,Fountain 2 High*,52.3,
+Indian Boundary,Fountain 2 Low*,51.8,
+Indian Boundary,Fountain 3 High,10.5,
+Indian Boundary,Fountain 3 Low,8.38,
+Indian Road,Preschool Room,6.66,
+Indian Road,Fountain 1 High,2.37,J
+Indian Road,Fountain 1 Low,2.96,J
+Indian Road,Fountain 2*,38.9,
+Indian Road,Fountain 3 High*,14.9,
+Indian Road,Fountain 3 Middle*,17.6,
+Indian Road,Fountain 3 Low*,15.2,
+Jackson (Andrew),Hallway,0.536,J
+Jackson (Andrew),Men's Locker Room,8.72,
+Jackson (Andrew),Women's Locker Room*,36.9,
+Jackson (Andrew),Fountain 1 High,<0.120,U
+Jackson (Andrew),Fountain 1 Low,<0.120,U
+Jackson (Andrew),Fountain 2 High,0.783,J
+Jackson (Andrew),Fountain 2 Low,0.812,J
+Jackson (Andrew),Fountain 3,0.345,J
+Jackson (Andrew),Fountain 4,0.905,J
+Jackson (Andrew),Fountain 5 High,6.67,
+Jackson (Andrew),Fountain 5 Low,6.77,
+Jackson (Andrew),Fountain 6*,25.2,
+Jackson (Andrew),Fountain 7*,70.5,
+Jackson (Andrew),Fountain 8 High,1.38,J
+Jackson (Andrew),Fountain 8 Low,1.16,J
+Jackson (Andrew),Fountain 9*,69.2,
+Jackson (Andrew),Fountain 10,12.2,
+Jackson (Andrew),Fountain 11,2.56,J
+Jackson (Andrew),Fountain 12,3.15,J
+Jackson (Andrew),Fountain 13*,60,
+Jackson (Andrew),Fountain 15,10.5,
+Jackson (Andrew),Fountain 16*,18.8,
+Jackson (Andrew),Fountain 17 High,0.985,
+Jackson (Andrew),Fountain 20 High,<0.120,U
+Jackson (Andrew),Fountain 20 Low,<0.120,U
+Jackson (Andrew),Fountain 21 high,<0.120,U
+Jackson (Andrew),Fountain 22*,18.9,
+Jackson (Andrew),Fountain 23*,208,
+Jackson (Andrew),Fountain 24,1.94,J
+Jackson (Andrew),Fountain 25*,95,
+Jackson (Andrew),Fountain 26*,30.1,
+Jackson (Andrew),Fountain 27,13.9,
+Jackson (Mahalia),Fountain 1*,361,
+Jackson (Mahalia),Fountain 2*,44,
+Jackson Playlot,Fountain 1*,30,
+Jacob,Fountain 1 High*,16,
+Jacob,Fountain 1 Low*,16.4,
+Jefferson,Fountain 1*,24.6,
+Jefferson Memorial,Main Lobby,2.47,J
+Jefferson Memorial,Downstairs,6.51,
+Jefferson Memorial,Upstairs,4.77,J
+Jefferson Memorial,Pool Building,0.576,J
+Jefferson Memorial,Fountain 1,0.894,J
+Jefferson Memorial,Fountain 2,0.343,J
+Jefferson Memorial,Fountain 3 High*,35.4,
+Jefferson Memorial,Fountain 3 Middle*,2.18,J
+Jefferson Memorial,Fountain 3 Low*,2.28,J
+Jefferson Playlot,Fountain 1 High,<2.0,U
+Jefferson Playlot,Fountain 1 Middle,<2.0,U
+Jefferson Playlot,Fountain 1 Low,<2.0,U
+Jensen,Fountain 1 High,<0.120,U
+Jensen,Fountain 1 Low,<0.120,U
+Jensen,Fountain 2 High,0.179,J
+Jensen,Fountain 2 Low,0.196,J
+Jesse White Comm Ctr,Outside Gym - High,<0.120,U
+Jesse White Comm Ctr,Outside Gym - Low,<0.120,U
+Jesse White Comm Ctr,Gymnastics Center - High,0.263,J
+Jesse White Comm Ctr,Gymnastics Center - Low,0.341,J
+Jones,Fountain 1,<2.0,U
+Jonquil,Fountain 1*,180,
+Jonquil,Fountian 2 High,<2.0,U
+Jonquil,Fountain 2 Middle,<2.0,U
+Jonquil,Fountain 2 Low,<2.0,U
+Jonquil,Fountain 3*,58,
+Junction Grove,Fountain 1*,61.3,
+Juneway Beach,Fountain 1*,62,
+Juniper,Fountain 1*,18,
+Kedvale,Lobby,10.4,
+Kedvale,Fountain 1 Low,<0.120,U
+Kedvale,Fountain 1 Middle,<0.120,U
+Kelly,Fountain 1 High,6.56,
+Kelly,Fountain 1 Low,5.52,
+Kelly,Fountain 2,0.516,J
+Kelly,Fountain 3,5.39,
+Kells,Fountain 1*,18.1,
+Kelvyn,Gym Hallway,3.94,J
+Kelvyn,Front Lobby,5.91,
+Kelvyn,Auditorium,0.371,J
+Kelvyn,Fountain 1,5.08,
+Kelvyn,Fountain 2,12.4,
+Kelvyn,Fountain 3,7.08,
+Kelvyn,Fountain 4*,25,
+Kennedy,Near Women's Locker Room,0.184,J
+Kennedy,Kitchen Sink,<2.0,U
+Kennedy,Fountain 1*,36.9,
+Kennedy,Fountain 2,1.29,J
+Kennedy,Fountain 3 High,0.204,J
+Kennedy,Fountain 3 Middle,0.284,J
+Kennedy,Fountain 3 Low,0.534,J
+Kennedy,Fountain 4*,28,
+Kennedy,Fountain 5,4.4,J
+Kennedy,Fountain 6*,68,
+Kennedy,Fountain 7,3.11,J
+Kennedy,Fountain 8,4.04,J
+Kennicott,Main Lobby,0.749,J
+Kennicott,Fitness Center,0.673,J
+Kennicott,Near Girl's Restroom,1.86,J
+Kennicott,1st Floor Near Preschool Room*,26.3,
+Kennicott,-Follow Up Sample 1,2.85,J
+Kennicott,-Follow Up Sample 2,2.08,J
+Kennicott,-Follow Up Sample 3,1.87,J
+Kennicott,-Follow Up Sample 4,2.22,J
+Kennicott,-Follow Up Sample 5,2.29,J
+Kennicott,2nd Floor Near Restrooms,0.868,J
+Kennicott,2nd Floor Back of Building,5.53,
+Kennicott,Large Kitchen Sink,4.03,J
+Kennicott,Senior Room Sink,0.344,J
+Kensington,Fountain 1*,28.5,
+Ken-Well,Club Room,2.49,J
+Ken-Well,Fountain 1*,42,
+Kenwood,Fountain 1 High*,36,
+Kenwood,Fountain 1 Low*,24,
+Kenwood,Fountain 2,3.5,
+Kenwood,Fountain 3,<2.0,U
+Kilborn,Main Lobby,1.18,J
+Kilborn,Gym Hallway West,0.191,J
+Kilborn,Gym Hallway East,0.307,J
+Kilborn,Fountain 1*,51.2,
+Kilborn,Fountain 2*,31.9,
+Kilborn,Fountain 3*,31.7,
+Kilborn,Fountain 4,12.9,
+King,Fountain 1 High,0.309,J
+King,Fountain 1 Low,0.322,J
+King-Lockhart,Fountain 1 High,13.6,
+King-Lockhart,Fountain 1 Low,14.3,
+Klein,Fountain 1 High,<2.0,U
+Klein,Fountain 1 Low,<2.0,U
+Klein,Fountain 1 Middle,<2.0,U
+Kolmar,Fountain 1*,38.7,
+Korczak,Fountain 1*,16,
+Kosciuszko,Lobby South Wall - High,0.168,J
+Kosciuszko,Lobby South Wall - Low,0.161,J
+Kosciuszko,Lobby West Wall,0.138,J
+Kosciuszko,Fountain 1 High*,92.1,
+Kosciuszko,Fountain 1 Low*,105,
+Kosciuszko,Fountain 2 High,0.145,J
+Kosciuszko,Fountain 2 Low,0.163,J
+Kosciuszko,Fountain 3 High,<0.120,U
+Kosciuszko,Fountain 3 Middle,<0.120,U
+Kosciuszko,Fountain 3 Low,<0.120,U
+Krause,Fountain 1 High,<2.0,U
+Krause,Fountain 1 Middle,<2.0,U
+Krause,Fountain 1 Low,<2.0,U
+Kucinski-Murphy,Fountain 1,0.342,J
+LaFollette,Main Lobby,1.13,J
+LaFollette,Pool Area,0.534,J
+LaFollette,Kitchen Sink,2.1,
+LaFollette,Fountain 1 High,<0.120,U
+LaFollette,Fountain 1 Middle,0.304,J
+LaFollette,Fountain 1 Low,<0.120,U
+LaFollette,Fountain 2,9.8,
+LaFollette,Fountain 3,7.16,
+LaFollette,Fountain 4,8.72,
+LaFollette,Fountain 5 High,0.554,J
+LaFollette,Fountain 5 Low,0.52,J
+Lake Shore,Main Hallway,0.161,J
+Lake Shore,Kitchen Sink,2.8,
+Lake Shore,Fountain 1 High,<2.0,U
+Lake Shore,Fountain 1 Low,2.1,
+Lake Shore,Fountain 2 High,<2.0,U
+Lake Shore,Fountain 2 Middle,<2.0,U
+Lake Shore,Fountain 2 Low,<2.0,U
+Lamb,Fountain 1*,41.8,
+Lane Beach,Fountain 1 High*,15,
+Lane Beach,Fountain 1 Middle*,12,
+Lane Beach,Fountain 1 Low*,8.5,
+Langdon,Fountain 1*,20,
+Langley,Fountain 1 High,4.61,
+Langley,Fountain 1 Low,5.82,
+Langley,Fountain 2 High,6.05,
+Langley,Fountain 2 Middle,6.1,
+Langley,Fountain 2 Low,6.7,
+LaVillita,Fountain 1 High,<0.120,U
+LaVillita,Fountain 1 Middle,<0.120,U
+LaVillita,Fountain 1 Low,<0.120,U
+LaVillita,Fountain 2 High,<0.120,U
+LaVillita,Fountain 2 Low,<0.120,U
+LaVillita,Fountain 3 High,<0.120,U
+LaVillita,Fountain 3 Middle,<0.120,U
+LaVillita,Fountain 3 Low,<0.120,U
+Lawler,Club Room,5.83,
+Lawler,Fountain 1 High*,42.1,
+Lawler,Fountain 1 Low*,44.8,
+Lawler,Fountain 2 High,0.807,J
+Lawler,Fountain 2 Low,0.708,J
+Lawler,Fountain 2 Middle,0.54,J
+Lazarus,Fountain 1,120,
+LeClaire Court,Girl's Locker Room,0.373,J
+LeClaire Court,Boy's Locker Room,0.25,J
+LeClaire Court,Hallway to Gym,1.36,J
+LeClaire Court,Kitchen Sink,<2.0,U
+LeClaire Court,Fountain 1,1.38,J
+LeClaire Court,Fountain 2*,65.8,
+LeClaire Court,Fountain 3,7.71,
+Lee,Fountain 1 High,6.52,
+Lee,Fountain 1 Low,6.83,
+Legion,Fountain 1*,118,
+Legion,Fountain 2*,88.2,
+Legion,Fountain 3,12.6,
+Legion,Fountain 4*,101,
+Legion,Fountain 5*,73.9,
+Legion,Fountain 6*,91.7,
+Leone Beach,Near Bathroom,9.2,
+Leone Beach,Fountain 1*,18,
+Lerner,Fountain 1,1.67,J
+Lerner,Fountain 2,1.09,J
+Lerner,Fountain 3,5.71,
+Lerner,Fountain 4,1.46,J
+Levin,Fountain 1,0.21,J
+Lincoln,Fountain 1 High,<2.0,U
+Lincoln,Fountain 1 Low,<2.0,U
+Lincoln,Fountain 2,<2.0,U
+Lincoln,Fountain 3,8.6,
+Lincoln,Fountain 4,3.2,
+Lincoln,Fountain 5,<2.0,U
+Lincoln,Fountain 6 High,<2.0,U
+Lincoln,Fountain 6 Low,<2.0,U
+Lincoln,Fountain 7,<2.0,U
+Lincoln,Fountain 8,<2.0,U
+Lincoln,Fountain 9*,95,
+Lincoln,Fountain 10,4.2,
+Lincoln,Fountain 11 High,<2.0,U
+Lincoln,Fountain 11 Middle,<2.0,U
+Lincoln,Fountain 11 Low,2.9,
+Lincoln,Fountain 12*,16,
+Lincoln,Fountain 13,<2.0,U
+Lincoln,Fountain 15 North,<2.0,U
+Lincoln,Fountain 15 East,<2.0,U
+Lincoln,Fountain 15 South,<2.0,U
+Lincoln,Fountain 15 West,<2.0,U
+Lincoln,Fountain 16,<2.0,U
+Lincoln,Fountain 18 High,<2.0,U
+Lincoln,Fountain 18 Low,<2.0,U
+Lincoln,Fountain 19,14,
+Lincoln,Fountain 20 North,2.7,
+Lincoln,Fountain 20 East,2.4,
+Lincoln,Fountain 20 South,2.1,
+Lincoln,Fountain 20 West,2.8,
+Lincoln,Fountain 21,13,
+Lincoln,Fountain 22*,39,
+Lincoln,Fountain 23*,140,
+Lincoln,Fountain 24,<2.0,U
+Lincoln,Fountain 25*,16,
+Lincoln,Fountain 26,<2.0,U
+Lincoln,Fountain 27 North *,12,
+Lincoln,Fountain 27 East*,20,
+Lincoln,Fountain 27 South*,15,
+Lincoln,Fountain 27 West*,11,
+Lincoln,Fountain 30,<2.0,U
+Lincoln,Fountain 31 High,<2.0,U
+Lincoln,Fountain 31 Low,<2.0,U
+Lincoln,Fountain 31 North,2.8,
+Lincoln,Fountain 32 East,3.7,
+Lincoln,Fountain 32 South,3.7,
+Lincoln,Fountain 32 West,24,
+Lincoln,Fountain 33*,110,
+Lincoln,Fountain 34 North*,15,
+Lincoln,Fountain 34 East*,18,
+Lincoln,Fountain 34 South*,14,
+Lincoln,Fountain 34 West*,15,
+Lincoln,Fountain 35 North,9.6,
+Lincoln,Fountain 35 East,11,
+Lincoln,Fountain 35 South,11,
+Lincoln,Fountain 35 West,9.7,
+Lincoln,Fountain 36,4.2,
+Lincoln,Fountain 37*,36,
+Lincoln,Fountain 38*,22,
+Lincoln,Fountain 39 North,<2.0,U
+Lincoln,Fountain 39 East,<2.0,U
+Lincoln,Fountain 39 South,<2.0,U
+Lincoln,Fountain 39 West,<2.0,U
+Lincoln,Fountain 40,<2.0,U
+Lincoln,Fountain 41,<2.0,U
+Lincoln,Fountain 42,<2.0,U
+Lincoln,Fountain 43,<2.0,U
+Lincoln,Fountain 44,<2.0,U
+Lincoln,Fountain 46,<2.0,U
+Lincoln,Fountain 47 North,<2.0,U
+Lincoln,Fountain 47 South,<2.0,U
+Lincoln,Fountain 47 East,<2.0,U
+Lincoln,Fountain 47 West,<2.0,U
+Lincoln,Fountain 48,2.7,
+Lincoln,Fountain 49 North,<2.0,U
+Lincoln,Fountain 49 East,<2.0,U
+Lincoln,Fountain 49 South,<2.0,U
+Lincoln,Fountain 49 West,<2.0,U
+Lincoln,Fountain 50 North,<2.0,U
+Lincoln,Fountain 50 East,<2.0,U
+Lincoln,Fountain 50 South,<2.0,U
+Lincoln,Fountain 50 West,<2.0,U
+Lincoln,Fountain 51,<2.0,U
+Lincoln,Fountain 52 High,<2.0,U
+Lincoln,Fountain 52 Low,<2.0,U
+Lincoln,Fountain 53,<2.0,U
+Lincoln,Fountain 54 High,<2.0,U
+Lincoln,Fountain 54 Middle,<2.0,U
+Lincoln,Fountain 54 Low,<2.0,U
+Lincoln,Fountain 56 High,<2.0,U
+Lincoln,Fountain 56 Middle,<2.0,U
+Lincoln,Fountain 56 Low,<2.0,U
+Lincoln,Fountain 57*,22,
+Lincoln,Fountain 58*,41,
+Lincoln,Fountain 59*,44,
+Lincoln,Fountain 60,<2.0,U
+Lincoln,Fountain 61,14,
+Lincoln,Fountain 62,5.6,
+Lincoln,Fountain 63,4.1,
+Lincoln,Fountain 64,2.9,
+Lincoln,Fountain 65,<2.0,U
+Lincoln,Fountain 67,<2.0,U
+Lincoln,Fountain 68*,20,
+Lincoln,Fountain 69 High,<2.0,U
+Lincoln,Fountain 69 Middle,<2.0,U
+Lincoln,Fountain 69 Low,<2.0,U
+Lincoln,Fountain 70,2.1,
+Lincoln,Fountain 71,2.0,
+Lincoln,Founntain 72,12,
+Lincoln,Fountain 73,<2.0,U
+Lincoln,Fountain 74 High,<2.0,U
+Lincoln,Fountain 74 Low,<2.0,U
+Lincoln,Fountain 74 Dog,<2.0,U
+Lincoln,Fountain 75 High,<2.0,U
+Lincoln,Fountain 75 Middle,<2.0,U
+Lincoln,Fountain 75 Low,<2.0,U
+Lincoln,Fountain 76 High,<2.0,U
+Lincoln,Fountain 76 Low,<2.0,U
+Lincoln,Fountain 77,4.6,
+Lincoln,Fountain 78*,130,
+Lincoln,Fountain 79 High,<2.0,U
+Lincoln,Fountain 79 Low,<2.0,U
+Lincoln,Fountain 79 Dog,<2.0,U
+Lincoln,Fountain 80,9.7,
+Lincoln Park Cultural Center,Main Lobby,0.309,J
+Lincoln Park Cultural Center,Basement by EC Room,0.165,J
+Lincoln Park Margate,South Hallway,0.154,J
+Lincoln Park South Athletic Fieldhouse,Between Bathrooms,0.948,J
+Lindbloom,Main Lobby - High,0.189,J
+Lindbloom,Main Lobby - Low,0.15,J
+Lindbloom,Fountain 1 High*,16.4,
+Lindbloom,Fountain 1 Low*,13.3,
+Lindbloom,Fountain 2,3.25,
+Lindbloom,Fountain 3*,27.4,
+Linden,Fountain 1,0.19,J
+Limas,Fountain 1*,27.7,
+Little Venice,Fountain 1,1.69,J
+Livingston,Fountain 1 High,0.511,J
+Livingston,Fountain 1 Low,0.563,J
+Logan SOutdoor,Fountain 1 High,<2.0,U
+Logan SOutdoor,Fountain 1 Low,<2.0,U
+Lowe,Main Lobby,0.347,J
+Lowe,Fountain 1 High,7.95,
+Lowe,Fountain 1 Middle,1.17,J
+Lowe,Fountain 1 Low,0.992,J
+Loyola,1st Floor Near Office,0.46,J
+Loyola,2nd Floor Main Hallway,0.543,J
+Loyola,Men's Locker Room,2.49,J
+Loyola,Women's Locker Room,0.94,J
+Loyola,Fountain 2*,38,
+Loyola,Fountain 3,<2.0,U
+Loyola,Fountain 4,<2.0,U
+Loyola,Fountain 5,14,
+Loyola,Fountain 6 High*,13,
+Loyola,Fountain 6 Low*,15,
+Loyola,Fountain 7*,26,
+Luella,Fountain 1*,37,
+Luella,Fountain 2 High*,18,
+Luella,Fountain 2 Low*,12,
+Luna,Fountain 1*,92.4,
+Lunt,Fountain 1,3.61,J
+Maggie Daley,Lobby - High,<0.120,U
+Maggie Daley,Lobby - Low,<0.120,U
+Maggie Daley,Kitchen Sink,<2.0,U
+Magnolia,Fountain 1,2.43,J
+Malus,Fountain 1 High*,34.8,
+Malus,Fountain 1 Low*,36.3,
+Mandrake,Kitchen Sink,<2.0,U
+Mandrake,Fountain 1 High,<2.0,U
+Mandrake,Fountain 1 Low,<2.0,U
+Mandrake,Fountain 2,<2.0,U
+Mandrake,Fountain 3,<2.0,U
+Mandrake,Fountain 4 High,<2.0,U
+Mandrake,Fountain 4 Low,<2.0,U
+Mandrake,Fountain 5,<2.0,U
+Mandrake,Fountain 6,<2.0,U
+Mann,Pool Deck,3.44,J
+Mann,Women's Upstairs Locker,2.2,J
+Mann,Men's Upstairs Locker,2.58,J
+Mann,Downstairs Near Washrooms,1.71,J
+Mann,Fountain 1 Low,2.4,
+Mann,Fountain 1 High,<2.0,U
+Mann,Fountain 2 Low,12,
+Mann,Fountain 2 High,12,
+Mann,Fountain 3 High,5.3,
+Mann,Fountain 3 Low,<2.0,U
+Mann,Fountain 4 High,6.9,
+Mann,Fountain 4 Low,12,
+Maple,Fountain 1*,86.6,
+Maplewood,Fountain 1 High*,66,
+Maplewood,Fountain 1 Middle*,70,
+Maplewood,Fountain 1 Low*,52,
+Marquette,East Washroom - High,0.142,J
+Marquette,East Washroom - Low,0.18,J
+Marquette,Women's Locker Room - High,0.714,J
+Marquette,Women's Locker Room - Low,0.512,J
+Marquette,Main Hallway - High*,27.4,
+Marquette,Main Hallway - Low*,51.6,
+Marquette,Basement,2.1,J
+Marquette,Kitchen Sink,<2.0,U
+Marquette,Fountain 1 High,3.41,J
+Marquette,Fountain 1 Middle,1.05,J
+Marquette,Fountain 1 Low,2.53,J
+Marquette,Fountain 2,2.57,J
+Marquette,Fountain 3 High,1.65,J
+Marquette,Fountain 3 Low,1.64,J
+Marquette,Fountain 4*,30.4,
+Marquette,Fountain 5,1.61,J
+Marquette,Fountain 6,9.18,
+Marquette,Fountain 7,8.37,
+Marquette,Fountain 8,0.425,J
+Marquette,Fountain 9,0.535,J
+Marquette,Fountain 10 High,8.85,
+Marquette,Fountain 10 Low,12.3,
+Marquette,Fountain 11,0.543,J
+Marquette,Fountain 12 High,<0.120,U
+Marquette,Fountain 12 Low,<0.120,U
+Marshfield,Fountain 1 High,1.52,J
+Marshfield,Fountain 1 Low,1.57,J
+Mason,Fountain 1,<0.120,U
+Mason,Fountain 2,<0.120,U
+Matanky,Fountain 1,8,
+Mather,Main Lobby,0.379,J
+Mather,Fountain 1 High,0.316,J
+Mather,Fountain 1 Middle,0.325,J
+Mather,Fountain 1 Low,0.302,J
+Mather,Fountain 3,5.62,
+Mayfair,By Women's Washroom,2.77,J
+Mayfair,Fountain 1 High,0.316,J
+Mayfair,Fountain 1 Middle,0.308,J
+Mayfair,Fountain 1 Low,0.343,J
+McFetridge,Men's Locker Room,0.227,J
+McFetridge,Women's Locker Room,0.256,J
+McFetridge,Pool Deck - High,<0.120,U
+McFetridge,Pool Deck - Low,0.27,J
+McGuane,Near Gym,0.481,J
+McGuane,Pool Area,<0.120,U
+McGuane,Balcony by Table Tennis,0.717,J
+McGuane,Outside Meeting Room,1.0,J
+McGuane,Kitchen Sink,2.3,
+McGuane,Fountain 1 High,14.6,
+McGuane,Fountain 1 Low,12.5,
+McGuane,Fountain 2 High*,52.9,
+McGuane,Fountain 2 Middle *,53.7,
+McGuane,Fountain 2 Low*,57.2,
+McGuane,Fountain 3 High*,46,
+McGuane,Fountain 3 Low*,54.5,
+McGuane,Fountain 4 High,1.68,J
+McGuane,Fountain 4 Low,1.37,J
+McGuane,Fountain 5 High,0.555,J
+McGuane,Fountain 5 Low,0.662,J
+McInerney,Fountain 1,<0.120,U
+McKiernan,Club Room - High,1.01,J
+McKiernan,Club Room - Low,0.579,J
+McKiernan,Fountain 1*,23.6,
+McKinley,Outside Men's Room,0.888,J
+McKinley,Outside Women's Room,1.14,J
+McKinley,Outside Gymnastics Center,1.64,J
+McKinley,Outside Gym,6.35,
+McKinley,Kitchen Sink,<2.0,U
+McKinley,Fountain 1*,16.4,
+McKinley,Fountain 2,11.8,
+McKinley,Fountain 3*,26,
+McKinley,Fountain 4,1.48,
+McKinley,Fountain 5,1.04,
+Mellin,Fountain 1 High,4.93,J
+Mellin,Fountain 1 Middle,6.3,
+Mellin,Fountain 1 Low,5.17,
+Memorial Playlot,Fountain 1 High*,7.96,
+Memorial Playlot,Fountain 1 Low*,59.8,
+Memorial Playlot,Fountain 2,8.31,
+Merrill,Fountain,,U
+Merrimac,Hall Near Lobby,0.956,J
+Merrimac,Hall Furthest from Lobby,0.977,J
+Merrimac,Fountain 1 High,0.814,J
+Merrimac,Fountain 1 Low,0.692,J
+Merrimac,Fountain 2 High,0.676,J
+Merrimac,Fountain 2 Middle,0.588,J
+Merrimac,Fountain 2 Low,0.645,J
+Merrimac,Fountain 3 High,0.858,J
+Merrimac,Fountain 3 Low,2.33,J
+Merryman,Fountain 1 High,<2.0,U
+Merryman,Fountain 1 Middle,<2.0,U
+Merryman,Fountain 1 Low,<2.0,U
+Metcalfe,Fountain 1 High*,22,
+Metcalfe,Fountain 1 Low*,27,
+Metcalfe,Fountain 2*,16,
+Metcalfe,Fountain 3*,41,
+Meyering,Near Entrance,4.59,J
+Meyering,Fountain 1,0.594,J
+Meyering,Fountain 2 High,0.738,J
+Meyering,Fountain 2 Low,0.762,J
+Miami,Fountain 1 High,1.31,J
+Miami,Fountain 1 Middle,1.28,J
+Miami,Fountain 1 Lowe,1.37,J
+Micek,Fountain 1 High,<0.120,U
+Micek,Fountain 1 Middle,<0.120,U
+Micek,Fountain 1 Low,<0.120,U
+Midway Plaisance,Kitchen Sink,<2.0,U
+Midway Plaisance,Fountain 1,0.746,J
+Midway Plaisance,Fountain 2,0.655,J
+Midway Plaisance,Fountain 4,0.146,J
+Midway Plaisance,Fountain 5*,54.9,
+Midway Plaisance,Fountain 6,0.809,J
+Miller,Fountain 1 High*,21,
+Miller,Fountain 1 Low*,22,
+Minuteman,Fountain 1 High*,15.7,
+Minuteman,Fountain 1 Middle*,15.7,
+Minuteman,Fountain 1 Low*,15.7,
+Minuteman,Fountain 2*,31.7,
+Moccasin Ranch,Fountain 1*,59.8,
+Monticello,Fountain 1,1.01,
+Monument,Fountain 1*,21.6,
+Moore,Lobby - High,<0.120,U
+Moore,Lobby - Low,<0.120,U
+Moore,Fountain 1 High,<0.120,U
+Moore,Fountain 1 Middle,<0.120,U
+Moore,Fountain 1 Low,<0.120,U
+Moran,Club Room,1.82,J
+Moran,Fountain 1*,73.1,
+Moran,Fountain 2,1.92,
+Moran,Fountain 3*,49.4,
+Morgan Field,Fountain 1,10.6,
+Morgan Park Sports Center,Lobby - High,<0.120,U
+Morgan Park Sports Center,Lobby - Low,<0.120,U
+Morgan Park Sports Center,Upstairs - High,<0.120,U
+Morgan Park Sports Center,Upstairs - Low,<0.120,U
+Mozart,Lobby,0.587,J
+Mozart,Hallway by Bathrooms,0.272,J
+Mozart,Fountain 1*,16.6,
+Mt. Greenwood,Main Hallway,15.1,
+Mt. Greenwood,Follow-Up #1,0.271,J
+Mt. Greenwood,Follow-Up #2,0.383,J
+Mt. Greenwood,Follow-Up #3,0.518,J
+Mt. Greenwood,Follow-Up #4,0.684,J
+Mt. Greenwood,Follow-Up #5,0.670,J
+Mt. Greenwood,Follow-Up #6,0.638,J
+Mt. Greenwood,Women's Locker Room,2.55,J
+Mt. Greenwood,Kitchen Sink,<2.0,U
+Mt. Greenwood,Fountain 1 High*,35.8,
+Mt. Greenwood,Fountain 1 Low*,38.7,
+Mt. Greenwood,Fountain 2 High,2.49,J
+Mt. Greenwood,Fountain 2 Middle,2.97,J
+Mt. Greenwood,Fountain 2 Low,2.31,J
+Mt. Greenwood,Fountain 3*,46.7,
+Mt. Greenwood,Fountain 4 High,7.1,
+Mt. Greenwood,Fountain 4 Low,5.09,
+Mulberry,Fountain 1,11.5,
+Munroe,Club Room,9.71,
+Munroe,Fountain 1 High,0.472,J
+Munroe,Fountain 1 Middle,0.592,J
+Munroe,Fountain 1 Low,0.577,J
+Munroe,Fountain 2,3.41,J
+Murray,Club Room East*,88.2,
+Murray,Club Room West*,78.2,
+Nichols,Fountain 1 High,<0.120,U
+Nichols,Fountain 1 Low,<0.120,U
+Nichols,Fountain 2,1.32,J
+Nichols,Fountain 3*,157,
+Nichols,Fountain 4,2.21,J
+Ninebark,Fountain 1,20,
+Noethling,Fountain 1*,18,
+Noethling,Fountain 2 Dog,9.7,
+Normandy,Club Room,10.3,
+Normandy,Fountain 1*,59.4,
+Normandy,Fountain 2 High,7.89,
+Normandy,Fountain 2 Middle,9.29,
+Normandy,Fountain 2 Low,6.33,
+North Mayfair,Fountain 1*,37.2,
+North Park Village Nature Center,Hallway East,<0.120,U
+Northerly Island,Fountain 1,6.1,
+Northerly Island,Fountain 2 High,<2.0,U
+Northerly Island,Fountain 2 Low,<2.0,U
+Northerly Island,Fountain 3 High,<2.0,U
+Northerly Island,Fountain 3 Low,<2.0,U
+Norwood Park,Lobby,0.273,J
+Norwood Park,Fitness Center,<0.120,U
+Norwood Park,Women's Locker Room*,23.5,
+Norwood Park,Kitchen Sink,2.1,
+Norwood Park,Fountain 1 High,0.332,J
+Norwood Park,Fountain 1 Low,0.228,J
+Norwood Park,Fountain 1 Dog,0.239,J
+Norwood Park,Fountain 2 High*,20.5,
+Norwood Park,Fountain 2 Low*,16,
+Norwood Park,Fountain 3,3.86,J
+Norwood Park,Fountain 4,0.174,J
+Norwood Park,Fountain 5,2.21,J
+Norwood Park,Fountain 6*,20.5,
+Norwood Park,Fountain 7 High*,39.2,
+Norwood Park,Fountain 7 Low*,14.1,
+Nottingham,Fountain 1 High,1.54,J
+Nottingham,Fountain 1 Low,2.0,J
+Oakdale,Front Entrance,<0.120,U
+Oakdale,Kitchen Sink,<2.0,U
+Oakdale,Fountain 1 High,<0.120,U
+Oakdale,Fountain 1 Low,0.164,J
+Oakdale,Fountain 2 High,3.7,J
+Oakdale,Fountain 2 Low,3.73,J
+Oakdale,Fountain 3*,141,
+Ogden,Lobby - High,0.525,J
+Ogden,Lobby - Low,<0.120,U
+Ogden,Fountain 2,5.96,
+Ogden,Fountain 3 High,<0.120,U
+Ogden,Fountain 3 Low,<0.120,U
+Ogden,Fountain 4 High,0.143,J
+Ogden,Fountain 4 Low,0.133,J
+Ogden,Fountain 5,3.32,J
+O'Hallaren,Kitchen Sink,3.9,
+O'Hallaren,Fountain 1 High*,15.1,
+O'Hallaren,Fountain 1 Middle*,15,
+O'Hallaren,Fountain 1 Low*,12.3,
+O'Hallaren,Fountain 2 High,3.35,J
+O'Hallaren,Fountain 2 Low,3.39,J
+Ohio,Fountain 1 High,0.571,J
+Ohio,Fountain 1 Middle,0.665,J
+Ohio,Fountain 1 Low,0.57,J
+Ohio and Harding,Fountain 1 High*,22.7,
+Ohio and Harding,Fountain 1 Low*,21.3,
+Olympia,Front Lobby Test 1,2.53,J
+Olympia,Front Lobby Test 2,3.7,
+Olympia,Middle of Building,2.5,
+Olympia,Kitchen Sink,11,
+Olympia,Fountain 1*,34.3,
+Olympia,Fountain 2,2.18,J
+Olympia,Fountain 3*,43.9,
+Oriole,Inside Front Entrance,0.822,J
+Oriole,Fountain 1,6.18,
+Oriole,Fountain 2 High,2.07,J
+Oriole,Fountain 2 Middle,4.44,J
+Oriole,Fountain 2 Low,3.76,J
+Oriole,Fountain 3*,36.5,
+Oriole,Fountain 4,2.52,J
+Oriole,Fountan 5,4.54,J
+Oriole,Fontain 6 High*,26.8,
+Oriole,Fountain 6 Low*,20.7,
+Owens,Fitness Area,<0.120,U
+Owens,Hallway,<0.120,U
+Owens,Fountain 1,<2.0,
+Owens,Fountain 2 High,2.2,
+Owens,Fountain 2 Middle,2.3,
+Owens,Fountain 2 Low,2.2,
+Oz,Fountain 1 High*,18,
+Oz,Fountain 1 Low*,19,
+Oz,Fountain 2 High*,33,
+Oz,Fountain 2 Middle*,29,
+Oz,Fountain 2 Low*,18,
+Oz,Fountain 3 High,4.2,
+Oz,Fountain 3 Middle,4.2,
+Oz,Fountain 3 Low,4.9,
+Packingtown,Fountain 1*,311,
+Palmer,Main Lobby,0.19,J
+Palmer,Main Level Hallway,0.267,J
+Palmer,Fountain 1 High,0.211,J
+Palmer,Fountain 1 Low,0.183,J
+Palmer,Fountain 2 High,<0.120,U
+Palmer,Fountain 2 Low,0.152,J
+Palmer,Fountain 3 High,<0.120,U
+Palmer,Fountain 3 Low,<0.120,U
+Palmer,Fountain 4,14.6,
+Palmer,Fountain 5*,15.1,
+Palmer,Fountain 6,0.513,J
+Palmer,Fountain 7,0.921,J
+Palmer,Fountain 8*,22.9,
+Palmer Ceramics Building,Club Room,2.24,J
+Palmer Men's Gym Building,Lobby Area,<0.120,U
+Palmer Square,Fountain 1 High,0.266,J
+Palmer Square,Fountain 1 Middle,0.343,J
+Palmer Square,Fountain 1 Low,0.209,J
+Palmer Square,Fountain 2,0.426,J
+Palmisano,Fountain 1 High,0.156,J
+Palmisano,Fountain 1 Low,0.164,J
+Park 399,Fountain 1 High,0.231,J
+Park 399,Fountain 1 Low,0.177,J
+Park 442,Fountain 1*,49.2,
+Park 500,Fountain 1,<0.120,U
+Park 514,Fountain 4 High,<2.0,U
+Park 514,Fountain 4 Low,<2.0,U
+Park 514,Fountain 5 High,2.6,
+Park 514,Fountain 5 Low,2,
+Park 551,Fountain 1 High,<2.0,U
+Park 551,Fountain 1 Middle,<2.0,U
+Park 551,Fountain 1 Low,<2.0,U
+Park 551,Fountain 2 Dog,<2.0,U
+Park 552,Fountain 1 High,5.16,
+Park 552,Fountain 1 Middle,1.22,J
+Park 556,Fountain 1 High,<2.0,U
+Park 556,Fountain 1 Low,<2.0,U
+Park 556,Fountain 1 Middle,<2.0,U
+Park 568,Fountain 1 High,<0.120,U
+Park 568,Fountain 1 Middle,<0.120,U
+Park 569,Fountain 1 High,<2.0,U
+Park 569,Fountain 1 Low,<2.0,U
+Park 569,Fountain 1 Dog,<2.0,U
+Park 572,Fountain 1 High,<0.120,U
+Park 572,Fountain 1 Middle,<0.120,U
+Park 572,Fountain 1 Low,<0.120,U
+Park 572,Fountain 2 High,0.284,J
+Park 572,Fountain 2 Middle,0.32,J
+Park 572,Fountain 2 Low,0.39,J
+Park 572,Fountain 3 High,0.186,J
+Park 572,Fountain 3 Middle,0.248,J
+Park 572,Fountain 3 Low,0.167,J
+Park 574,Fountain 1 High,<2.0,U
+Park 574,Fountain 1 Middle,<2.0,U
+Park 574,Fountain 1 Low,<2.0,U
+Park View,Fountain 1 High*,120,
+Park View,Fountain 1 Low*,109,
+Park West,Fountain 1 High*,83,
+Park West,Fountain 1 Low*,66,
+Parsons,Fountain 1 High,0.629,J
+Parsons,Fountain 1 Middle,0.514,J
+Parsons,Fountain 1 Low,0.493,J
+Paschen,Fountain 1*,77,
+Pasteur,Club Room,<0.120,U
+Pasteur,Fountain 1,5.03,
+Pasteur,Fountain 2*,30.1,
+Periwinkle,Fountain 1 High*,77.4,
+Periwinkle,Fountain 1 Low*,67.3,
+Peterson,Hallway East,2.45,J
+Peterson,2nd Floor,0.343,J
+Peterson,Fountain 1*,50.5,
+Peterson,Fountain 2*,53.1,
+Peterson,Fountain 3,2.61,J
+Pietrowski,Fountain 1 - High,7.7,
+Pietrowski,Fountain 1 - Low,7.8,
+Pine,Fountain 1 High,2.8,
+Pine,Fountain 1 Low,2.8,
+Ping Tom,Near Washrooms,<0.120,U
+Ping Tom,Fitness Center,<0.120,U
+Ping Tom,Pool Deck Women's,<0.120,U
+Ping Tom,Pool Deck Men's,<0.120,U
+Ping Tom,Kitchen Sink,<2.0,U
+Ping Tom,Fountain 1 High,2.1,
+Ping Tom,Fountain 1 Low,2.1,
+Ping Tom,Fountain 2 High,<2.0,U
+Ping Tom,Fountain 2 Low,<2.0,U
+Ping Tom,Fountain 3 High,<2.0,U
+Ping Tom,Fountain 3 Low,<2.0,U
+Ping Tom,Fountain 4 High,<2.0,U
+Ping Tom,Fountain 4 Low,<2.0,U
+Piotrowski,Main Lobby - High,0.128,J
+Piotrowski,Main Lobby - Low,<0.120,U
+Piotrowski,Lower Level Nera Fitness - High,<0.120,U
+Piotrowski,Lower Level Nera Fitness - Low,0.271,J
+Piotrowski,Pool Area,<0.120,U
+Piotrowski,Men's Locker Room,0.481,J
+Piotrowski,Women's Locker Room,0.363,J
+Piotrowski,Pool Deck,3.43,J
+Piotrowski,Women's Washroom,0.153,J
+Piotrowski,Men's Washroom,1.12,J
+Piotrowski,Fountain 1 High,<0.120,U
+Piotrowski,Fountain 1 Low,<0.120,U
+Piotrowski,Fountain 2 High,<0.120,U
+Piotrowski,Fountain 2 Middle,<0.120,U
+Piotrowski,Fountain 2 Low,<0.120,U
+Piotrowski,Fountain 3 High*,12.5,
+Piotrowski,Fountain 3 Low*,22,
+Piotrowski,Fountain 4 High*,52.6,
+Piotrowski,Fountain 4 Low*,31.6,
+Piotrowski,Fountain 5 High,1.75,J
+Piotrowski,Fountain 5 Low,1.22,J
+Piotrowski,Fountain 6 High*,12,
+Piotrowski,Fountain 6 Low*,15.7,
+Pleasant Point,Fountain 1 High,2.16,J
+Pleasant Point,Fountain 1 Middle,2.55,J
+Pleasant Point,Fountain 1 Low,2.16,J
+Poplar,Fountain 1 High*,15,
+Poplar,Fountain 1 Low*,15,
+Portage,Fountain 1 High*,92.4,
+Portage,Fountain 1 Low*,102,
+Portage,Fountain 2 High,0.372,J
+Portage,Fountain 2 Low,0.345,J
+Portage,Fountain 2 Dog,0.575,J
+Portage,Fountain 3*,59,
+Portage,Fountain 4 High,1.83,J
+Portage,Fountain 4 Low,1.58,J
+Portage,Fountain 5 High,1.85,J
+Portage,Fountain 5 Low,2.43,J
+Portage,Fountain 6*,39.5,
+Portage,Fountain 7 High*,7.07,
+Portage,Fountain 7 Low*,15.7,
+Portage,Fountain 8 High,0.269,J
+Portage,Fountain 8 Middle,0.129,J
+Portage,Fountain 8 Low,0.159,J
+Portage,Fountain 9,6.73,
+Portage,Fountain 10*,36.8,
+Portage,Fountain 11*,22.3,
+Portage,Fountain 12 East*,23.2,
+Portage,Fountain 12 South*,24.5,
+Portage,Fountain 12 West*,23.3,
+Portage,Fountain 12 North *,29.9,
+Portage,Fountani 13*,75.8,
+Portage,Fountain 14*,43.7,
+Portage Senior Center,Lobby - High,0.149,J
+Portage Senior Center,Lobby - Low,0.142,J
+Pottawatomie,Hallway by Bathroom,0.293,J
+Pottawatomie,Fountain 1 High,4.5,
+Pottawatomie,Fountain 1 Low,8.7,
+Pottawatomie,Fountain 1 Dog,<2.0,
+Pottawatomie,Fountain 2,3.7,
+Pottawatomie,Fountain 3*,30,
+Pottawatomie,Fountain 4,2.8,
+Pottawatomie,Fountain 5 High,<2.0,
+Pottawatomie,Fountain 5 Low,<2.0,
+Pritzker,Fountain 1 High,<2.0,U
+Pritzker,Fountain 1 Low,<2.0,U
+Privet,Fountain 1*,130,
+Prospect Gardens,Fountain 1,3.3,J
+Prospect Gardens,Fountain 2*,23.3,
+Pulaski,East Corridor,2.32,J
+Pulaski,West Corridor,0.122,J
+Pulaski,Pool Deck,1.5,J
+Pulaski,Outside Pool Area,0.236,J
+Pulaski,Kitchen Sink,2.9,
+Pulaski,Fountain 1,0.582,J
+Pulaski,Fountain 2,1.43,J
+Pulaski,Fountain 3,<0.120,
+Pulaski,Fountain 5 High,1.19,J
+Pulaski,Fountain 5 Low,0.635,J
+Railroad Junction,Fountain 1*,27.7,
+Rainbow Beach,Near Gym,<0.120,U
+Rainbow Beach,Fitness Center,<0.120,U
+Rainbow Beach,Fountain 1,<2.0,U
+Rainbow Beach,Fountan 2,<2.0,U
+Rainbow Beach,Fountain 3,2.6,
+Rainbow Beach,Fountain 4,<2.0,U
+Rainbow Beach,Fountain 5,<2.0,U
+Rainbow Beach,Fountain 6,7.3,
+Rainbow Beach,Fountain 7*,40,
+Rainer,Fountain 1,0.207,J
+Rainer,Fountain 2,0.237,J
+Rainer,Fountain 3,10.8,
+Ravenswood Manor,Fountain 1,0.128,J
+Renaissance,Fountain 1,<0.120,U
+Revere,Main Lobby,0.885,J
+Revere,Basement by Locker Rooms*,17.6,
+Revere,Fountain 1,<0.120,U
+Revere,Fountain 2*,32.3,
+Revere,Fountain 3 High,0.16,J
+Revere,Fountain 3 Middle,0.192,J
+Revere,Fountain 3 Low,0.298,J
+Revere,Fountain 4,13.8,
+Revere Boys & Girls Club,Game Room,0.351,J
+Revere Boys & Girls Club,Kitchen,0.603,J
+Reyes,Fountain 1*,41,
+Ridge,Entrance Near Counter,0.123,J
+Ridge,Outside 2nd Floor Gym - High,0.33,J
+Ridge,Outside 2nd Floor Gym - Low,0.341,J
+Ridge,Pool Area - High,8.64,
+Ridge,Pool Area - Low,9.05,
+Ridge,Kitchen Sink,5.1,
+Ridge,Fountain 2,12,
+Ridge,Fountain 3*,104,
+Riis,Entrance,0.516,J
+Riis,Fountain 2,13.1,
+Riis,Fountain 3,2.64,J
+Riis,Fountain 4*,15.4,
+Riis,Fountain 5,2.79,J
+Riis,Fountain 6,8.36,
+Riis,Fountain 7,10.1,
+Riis,Fountain 8,5.36,
+Riis,Fountain 9,0.308,J
+Riis,Fountain 10*,27.7,
+Riis,Fountain 11 High,<0.120,U
+Riis,Fountain 11 Low,<0.120,U
+Riis,Fountain 12 High*,70.8,
+Riis,Fountain 12 Low*,71.7,
+Riis,Fountain 13,0.179,J
+Riis,Fountain 14,<0.120,U
+Riis,Fountain 15,<0.120,U
+Riis,Fountain 16,2.21,J
+River,Outside Bathrooms,0.236,J
+River,Main Lobby,<0.120,U
+River,Fountain 1,0.462,J
+River,Fountain 2 High,0.219,J
+River,Fountain 2 Low,0.445,J
+River,Fountain 3,0.17,J
+River,Fountain 4 High,<0.120,U
+River,Fountain 4 Middle,<0.120,U
+River,Fountain 4 Low,<0.120,U
+River,Fountain 5 High,<0.120,U
+River,Fountain 5 Low,<0.120,U
+River,Fountain 5 Dog,<0.120,U
+River,Fountain 6,2.68,J
+River,Fountain 7,4.13,J
+River,Fountain 8 High,0.593,J
+River,Fountain 8 Low,0.654,J
+Roberts Square,Fountain 1,3.72,J
+Robichaux,Lobby - High,1.01,J
+Robichaux,Lobby - Low,0.46,J
+Robichaux,Women's Locker Room,4.12,J
+Robichaux,Men's Locker Room,7.46,
+Robichaux,Fountain 1,11.3,
+Robichaux,Fountain 2,0.782,J
+Robichaux,Fountain 3*,38.4,
+Robinson,Main Lobby,4,
+Robinson,Kitchen Sink,<2.0,U
+Robinson,Fountain 1 High,0.635,J
+Robinson,Fountain 1 Middle,4.26,J
+Robinson,Fountain 1 Low,2.99,J
+Robinson,Fountain 2,14.6,
+Rogers,Main Lobby,0.154,J
+Rogers,Fountain 1*,28.3,
+Rogers,Fountain 2,14.7,
+Rogers,Fountain 3,5.19,
+Rogers,Fountain 4*,16,
+Rogers Beach,Fountain 1 High*,37,
+Rogers Beach,Fountain 1 Low*,35,
+Ronan,Fountain 1 High,0.261,J
+Ronan,Fountain 1 Low,0.145,J
+Ronan,Fountain 1 Dog,0.204,J
+Ronan,Fountain 2 High,0.194,J
+Ronan,Fountain 2 Low,0.229,J
+Roosevelt,Fountain 1*,22,
+Rosedale,Lobby,0.819,J
+Rosedale,Fountain 1 High,2.28,J
+Rosedale,Fountain 1 Middle,0.479,J
+Rosedale,Fountain 1 Low,0.546,J
+Rosedale,Fountain 2,0.99,J
+Rosenblum,Fountain 1 High,1.99,J
+Rosenblum,Fountain 1 Low,0.487,J
+Rosenblum,Fountain 2 High,2.6,J
+Rosenblum,Fountain 2 Low,2.06,J
+Rosenblum,Fountain 3 High,0.941,J
+Rosenblum,Fountain 3 Low,0.842,J
+Rowan,By East Gym Doors,0.39,J
+Rowan,By West Gym Doors,0.489,J
+Rowan,Fountain 1*,67,
+Rowan,Fountain 2*,17,
+Rowan,Fountain 3 High,<2.0,U
+Rowan,Fountain 3 Low,<2.0,U
+Russell Square,Northwest Hallway,0.721,J
+Russell Square,Fountain 1*,76,
+Russell Square,Fountain 2*,18,
+Russell Square,Fountain 4*,17,
+Russell Square,Fountain 5,3,
+Russell Square,Fountain 6,13,
+Rutherford Sayre,Outside Gym,8.28,
+Rutherford Sayre,Fountain 1 High,0.304,J
+Rutherford Sayre,Fountain 1 Low,0.349,J
+Rutherford Sayre,Fountain 2 High,<0.120,U
+Rutherford Sayre,Fountain 2 Middle,<0.120,U
+Rutherford Sayre,Fountain 2 Low,<0.120,U
+Rutherford Sayre,Fountain 3,10.1,
+Sacramento,Fountain 1 High*,19,
+Sacramento,Fountain 1 Low*,19.5,
+Sauganash,Hallway,0.474,J
+Sauganash,Fountain 1,1.28,J
+Sauganash,Fountain 2 High,<0.120,U
+Sauganash,Fountain 2 Middle,<0.120,U
+Sauganash,Fountain 2 Low,<0.120,U
+Sauganash,Fountain 3,1.12,J
+Schaefer,Fountain 1*,34,
+Schreiber,Fountain 1 High,3.3,
+Schreiber,Fountain 1 Middle,3.2,
+Schreiber,Fountain 1 Low,3.5,
+Schreiber,Fountain 2 High,<2.0,U
+Schreiber,Fountain 2 Low,<2.0,U
+Scottsdale,Hallway by Gym,0.531,J
+Scottsdale,Fountain 1,6.44,
+Seneca,Fountain 1 High,<2.0,U
+Seneca,Fountain 1 Low,<2.0,U
+Senka,Fountain 1 High,<0.120,U
+Senka,Fountain 1 Middle,0.168,J
+Senka,Fountain 1 Low,0.482,J
+Senka,Fountain 2 High,0.168,J
+Senka,Fountain 2 Middle,0.202,J
+Senka,Fountain 2 low,0.295,J
+Senka,Fountain 3 High,<0.120,U
+Senka,Fountain 3 Middle,0.179,J
+Senka,Fountain 3 Low,<0.120,U
+Senka,Fountain 4 High,0.37,J
+Senka,Fountain 4 Low,0.263,J
+Senn,Fountain 1 High,<2.0,U
+Senn,Fountain 1 Low,<2.0,U
+Senn,Fountain 2 High*,26,
+Senn,Fountain 2  Low*,8.5,
+Senn,Founatin 3 High*,35,
+Senn,Fountain 3 Low*,36,
+Senn,Fountain 4 high,6.6,
+Senn,Fountain 4 Low,7.2,
+Senn,Fountain 5 High,<2.0,U
+Senn,Founatin 5 Low,<2.0,U
+Seward,Main Lobby,<0.120,U
+Seward,Kitchen Sink,<2.0,U
+Seward,Fountain 1 High,<2.0,U
+Seward,Fountain 1 Low,<2.0,U
+Seward,Fountain 1 Dog,<2.0,U
+Seward,Fountain 2*,110,
+Seward,Fountain 3,<2.0,U
+Shabonna,Lobby,0.55,J
+Shabonna,Basement by TR Room,<0.120,U
+Shabonna,Women's Locker Room,0.96,J
+Shabonna,Men's Locker Room,<0.120,U
+Shabonna,Fountain 1 High,0.243J,
+Shabonna,Fountain 1 Middle,0.227,J
+Shabonna,Fountain 1 Low,0.208,J
+Shabonna,Fountain 2 High*,16.8,
+Shabonna,Fountain 2 Low*,17,
+Shabonna,Fountain 3 High,8.25,
+Shabonna,Fountain 3 Low,8.41,
+Shabonna,Fountain 4 High,0.716,J
+Shabonna,Fountain 4 Low,0.718,J
+Shedd,By Gym,0.679,J
+Shedd,By Lobby,1.33,J
+Shedd,Kitchen Sink,<2.0,U
+Shedd,Fountain 1,3.73,J
+Sheil,1st Floor by Restrooms,0.489,J
+Sheil,2nd Floor by Theater Room,0.962,J
+Sheil,Kitchen Sink,<2.0,U
+Sheil,Fountain 1,<2.0,U
+Sheridan,1st Floor Lobby,<0.120,U
+Sheridan,2nd Floor North Gym Entrance,13.1,
+Sheridan,2nd Floor South Gym Entrance,1.49,J
+Sheridan,Men's Locker Room,1.01,J
+Sheridan,Pool Area - High,0.465,J
+Sheridan,Pool Area - Low,0.46,J
+Sheridan,Kitchen Sink,<2.0,U
+Sheridan,Fountain 1 High*,35,
+Sheridan,Fountain 1 Low*,31,
+Sheridan,Fountain 2 High,3.3,
+Sheridan,Fountain 2 Middle,3.3,
+Sheridan,Fountain 2 Low,3.2,
+Sherman,Main Lobby,0.241,J
+Sherman,Women's Locker Room,<0.120,U
+Sherman,Men's Locker Room,0.152,J
+Sherman,Fountain 1 High*,58.6,
+Sherman,Fountain 1 Low*,69,
+Sherman,Fountain 2 High,<0.120,U
+Sherman,Fountain 2 Middle,<0.120,U
+Sherman,Fountain 2 Low,<0.120,U
+Sherman,Fountain 3,8.32,
+Sherman,Fountain 4*,19.6,
+Sherman,Fountain 5*,69.3,
+Sherman,Fountain 6 High,6.14,
+Sherman,Fountain 6 Low,7.55,
+Sherwood,Lobby,1.54,J
+Sherwood,Kitchen Sink,<2.0,U
+Sherwood,Fountain 1,0.246,J
+Sherwood,Fountain 2,<0.120,U
+Sherwood,Fountain 3 High,0.132,J
+Sherwood,Fountain 3 Low,0.156,J
+Simons,Lobby,0.482,J
+Simons,Fountain 1 High*,16.6,
+Simons,Fountain 1 Low*,18.9,
+Skinner,Lobby,0.195,J
+Skinner,Kitchen Sink,<2.0,U
+Skinner,Fountain 1 High,<2.0,U
+Skinner,Fountain 1 Low,<2.0,U
+Skinner,Fountain 1 Dog,<2.0,U
+Skinner,Fountain 2 High,<2.0,U
+Skinner,Fountain 2 Middle,<2.0,U
+Skinner,Fountain 2 Low,<2.0,U
+Skinner,Fountain 3 High,<2.0,U
+Skinner,Fountain 3 Low,<2.0,U
+Skinner,Fountain 3 Dog,<2.0,U
+Smith (Joseph Higgins),East End,1.48,J
+Smith (Joseph Higgins),West End,0.862,J
+Smith (Joseph Higgins),Kitchen Sink,<2.0,U
+Smith (Joseph Higgins),Fountain 1 High*,23.9,
+Smith (Joseph Higgins),Fountain 1 Middle*,23.7,
+Smith (Joseph Higgins),Fountain 1 Low*,23.2,
+Smith (Joseph Higgins),Fountain 2*,21.9,
+Smith (Joseph Higgins),Fountain 3,3.28,J
+Smith (Joseph Higgins),Fountain 4,7.69,
+Smith (Wendell),Main Lobby,0.831,J
+Smith (Wendell),Fountain 1,2.49,J
+Smith (Wendell),Fountain 2*,67.5,
+Smith (Wendell),Fountain 3*,30.9,
+Snapping Turtle,Fountain 1,13.2,
+Snowberry,Fountain 1,7.31,
+South Lakeview,Fountain 1 High*,18,
+South Lakeview,Fountain 1 Low*,17,
+South Shore Cultural Center,Basement Near Restrooms,<0.120,U
+South Shore Cultural Center,Near Art Gallery,0.359,J
+South Shore Cultural Center,Near Restaurant,0.373,J
+South Shore Cultural Center,Mezzanine Near Men's Room,1.2,J
+South Shore Cultural Center,Oak Room Sink,<2.0,U
+South Shore Cultural Center,CAN Sink,<2.0,U
+South Shore Cultural Center,Dinning Room Sink,<2.0,U
+Spikings Farm,Fountain 1 High,8.93,
+Spikings Farm,Fountain 1 Low,9.91,
+Spruce,Fountain 1*,24.8,
+Stanton,Pool Area,<0.120,U
+Stanton,Gym Entrance - High,<0.120,U
+Stanton,Gym Entrance - Low,<0.120,U
+Stanton,Kitchen Sink,<2.0,U
+Stanton,Fountain 1,<2.0,U
+Starr,Fountain 1 High,<2.0,U
+Starr,Fountain 1 Middle,<2.0,U
+Starr,Fountain 1 Low,<2.0,U
+Stars and Stripes,Fountain 1 High,5.88,
+Stars and Stripes,Fountain 1 Middle,7.58,
+Stars and Stripes,Fountain 1 Low,6.66,
+Stout,Foutain 1 High*,169,
+Stout,Foutain 1 Low*,174,
+Stout,Foutain 2*,19.9,
+Strohacker,Fountain 1*,39.6,
+Sumac,Fountain 1 High,9.2,
+Sumac,Fountain 1 Middle,9.6,
+Sumac,Fountain 1 Low,9.0,
+Sun-Yet Sen,Fountain 1 High,<2.0,U
+Sun-Yet Sen,Fountain 1 Low,<2.0,U
+Supera,Fountain 1 High,6.9,
+Supera,Fountain 1 Middle,6.7,
+Supera,Fountain 1 Low,6.6,
+Superior,Fountain 1 High*,15.4,
+Superior,Fountain 1 Low*,13.3,
+Sweet Clover,Fountain 1 High,5.73,
+Sweet Clover,Fountain 1 Low,6.4,
+Sycamore,Fountian 1*,142,
+Taylor,Lobby,<0.120,U
+Taylor,1st Floor Hallway,0.191,J
+Taylor,2nd Floor Hallway,1.82,J
+Taylor,Kitchen Sink,<2.0,U
+Taylor,Fountain 1,14,
+Taylor,Fountain 2,9.5,
+Taylor Lauridsen,Lobby,<0.750,U
+Taylor Lauridsen,Fitness Center,0.198,J
+Taylor Lauridsen,Kitchen Sink,<2.0,U
+Taylor Lauridsen,Fountain 1 High,<0.120,U
+Taylor Lauridsen,Fountain 1 Middle,0.157,J
+Taylor Lauridsen,Fountain 1 Low,0.127,J
+Taylor Lauridsen,Fountain 2,14.8,
+Throop,Fountain 1,<2.0,U
+Thuis,Fountain 1*,125,
+Till-Mobley,Fountain 1,13.4,
+Tilton,Fountain 1,<0.120,U
+Touhy,Game Room,1.04,J
+Touhy,Fountain 1 High,<2.0,
+Touhy,Fountain 1 Middle,<2.0,
+Touhy,Fountain 1 Low,<2.0,
+Touhy,Fountain 2 High*,52,
+Touhy,Fountain 2 Low*,100,
+Touhy,Fountain 3*,73,
+Touhy-Herbert,Fountain 1,12,
+Touhy-Herbert,Fountain 2,3.9,
+Trebes,Fountain 2,<2.0,U
+Triangle,Fountain 1 High,<2.0,
+Triangle,Fountain 1 Low,9,
+Trumbull,Main Lobby,<0.120,U
+Trumbull,2nd Floor Near Washrooms,0.247,J
+Trumbull,North Lobby Near Gym,1.28,J
+Trumbull,Men's Locker Room,4.90,J
+Trumbull,Fountain 1,<2.0,U
+Trumbull,Fountain 2,<2.0,U
+Trumbull,Fountain 4,<2.0,U
+Trumbull,Fountain 5 High,<2.0,U
+Trumbull,Fountain 6 High,3.3,
+Trumbull,Fountain 6 Low,9.4,
+Tuley,Lobby - High,0.424,J
+Tuley,Lobby - Low,0.609,J
+Tuley,Men's Locker Room,9.75,
+Tuley,Women's Locker Room,1.97,J
+Tuley,Fountain 1,4.49,J
+Tuley,Fountain 2 High,0.291,J
+Tuley,Fountain 2 Low,0.304,J
+Tuley,Fountain 3,<0.120,U
+Tuley,Fountain 4,10.3,
+Tuley,Fountain 5,0.153,J
+Tuley,Fountain 6,0.389,J
+Tuley,Fountain 7 High,<0.120,U
+Tuley,Fountain 7 Middle,0.296,J
+Tuley,Fountain 7 Low,<0.120,U
+Union,2nd Floor Lobby,1.77,J
+Union,Near Game Room,5.98,
+Union,1st Floor Lobby,0.235,J
+Union,Kitchen Sink,<2.0,U
+Union,Fountain 1*,77,
+Union,Fountain 2 High,<2.0,U
+Union,Fountain 2 Middle,<2.0,U
+Union,Fountain 2 Low,<2.0,U
+Union,Fountain 3,<2.0,U
+Union,Fountain 4,<2.0,U
+Union Gym Building,Near Entrance,<0.120,U
+Unity,Fountain 1,<0.120,U
+Unity,Fountain 2,0.248,J
+Unity,Fountain 3,0.157,J
+Unity,Fountain 4,1.08,J
+Valley Forge,Lobby - High,<0.120,U
+Valley Forge,Lobby - Low,<0.120,U
+Valley Forge,Fitness Center - High,0.17,J
+Valley Forge,Fitness Center - Low,0.135,J
+Valley Forge,Fountain 1*,36.5,
+Valley Forge,Fountain 2 High,3.66,
+Valley Forge,Fountain 2 Middle,3.43,
+Valley Forge,Fountain 2 Low,4.56,
+Veteran's Memorial,Club Room,2.85,J
+Veteran's Memorial,Fountain 1 High,<2.0,U
+Veteran's Memorial,Fountain 1 Middle,<2.0,U
+Veteran's Memorial,Fountain 1 Low,<2.0,U
+Violet,Fountain 1,3.41,J
+Vittum,1st Floor by Office - High,0.521,J
+Vittum,1st Floor by Office - Low,0.459,J
+Vittum,2nd Floor by Special Rec - High,0.542,J
+Vittum,2nd Floor by Special Rec - Low,0.481,J
+Vittum,Kitchen Sink,<2.0,J
+Vittum,Fountain 1 High,10.5,
+Vittum,Fountain 1 Low,9.19,
+Vittum,Fountain 2 High,12.4,
+Vittum,Fountain 2 Middle,11.8,
+Vittum,Fountain 2 Low,10.3,
+Vittum,Fountain 3 High,12.4,
+Vittum,Fountain 3 Low,13.5,
+Vogle,Fountain 1*,51.6,
+Wallace,Fountain 1 High,4.03,J
+Wallace,Fountain 1 Low,4.45,J
+Walnut,Fountain 1 High*,34.9,
+Walnut,Fountain 1 Low*,33.8,
+Walsh,Fountain 1 High,<2.0,U
+Walsh,Fountain 1 Middle,<2.0,U
+Walsh,Fountain 1 Low,<2.0,U
+Walsh,Fountain 2 High,<2.0,U
+Walsh,Fountain 2 Middle,<2.0,U
+Walsh,Fountain 2 Low,<2.0,U
+Walsh,Fountain 3 High,<2.0,U
+Walsh,Fountain 3 Middle,<2.0,U
+Walsh,Fountain 3 Low,<2.0,U
+Walsh,Fountain 4 High*,15,
+Walsh,Fountain 4 Low*,13,
+Wang,Fountain 1 High,<2.0,U
+Wang,Fountain 1 Middle,<2.0,U
+Wang,Fountain 1 Low,<2.0,U
+Ward,Fountain 1 High,<2.0,U
+Ward,Fountain 1 Low,<2.0,U
+Ward,Fountain 1 Dog,<2.0,U
+Ward,Fountain 2 High,<2.0,U
+Ward,Fountain 2 Middle,<2.0,U
+Ward,Fountain 2 Low,<2.0,U
+Warren,Main Lobby,0.24,J
+Warren,Outside Locker Room,1.43,J
+Warren,Fountain 1*,41,
+Warren,Fountain 2*,186,
+Warren,Fountain 3*,163,
+Warren,Fountain 3.5*,21.4,
+Warren,Fountain 3.7*,19.3,
+Warren,Fountain 4*,50.4,
+Warren,Fountain 5*,17.7,
+Warren,Fountain 6*,40.9,
+Washington (George),1st Floor Near Men's Room,1.21,J
+Washington (George),1st Floor Near Women's Room,1.27,J
+Washington (George),1st Floor North Hallway,1.43,J
+Washington (George),Women's Locker Room,1.18,J
+Washington (George),Men's Locker Room,3.32,J
+Washington (George),Dance Studio,0.629,J
+Washington (George),Fountain 1,3.84,J
+Washington (George),Fountain 2,4.85,J
+Washington (George),Fountain 3*,24,
+Washington (George),Fountain 4*,22.7,
+Washington (George),Fountain 5*,15.4,
+Washington (George),Fountain 6*,46.6,
+Washington (George),Fountain 7,5.13,
+Washington (George),Fountain 8,0.424,J
+Washington (George),Fountain 9*,35.9,
+Washington (George),Fountain 10,5.04,
+Washington (George),Fountain 11,0.749,J
+Washington (George),Fountain 12,9,
+Washington (George),Fountain 13*,30.8,
+Washington (George),Fountain 14 High,0.177,J
+Washington (George),Fountain 14 Low,0.191,J
+Washington (George),Fountain 15 High,<0.120,U
+Washington (George),Fountain 15 Middle,<0.120,U
+Washington (George),Fountain 15 Low,<0.120,U
+Washington (George),Fountain 16*,24.9,
+Washington (George),Fountain 18 High,0.12,J
+Washington (George),Fountain 18 Low,0.243,J
+Washington (Harold),Fountain 1,2.09,J
+Washington (Harold),Fountain 2,<0.120,U
+Washington (Harold),Fountain 3,1.66,J
+Washington Memorial,Fountain 1 High,<2.0,U
+Washington Memorial,Fountain 1 Low,<2.0,U
+Washington Square,Fountain 1 High,<2.0,U
+Washington Square,Fountain 1 Low,<2.0,U
+Washtenaw,Club Room*,21,
+Washtenaw,Fountain 1 High*,10.3,
+Washtenaw,Fountain 1 Middle*,25.4,
+Washtenaw,Fountain 1 Low*,23.4,
+Webster,Fountain 1 High,<2.0,U
+Webster,Fountain 1 Low,<2.0,U
+Weisman,Fountain 1 High,2.0,
+Weisman,Fountain 1 Middle,<2.0,U
+Weisman,Fountain 1 Low,2.2,
+Welles,Main Hallway,0.414,J
+Welles,Men's Locker Room,8.98,
+Welles,Women's Locker Room,2.3,J
+Welles,Pool Deck,0.555,J
+Welles,Fountain 1 High,<0.120,U
+Welles,Fountain 1 Midle,<0.120,U
+Welles,Fountain 1 Low,<0.120,U
+Welles,Fountain 2 High,5.06,
+Welles,Fountain 2 Low,5.38,
+Welles,Fountain 3 High,2.9,J
+Welles,Fountain 3 Middle,1.13,J
+Welles,Fountain 3 Low,2.28,J
+Welles,Fountain 4 High,0.39,J
+Welles,Fountain 4 Low,0.397,J
+Welles,Fountain 4 Dog,0.125,J
+Wendt,Fountain 1,3.6,
+Wentworth,Lobby,<0.120,U
+Wentworth,Fountain 1,14.5,
+Wentworth,Fountain 2 High,<0.120,U
+Wentworth,Fountain 2 Middle,<0.120,U
+Wentworth,Fountain 2 Low,<0.120,U
+Wentworth,Fountain 3*,54.7,
+Wentworth Garden,Near Lobby,<2.0,U
+Wentworth Garden,Kithen Sink,<2.0,U
+Wentworth Garden,Fountain 1 High,<0.120,U
+Wentworth Garden,Fountain 1 Low,<0.120,U
+Wesolek,Fountain 1 High*,30,
+Wesolek,Fountain 1 Low*,21,
+West Chatham,Main Lobby,1.37,J
+West Chatham,Fountain 1,0.96,J
+West Chatham,Fountain 2 High,<0.120,U
+West Chatham,Fountain 2 Low,<0.120,U
+West Lawn,Hallway by Kitchen - High,0.659,J
+West Lawn,Hallway by Kitchen - Low,0.417,J
+West Lawn,Men's Locker Room - North,1.07,J
+West Lawn,Men's Locker Room - South,0.996,J
+West Lawn,Women's Locker Room - High,1.1,J
+West Lawn,Women's Locker Room - Low,0.867,J
+West Lawn,Fountain 1 High,4.50,J
+West Lawn,Fountain 1 Middle,5.48,
+West Lawn,Fountain 1 Low,8.1,
+West Lawn,Fountain 2 High*,15.3,
+West Lawn,Fountain 2 Low*,14,
+West Lawn,Fountain 3 High,2.47,J
+West Lawn,Fountain 3 Low,2.47,J
+West Lawn,Fountain 4 High,2.71,J
+West Lawn,Fountain 4 Low,3.44,J
+West Lawn,Fountain 5 High*,38.6,
+West Lawn,Fountain 5 Low*,39,
+West Pullman,Pool Deck Area,2.19,J
+West Pullman,Main Lobby,<0.120,U
+West Pullman,Main Level Near Gym,0.289,J
+West Pullman,Lower Level Club Room,0.744,J
+West Pullman,Fountain 1*,19.9,
+Western,Fountain 1 High,8.16,
+Western,Fountain 1 Low,8.36,
+White,Fountain 1*,28.2,
+Wicker,Lobby,0.194,J
+Wicker,Kitchen Sink,<2.0,U
+Wicker,Fountain 1 High,0.53,J
+Wicker,Fountain 1 Low,1.23,J
+Wicker,Fountain 2*,34.8,
+Wicker,Fountain - Dog,<0.120,U
+Wicker,Fountain 5,5.31,
+Wieboldt,Fountain 1*,60,
+Wildwood,Fountain 1 High*,21.9,
+Wildwood,Fountain 1 Low*,22.4,
+Wildwood,Fountain 2 High*,31.8,
+Wildwood,Fountain 2 Low*,16.1,
+Williams,Fountain 2,4.1,
+Williams-Davis,Fountain 1 High,<2.0,U
+Williams-Davis,Fountain 1 Low,<2.0,U
+Willye White,Lobby,<0.120,U
+Willye White,Gym Hallway West,<0.120,U
+Willye White,Fountain 1 High,<2.0,
+Willye White,Fountain 1 Low,<2.0,U
+Wilson (Frank),Club Room,0.201,J
+Wilson (Frank),Fountain 1*,51.2,
+Wilson (Frank),Fountain 2 High*,1.21,J
+Wilson (Frank),Fountain 2 Middle*,49.6,
+Wilson (Frank),Fountain 2 Low*,<0.120,U
+Wilson (Frank),Fountain 3*,23.9,
+Wilson (John) Community Center,Hallway Near Washrooms,0.789,J
+Wilson (John) Community Center,Fountain 1 High,4.11,J
+Wilson (John) Community Center,Fountain 1 Low,5.26,
+Winnemac,Fountain 1 High,0.121,J
+Winnemac,Fountain 1 Middle,0.121,J
+Winnemac,Fountain 1 Low,<0.120,U
+Wolcott,Fountain 1 High,14.8,
+Wolcott,Fountain 1 Low,14.4,
+Wolfe,Main Lobby,1.18,J
+Wolfe,Fountain 1,4,
+Woodhull,Main Lobby,0.231,J
+Woodhull,Fountain 1 High,0.381,J
+Woodhull,Fountain 1 Middle,0.717,J
+Woodhull,Fountain 1 Low,0.284,
+Wrightwood,Fountain 1 Low*,26,
+Wrightwood,Fountain 1 Middle*,31,
+Wrightwood,Fountain 1 High*,26,
+Wrightwood,Fountain 2*,24,
+Zatterberg,Fountain 1*,86,
