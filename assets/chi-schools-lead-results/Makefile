@@ -1,5 +1,5 @@
 PG_DB=cps-lead
-CSV=school_lead_report_utf8.csv
+CSV=manual_input_schools.csv
 
 .PHONY: clean
 clean:
@@ -14,7 +14,7 @@ school_coordinates.csv: lead_reports
 	python scripts/school_coordinates.py $(PG_DB) > $@ 
 
 missing_school_coordinates.csv: school_coordinates.csv
-	cat error.csv | scripts/error_coordinates.py > $@ 
+	cat error.csv | python scripts/error_coordinates.py > $@ 
 
 geocoded_schools: school_coordinates.csv missing_school_coordinates.csv
 	csvsql --db postgresql:///$(PG_DB) --table school_coordinates --insert school_coordinates.csv

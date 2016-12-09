@@ -21,7 +21,7 @@ cur = conn.cursor()
 
 cur.execute("SELECT DISTINCT school from lead_reports;")
 
-gmaps = googlemaps.Client(key=secrets.GOOGLE_KEY)
+gmaps = googlemaps.Client(key=secrets.GEOCODING_KEY)
 
 writer = csv.writer(sys.stdout)
 

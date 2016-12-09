@@ -29,6 +29,6 @@ for record in reader:
     except TypeError:
         pass
     except IndexError:
-        school = record[0]
+        school = record[0][0]
         out = [school, '', '', '']
         writer.writerow(out)
