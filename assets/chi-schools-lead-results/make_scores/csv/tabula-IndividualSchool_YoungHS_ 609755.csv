@@ -1,0 +1,233 @@
+School Short Name,Facility ID,Sample ID #,Sample Location,Sample Collection Time & Date,,Test Result (ppb),Test Results
+Young HS-Building A,51568,51568-B-KIT-KS01-01,Kitchen,6:20AM,,1.1,BA
+Young HS-Building A,51568,51568-B-KIT-KS01-02,Kitchen,6:20AM,,0.92,BA
+Young HS-Building A,51568,51568-B-KIT-KS01-03,Kitchen,6:20AM,,0.36,BA
+Young HS-Building A,51568,51568-B-KIT-KS01-04,Kitchen,6:20AM,,0.23,BA
+Young HS-Building A,51568,51568-B-KIT-KS01-05,Kitchen,6:20AM,,0.27,BA
+Young HS-Building A,51568,51568-B-HAL-F01-01,Hall Outside Engineer Office,6:25AM,,0.29,BA
+Young HS-Building A,51568,51568-B-HAL-F01-02,Hall Outside Engineer Office,6:25AM,,0.28,BA
+Young HS-Building A,51568,51568-B-HAL-F01-03,Hall Outside Engineer Office,6:25AM,,0.31,BA
+Young HS-Building A,51568,51568-B-HAL-F01-04,Hall Outside Engineer Office,6:25AM,,0.34,BA
+Young HS-Building A,51568,51568-B-HAL-F01-05,Hall Outside Engineer Office,6:25AM,,0.32,BA
+Young HS-Building A,51568,51568-2-HAL-F01-01,Hall in East Dining Area Left,6:30AM,,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F01-02,Hall in East Dining Area Left,6:30AM,,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F01-03,Hall in East Dining Area Left,6:30AM,,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F01-04,Hall in East Dining Area Left,6:30AM,,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F01-05,Hall in East Dining Area Left,6:30AM,,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F03-01,Left Fountain East end of FL,6:35AM,,17,AA
+Young HS-Building A,51568,51568-2-HAL-F03-02,Left Fountain East end of FL,6:35AM,,22,AA
+Young HS-Building A,51568,51568-2-HAL-F03-03,Left Fountain East end of FL,6:35AM,,24,AA
+Young HS-Building A,51568,51568-2-HAL-F03-04,Left Fountain East end of FL,6:35AM,,15,AA
+Young HS-Building A,51568,51568-2-HAL-F03-05,Left Fountain East end of FL,6:35AM,13,BA
+Young HS-Building A,51568,51568-2-HAL-F04-01,Right Fountain East End of FL,6:40AM,15,AA
+Young HS-Building A,51568,51568-2-HAL-F04-02,Right Fountain East End of FL,6:40AM,12,BA
+Young HS-Building A,51568,51568-2-HAL-F04-03,Right Fountain East End of FL,6:40AM,12,BA
+Young HS-Building A,51568,51568-2-HAL-F04-04,Right Fountain East End of FL,6:40AM,9.1,BA
+Young HS-Building A,51568,51568-2-HAL-F04-05,Right Fountain East End of FL,6:40AM,8.2,BA
+Young HS-Building A,51568,51568-2-HAL-WC01-01,Hall in East Dining Area,6:43AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC01-02,Hall in East Dining Area,6:43AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC01-03,Hall in East Dining Area,6:43AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC01-04,Hall in East Dining Area,6:43AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC01-05,Hall in East Dining Area,6:43AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F02-01,Hall in East Dining Area Right,6:45AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F02-02,Hall in East Dining Area Right,6:45AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F02-03,Hall in East Dining Area Right,6:45AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F02-04,Hall in East Dining Area Right,6:45AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F02-05,Hall in East Dining Area Right,6:45AM,<0.50,BA
+Young HS-Building A,51568,51568-2-251B-S01-01,RM 251B Storage,6:50AM,0.73,BA
+Young HS-Building A,51568,51568-2-251B-S01-02,RM 251B Storage,6:50AM,16,AA
+Young HS-Building A,51568,51568-2-251B-S01-03,RM 251B Storage,6:50AM,8.4,BA
+Young HS-Building A,51568,51568-2-251B-S01-04,RM 251B Storage,6:50AM,1.5,BA
+Young HS-Building A,51568,51568-2-251B-S01-05,RM 251B Storage,6:50AM,0.47,BA
+Young HS-Building A,51568,51568-2-HAL-WC02-01,Hall outside West Dining Area,6:55AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC02-02,Hall outside West Dining Area,6:55AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC02-03,Hall outside West Dining Area,6:55AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC02-04,Hall outside West Dining Area,6:55AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-WC02-05,Hall outside West Dining Area,6:55AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F06-01,"Hall outside West Dining Area RightFountain",7:00AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F06-02,"Hall outside West Dining Area RightFountain",7:00AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F06-03,"Hall outside West Dining Area RightFountain",7:00AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F06-04,"Hall outside West Dining Area RightFountain",7:00AM,<0.50,BA
+Young HS-Building A,51568,51568-2-HAL-F06-05,"Hall outside West Dining Area RightFountain",7:00AM,<0.50,BA
+Young HS-Building A,51568,51568-2-210C-S02-01,rm 210C Storage,7:05AM,170,AA
+Young HS-Building A,51568,51568-2-210C-S02-02,rm 210C Storage,7:05AM,26,AA
+Young HS-Building A,51568,51568-2-210C-S02-03,rm 210C Storage,7:05AM,10,BA
+Young HS-Building A,51568,51568-2-210C-S02-04,rm 210C Storage,7:05AM,7.7,BA
+Young HS-Building A,51568,51568-2-210C-S02-05,rm 210C Storage,7:05AM,4.5,BA
+Young HS-Building A,51568,51568-2-HAL-F07-01,Hall outside Storage RM Left,7:10AM,0.96,BA
+Young HS-Building A,51568,51568-2-HAL-F07-02,Hall outside Storage RM Left,7:10AM,74,AA
+Young HS-Building A,51568,51568-2-HAL-F07-03,Hall outside Storage RM Left,7:10AM,0.64,BA
+Young HS-Building A,51568,51568-2-HAL-F07-04,Hall outside Storage RM Left,7:10AM,0.64,BA
+Young HS-Building A,51568,51568-2-HAL-F07-05,Hall outside Storage RM Left,7:10AM,0.6,BA
+Young HS-Building A,51568,51568-2-HAL-F08-01,Hall outside Storage RM Right,7:15AM,0.61,BA
+Young HS-Building A,51568,51568-2-HAL-F08-02,Hall outside Storage RM Right,7:15AM,0.64,BA
+Young HS-Building A,51568,51568-2-HAL-F08-03,Hall outside Storage RM Right,7:15AM,0.57,BA
+Young HS-Building A,51568,51568-2-HAL-F08-04,Hall outside Storage RM Right,7:15AM,0.47,BA
+Young HS-Building A,51568,51568-2-HAL-F08-05,Hall outside Storage RM Right,7:15AM,0.37,BA
+Young HS-Building A,51568,51568-1-HAL-F01-01,Main Entrance Left Fountain,7:20AM,0.71,BA
+Young HS-Building A,51568,51568-1-HAL-F01-02,Main Entrance Left Fountain,7:20AM,0.2,BA
+Young HS-Building A,51568,51568-1-HAL-F01-03,Main Entrance Left Fountain,7:20AM,0.6,BA
+Young HS-Building A,51568,51568-1-HAL-F01-04,Main Entrance Left Fountain,7:20AM,0.64,BA
+Young HS-Building A,51568,51568-1-HAL-F01-05,Main Entrance Left Fountain,7:20AM,0.27,BA
+Young HS-Building A,51568,51568-1-HAL-WC01-01,Main Entrance Water Cooler,7:25AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-WC01-02,Main Entrance Water Cooler,7:25AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-WC01-03,Main Entrance Water Cooler,7:25AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-WC01-04,Main Entrance Water Cooler,7:25AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-WC01-05,Main Entrance Water Cooler,7:25AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F02-01,Main Entrance Right Fountain,7:30AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F02-02,Main Entrance Right Fountain,7:30AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F02-03,Main Entrance Right Fountain,7:30AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F02-04,Main Entrance Right Fountain,7:30AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F02-05,Main Entrance Right Fountain,7:30AM,<0.50,BA
+Young HS-Building A,51568,51568-1-HAL-F03-01,Outside RM 128-Attendance offive,7:35AM,4.1,BA
+Young HS-Building A,51568,51568-1-HAL-F03-02,Outside RM 128-Attendance offive,7:35AM,4.4,BA
+Young HS-Building A,51568,51568-1-HAL-F03-03,Outside RM 128-Attendance offive,7:35AM,3.2,BA
+Young HS-Building A,51568,51568-1-HAL-F03-04,Outside RM 128-Attendance offive,7:35AM,2.5,BA
+Young HS-Building A,51568,51568-1-HAL-F03-05,Outside RM 128-Attendance offive,7:35AM,2.5,BA
+Young HS-Building A,51568,51568-1-HAL-F04-01,Outside Counseling Dept,7:40AM,0.66,BA
+Young HS-Building A,51568,51568-1-HAL-F04-02,Outside Counseling Dept,7:40AM,0.54,BA
+Young HS-Building A,51568,51568-1-HAL-F04-03,Outside Counseling Dept,7:40AM,0.67,BA
+Young HS-Building A,51568,51568-1-HAL-F04-04,Outside Counseling Dept,7:40AM,0.7,BA
+Young HS-Building A,51568,51568-1-HAL-F04-05,Outside Counseling Dept,7:40AM,0.75,BA
+Young HS-Building A,51568,51568-1-HAL-F05-01,Entrance 3,7:45AM,2.1,BA
+Young HS-Building A,51568,51568-1-HAL-F05-02,Entrance 3,7:45AM,1.7,BA
+Young HS-Building A,51568,51568-1-HAL-F05-03,Entrance 3,7:45AM,1.4,BA
+Young HS-Building A,51568,51568-1-HAL-F05-04,Entrance 3,7:45AM,1.2,BA
+Young HS-Building A,51568,51568-1-HAL-F05-05,Entrance 3,7:45AM,1.3,BA
+Young HS-Building A,51568,51568-3-HAL-F01-01,South East Corner of Hall Left Fount,8:00AM,2.1,BA
+Young HS-Building A,51568,51568-3-HAL-F01-02,South East Corner of Hall Left Fount,8:00AM,0.67,BA
+Young HS-Building A,51568,51568-3-HAL-F01-03,South East Corner of Hall Left Fount,8:00AM,1.1,BA
+Young HS-Building A,51568,51568-3-HAL-F01-04,South East Corner of Hall Left Fount,8:00AM,1.4,BA
+Young HS-Building A,51568,51568-3-HAL-F01-05,South East Corner of Hall Left Fount,8:00AM,1.5,BA
+Young HS-Building A,51568,51568-3-HAL-F02-01,Southeast Corner of Hall Right Fount,8:05AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-F02-02,Southeast Corner of Hall Right Fount,8:05AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-F02-03,Southeast Corner of Hall Right Fount,8:05AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-F02-04,Southeast Corner of Hall Right Fount,8:05AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-F02-05,Southeast Corner of Hall Right Fount,8:05AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-WC01-01,Southeast Corner of Hall Water Cooler,8:10AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-WC01-02,Southeast Corner of Hall Water Cooler,8:10AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-WC01-03,Southeast Corner of Hall Water Cooler,8:10AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-WC01-04,Southeast Corner of Hall Water Cooler,8:10AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-WC01-05,Southeast Corner of Hall Water Cooler,8:10AM,<0.50,BA
+Young HS-Building A,51568,51568-3-HAL-F05-01,North West End of Hall left,8:15AM,1.6,BA
+Young HS-Building A,51568,51568-3-HAL-F05-02,North West End of Hall left,8:15AM,1.3,BA
+Young HS-Building A,51568,51568-3-HAL-F05-03,North West End of Hall left,8:15AM,1,BA
+Young HS-Building A,51568,51568-3-HAL-F05-04,North West End of Hall left,8:15AM,0.79,BA
+Young HS-Building A,51568,51568-3-HAL-F05-05,North West End of Hall left,8:15AM,0.6,BA
+Young HS-Building A,51568,51568-3-HAL-F06-01,North West End of Hall Right Fount,8:20AM,2.3,BA
+Young HS-Building A,51568,51568-3-HAL-F06-02,North West End of Hall Right Fount,8:20AM,1,BA
+Young HS-Building A,51568,51568-3-HAL-F06-03,North West End of Hall Right Fount,8:20AM,0.78,BA
+Young HS-Building A,51568,51568-3-HAL-F06-04,North West End of Hall Right Fount,8:20AM,0.68,BA
+Young HS-Building A,51568,51568-3-HAL-F06-05,North West End of Hall Right Fount,8:20AM,0.66,BA
+Young HS-Building A,51568,51568-3-HAL-F07-01,Northeast End of Hall Left,8:15AM,2.1,BA
+Young HS-Building A,51568,51568-3-HAL-F07-02,Northeast End of Hall Left,8:15AM,2.5,BA
+Young HS-Building A,51568,51568-3-HAL-F07-03,Northeast End of Hall Left,8:15AM,2.7,BA
+Young HS-Building A,51568,51568-3-HAL-F07-04,Northeast End of Hall Left,8:15AM,2.4,BA
+Young HS-Building A,51568,51568-3-HAL-F07-05,Northeast End of Hall Left,8:15AM,1.8,BA
+Young HS-Building A,51568,51568-3-HAL-F08-01,Northeast End of Hall Right,8:20AM,1.8,BA
+Young HS-Building A,51568,51568-3-HAL-F08-02,Northeast End of Hall Right,8:20AM,1.5,BA
+Young HS-Building A,51568,51568-3-HAL-F08-03,Northeast End of Hall Right,8:20AM,1.5,BA
+Young HS-Building A,51568,51568-3-HAL-F08-04,Northeast End of Hall Right,8:20AM,1.5,BA
+Young HS-Building A,51568,51568-3-HAL-F08-05,Northeast End of Hall Right,8:20AM,1.4,BA
+Young HS Building B,52376,52376-1-POL-F01-01,East Side pool area,7:05AM,1.4,BA
+Young HS Building B,52376,52376-1-POL-F01-02,East Side pool area,7:05AM,0.72,BA
+Young HS Building B,52376,52376-1-POL-F01-03,East Side pool area,7:05AM,0.68,BA
+Young HS Building B,52376,52376-1-POL-F01-04,East Side pool area,7:05AM,0.61,BA
+Young HS Building B,52376,52376-1-POL-F01-05,East Side pool area,7:05AM,0.57,BA
+Young HS Building B,52376,52376-1-POL-F02-01,West End of Pool,7:10AM,0.21,BA
+Young HS Building B,52376,52376-1-POL-F02-02,West End of Pool,7:10AM,0.23,BA
+Young HS Building B,52376,52376-1-POL-F02-03,West End of Pool,7:10AM,0.22,BA
+Young HS Building B,52376,52376-1-POL-F02-04,West End of Pool,7:10AM,0.22,BA
+Young HS Building B,52376,52376-1-POL-F02-05,West End of Pool,7:10AM,0.21,BA
+Young HS Building B,52376,52376-1-HAL-F03-01,Gym Hall 3rd Fountain,7:15AM,0.74,BA
+Young HS Building B,52376,52376-1-HAL-F03-02,Gym Hall 3rd Fountain,7:15AM,0.47,BA
+Young HS Building B,52376,52376-1-HAL-F03-03,Gym Hall 3rd Fountain,7:15AM,0.42,BA
+Young HS Building B,52376,52376-1-HAL-F03-04,Gym Hall 3rd Fountain,7:15AM,0.39,BA
+Young HS Building B,52376,52376-1-HAL-F03-05,Gym Hall 3rd Fountain,7:15AM,0.51,BA
+Young HS Building B,52376,52376-1-HAL-F04-01,Gym Hall 4th Fountain,7:20AM,0.34,BA
+Young HS Building B,52376,52376-1-HAL-F04-02,Gym Hall 4th Fountain,7:20AM,0.25,BA
+Young HS Building B,52376,52376-1-HAL-F04-03,Gym Hall 4th Fountain,7:20AM,0.23,BA
+Young HS Building B,52376,52376-1-HAL-F04-04,Gym Hall 4th Fountain,7:20AM,0.27,BA
+Young HS Building B,52376,52376-1-HAL-F04-05,Gym Hall 4th Fountain,7:20AM,0.17,BA
+Young HS Building B,52376,52376-1-HAL-F05-01,Gym Hall 5th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F05-02,Gym Hall 5th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F05-03,Gym Hall 5th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F05-04,Gym Hall 5th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F05-05,Gym Hall 5th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F06-01,Gym Hall 6th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F06-02,Gym Hall 6th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F06-03,Gym Hall 6th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F06-04,Gym Hall 6th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-F06-05,Gym Hall 6th Fountain,7:25AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC01-01,Gym Hall Left Water Cooler,7:30AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC01-02,Gym Hall Left Water Cooler,7:30AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC01-03,Gym Hall Left Water Cooler,7:30AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC01-04,Gym Hall Left Water Cooler,7:30AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC01-05,Gym Hall Left Water Cooler,7:30AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC02-01,Gym Hall Right Water Cooler,7:35AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC02-02,Gym Hall Right Water Cooler,7:35AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC02-03,Gym Hall Right Water Cooler,7:35AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC02-04,Gym Hall Right Water Cooler,7:35AM,<0.50,BA
+Young HS Building B,52376,52376-1-HAL-WC02-05,Gym Hall Right Water Cooler,7:35AM,<0.50,BA
+Young HS Building B,52376,52376-1-CGYM-F01-01,C Gym South Entrance,7:40AM,2.5,BA
+Young HS Building B,52376,52376-1-CGYM-F01-02,C Gym South Entrance,7:40AM,1.8,BA
+Young HS Building B,52376,52376-1-CGYM-F01-03,C Gym South Entrance,7:40AM,1.7,BA
+Young HS Building B,52376,52376-1-CGYM-F01-04,C Gym South Entrance,7:40AM,1.6,BA
+Young HS Building B,52376,52376-1-CGYM-F01-05,C Gym South Entrance,7:40AM,1.7,BA
+Young HS Building B,52376,52376-1-CGYM-F02-01,C Gym North Entrance,7:45AM,1.6,BA
+Young HS Building B,52376,52376-1-CGYM-F02-02,C Gym North Entrance,7:45AM,1.2,BA
+Young HS Building B,52376,52376-1-CGYM-F02-03,C Gym North Entrance,7:45AM,1.6,BA
+Young HS Building B,52376,52376-1-CGYM-F02-04,C Gym North Entrance,7:45AM,1.4,BA
+Young HS Building B,52376,52376-1-CGYM-F02-05,C Gym North Entrance,7:45AM,1.5,BA
+Young HS Building B,52376,52376-B-HAL-F01-01,Basement Hall,7:50AM,1,BA
+Young HS Building B,52376,52376-B-HAL-F01-02,Basement Hall,7:50AM,0.84,BA
+Young HS Building B,52376,52376-B-HAL-F01-03,Basement Hall,7:50AM,0.84,BA
+Young HS Building B,52376,52376-B-HAL-F01-04,Basement Hall,7:50AM,0.9,BA
+Young HS Building B,52376,52376-B-HAL-F01-05,Basement Hall,7:50AM,0.94,BA
+Young HS Building B,52376,52376-2-HAL-F01-01,West End of Hall Left Fount,7:56AM,0.41,BA
+Young HS Building B,52376,52376-2-HAL-F01-02,West End of Hall Left Fount,7:56AM,0.51,BA
+Young HS Building B,52376,52376-2-HAL-F01-03,West End of Hall Left Fount,7:56AM,0.32,BA
+Young HS Building B,52376,52376-2-HAL-F01-04,West End of Hall Left Fount,7:56AM,0.37,BA
+Young HS Building B,52376,52376-2-HAL-F01-05,West End of Hall Left Fount,7:56AM,0.37,BA
+Young HS Building B,52376,52376-2-HAL-F04-01,East End Hall Right Fountain,7:55AM,1.6,BA
+Young HS Building B,52376,52376-2-HAL-F04-02,East End Hall Right Fountain,7:55AM,1.8,BA
+Young HS Building B,52376,52376-2-HAL-F04-03,East End Hall Right Fountain,7:55AM,1.2,BA
+Young HS Building B,52376,52376-2-HAL-F04-04,East End Hall Right Fountain,7:55AM,1.3,BA
+Young HS Building B,52376,52376-2-HAL-F04-05,East End Hall Right Fountain,7:55AM,1.2,BA
+Young HS Building B,52376,52376-2-GLR-F02-01,Girls Locker RM Right Fountain,8:05AM,2.5,BA
+Young HS Building B,52376,52376-2-GLR-F02-02,Girls Locker RM Right Fountain,8:05AM,1.1,BA
+Young HS Building B,52376,52376-2-GLR-F02-03,Girls Locker RM Right Fountain,8:05AM,0.85,BA
+Young HS Building B,52376,52376-2-GLR-F02-04,Girls Locker RM Right Fountain,8:05AM,0.65,BA
+Young HS Building B,52376,52376-2-GLR-F02-05,Girls Locker RM Right Fountain,8:05AM,0.7,BA
+Young Building C,52377,52377-2-HAL-F01-01,West end of Hall,6:26AM,<0.50,BA
+Young Building C,52378,52377-2-HAL-F01-02,West end of Hall,6:26AM,<0.50,BA
+Young Building C,52379,52377-2-HAL-F01-03,West end of Hall,6:26AM,<0.50,BA
+Young Building C,52380,52377-2-HAL-F01-04,West end of Hall,6:26AM,<0.50,BA
+Young Building C,52381,52377-2-HAL-F01-05,West end of Hall,6:26AM,<0.50,BA
+Young Building C,52382,52377-2-HAL-WC01-01,Water Cooler West End of Hall,6:30AM,<0.50,BA
+Young Building C,52383,52377-2-HAL-WC01-02,Water Cooler West End of Hall,6:30AM,<0.50,BA
+Young Building C,52384,52377-2-HAL-WC01-03,Water Cooler West End of Hall,6:30AM,<0.50,BA
+Young Building C,52385,52377-2-HAL-WC01-04,Water Cooler West End of Hall,6:30AM,<0.50,BA
+Young Building C,52386,52377-2-HAL-WC01-05,Water Cooler West End of Hall,6:30AM,<0.50,BA
+Young Building C,52387,52377-2-HAL-F02-01,East End of Hall,6:35AM,0.48,BA
+Young Building C,52388,52377-2-HAL-F02-02,East End of Hall,6:35AM,0.54,BA
+Young Building C,52389,52377-2-HAL-F02-03,East End of Hall,6:35AM,0.48,BA
+Young Building C,52390,52377-2-HAL-F02-04,East End of Hall,6:35AM,0.54,BA
+Young Building C,52391,52377-2-HAL-F02-05,East End of Hall,6:35AM,0.54,BA
+Young Building C,52392,52377-1-HAL-F01-01,West end of Hall,6:40AM,<0.50,BA
+Young Building C,52393,52377-1-HAL-F01-02,West end of Hall,6:40AM,<0.50,BA
+Young Building C,52394,52377-1-HAL-F01-03,West end of Hall,6:40AM,<0.50,BA
+Young Building C,52395,52377-1-HAL-F01-04,West end of Hall,6:40AM,<0.50,BA
+Young Building C,52396,52377-1-HAL-F01-05,West end of Hall,6:40AM,<0.50,BA
+Young Building C,52397,52377-1-HAL-WC01-01,Water Cooler West End of Hall,6:45AM,<0.50,BA
+Young Building C,52398,52377-1-HAL-WC01-02,Water Cooler West End of Hall,6:45AM,<0.50,BA
+Young Building C,52399,52377-1-HAL-WC01-03,Water Cooler West End of Hall,6:45AM,<0.50,BA
+Young Building C,52400,52377-1-HAL-WC01-04,Water Cooler West End of Hall,6:45AM,<0.50,BA
+Young Building C,52401,52377-1-HAL-WC01-05,Water Cooler West End of Hall,6:45AM,<0.50,BA
+Young Building C,52402,52377-1-HAL-F02-01,East End of Hall,6:47AM,0.68,BA
+Young Building C,52403,52377-1-HAL-F02-02,East End of Hall,6:47AM,0.76,BA
+Young Building C,52404,52377-1-HAL-F02-03,East End of Hall,6:47AM,0.6,BA
+Young Building C,52405,52377-1-HAL-F02-04,East End of Hall,6:47AM,0.59,BA
+Young Building C,52406,52377-1-HAL-F02-05,East End of Hall,6:47AM,0.62,BA
+"",,,,,,
+"",,,,,,
