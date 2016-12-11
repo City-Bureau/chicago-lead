@@ -1,0 +1,76 @@
+Sample ID #,Sample Location,Sample Collection Time & Date,Test Result (ppb),Test Results
+51153-1-KIT-KS01-001,"Main- Kitchen, Left Sink",9/16/16 6:00 AM,2.6,BA
+51153-1-KIT-KS01-002,"Main- Kitchen, Left Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS01-003,"Main- Kitchen, Left Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS01-004,"Main- Kitchen, Left Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS01-005,"Main- Kitchen, Left Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS02-001,"Main- Kitchen, Right Sink",9/16/16 6:00 AM,5.1,BA
+51153-1-KIT-KS02-002,"Main- Kitchen, Right Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS02-003,"Main- Kitchen, Right Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS02-004,"Main- Kitchen, Right Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-KIT-KS02-005,"Main- Kitchen, Right Sink",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F01-001,"Main- 3rd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F01-002,"Main- 3rd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F01-003,"Main- 3rd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F01-004,"Main- 3rd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F01-005,"Main- 3rd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F02-001,"Main- 3rd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F02-002,"Main- 3rd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F02-003,"Main- 3rd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F02-004,"Main- 3rd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F02-005,"Main- 3rd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F03-001,"Main- 3rd Floor Across From Staff Bathroom, Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F03-002,"Main- 3rd Floor Across From Staff Bathroom, Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F03-003,"Main- 3rd Floor Across From Staff Bathroom, Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F03-004,"Main- 3rd Floor Across From Staff Bathroom, Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-3-HAL-F03-005,"Main- 3rd Floor Across From Staff Bathroom, Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F01-001,"Main- 2nd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F01-002,"Main- 2nd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F01-003,"Main- 2nd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F01-004,"Main- 2nd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F01-005,"Main- 2nd Floor Across From Girls Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F02-001,"Main- 2nd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F02-002,"Main- 2nd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F02-003,"Main- 2nd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F02-004,"Main- 2nd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F02-005,"Main- 2nd Floor Across From Girls Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F03-001,"Main- 2nd Floor Across From Boys Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F03-002,"Main- 2nd Floor Across From Boys Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F03-003,"Main- 2nd Floor Across From Boys Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F03-004,"Main- 2nd Floor Across From Boys Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F03-005,"Main- 2nd Floor Across From Boys Bathroom, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F04-001,"Main- 2nd Floor Across From Boys Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F04-002,"Main- 2nd Floor Across From Boys Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F04-003,"Main- 2nd Floor Across From Boys Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F04-004,"Main- 2nd Floor Across From Boys Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-2-HAL-F04-005,"Main- 2nd Floor Across From Boys Bathroom, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F03-001,"Main- Across From Kitchen, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F03-002,"Main- Across From Kitchen, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F03-003,"Main- Across From Kitchen, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F03-004,"Main- Across From Kitchen, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F03-005,"Main- Across From Kitchen, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F04-001,"Main- Across From Kitchen, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F04-002,"Main- Across From Kitchen, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F04-003,"Main- Across From Kitchen, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F04-004,"Main- Across From Kitchen, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F04-005,"Main- Across From Kitchen, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F05-001,"Main- Across From Room 107, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F05-002,"Main- Across From Room 107, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F05-003,"Main- Across From Room 107, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F05-004,"Main- Across From Room 107, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F05-005,"Main- Across From Room 107, Left Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F06-001,"Main- Across From Room 107, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F06-002,"Main- Across From Room 107, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F06-003,"Main- Across From Room 107, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F06-004,"Main- Across From Room 107, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-HAL-F06-005,"Main- Across From Room 107, Right Fountain",9/16/16 6:00 AM,<2.0,ND
+51153-1-107-S07-001,"Main- Kindergarten Room 104, Sink",9/16/16 6:00 AM,6.6,BA
+51153-1-107-S07-002,"Main- Kindergarten Room 104, Sink",9/16/16 6:00 AM,6.8,BA
+51153-1-107-S07-003,"Main- Kindergarten Room 104, Sink",9/16/16 6:00 AM,7,BA
+51153-1-107-S07-004,"Main- Kindergarten Room 104, Sink",9/16/16 6:00 AM,6.4,BA
+51153-1-107-S07-005,"Main- Kindergarten Room 104, Sink",9/16/16 6:00 AM,6,BA
+51153-1-111-S08-001,"Main- Kindergarten Room 111, Sink",9/16/16 6:00 AM,5.5,BA
+51153-1-111-S08-002,"Main- Kindergarten Room 111, Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-111-S08-003,"Main- Kindergarten Room 111, Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-111-S08-004,"Main- Kindergarten Room 111, Sink",9/16/16 6:00 AM,<2.0,ND
+51153-1-111-S08-005,"Main- Kindergarten Room 111, Sink",9/16/16 6:00 AM,<2.0,ND
