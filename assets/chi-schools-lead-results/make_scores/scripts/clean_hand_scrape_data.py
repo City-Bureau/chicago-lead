@@ -78,6 +78,7 @@ you.loc[you[4].isnull(), 4] = you.loc[you[4].isnull()][5]
 you.drop(5, axis=1, inplace=True)
 you.columns = [i for i in range(0, 7)]
 you[0] = get_name(files[7])
+you.loc[you[2] == 'Hall outside West Dining Area Right\rFountain', 2] = 'Hall outside West Dining Area Right Fountain'
 
 df = pd.concat([cas, col, gar, jua, las, sab, ski, you]).reset_index(drop=True)
 df.drop(5, axis=1, inplace=True)
