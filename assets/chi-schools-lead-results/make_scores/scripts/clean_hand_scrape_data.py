@@ -1,6 +1,5 @@
 # coding: utf-8
 
-import os
 import sys
 
 import pandas as pd
@@ -19,7 +18,19 @@ def amend(wrong, right, sample, result=[]):
     if bool(result):
         df.loc[wrong, 'result'] = result    
 
-files = [f for f in os.listdir('csv') if f.split('.')[-1] == 'csv']
+files = [
+    'tabula-individualschool_cassell_609849.csv',
+    'tabula-IndividualSchool_CollinsHS_610499.csv',
+    'tabula-Individualschool_Falconer_609910.csv',
+    'tabula-individualschool_garvy_609937.csv',
+    'tabula-IndividualSchool_JuarezHS_ 609764.csv',
+    'tabula-individualschool_lasalle_610033.csv',
+    'tabula-individualschool_sabin_610342.csv',
+    'tabula-individualschool_skinnernorth_610534.csv',
+    'tabula-IndividualSchool_YoungHS_ 609755.csv',
+    'tabula-IndividualSchool_Powell_610281.csv',
+    'tabula-Individualschool_Tanner_610279.csv'
+]
 
 # cassell
 cas = pd.read_csv('csv/%s' % files[0])
@@ -86,7 +97,23 @@ you.drop(5, axis=1, inplace=True)
 you.columns = [i for i in range(0, 7)]
 you[0] = get_name(files[8])
 
-df = pd.concat([cas, col, fal, gar, jua, las, sab, ski, you]).reset_index(drop=True)
+# powell 
+po = pd.read_csv('csv/%s' % files[9])
+po['filename'] = get_filename(files[9])
+po['school'] = get_name(files[9])
+po = po.ix[:, [6, 0, 1, 2, 3, 4, 5]]
+po.columns = [i for i in range(0, 7)]
+
+# tanner
+tan = pd.read_csv('csv/%s' % files[10])
+tan['filename'] = get_filename(files[10])
+tan['school'] = get_name(files[10])
+tan = tan.ix[:, [6, 0, 1, 2, 3, 4, 5]]
+tan.columns = [i for i in range(0, 7)]
+tan[1] = tan[1].apply(lambda x: str(x).split('(')[0].replace('\r', ''))
+tan.iloc[15, 1] = '51484-1-N-F01-11'
+
+df = pd.concat([cas, col, fal, gar, jua, las, sab, ski, you, po, tan]).reset_index(drop=True)
 df.drop(5, axis=1, inplace=True)
 df.columns = ['school', 'sample', 'location', 'date', 'result', 'filename']
 

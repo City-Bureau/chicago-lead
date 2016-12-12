@@ -9,6 +9,10 @@ df = pd.read_csv(sys.argv[1], header=0)
 # drop all-null rows, rows with no result value
 df.drop(df.loc[(df.school.isnull()) | (df.result.isnull())].index.values, inplace=True)
 
+# remove incomplete data (replaced in hand scrape data) 
+for s in ('Tanner', 'Powell'):
+    df.drop(df[df.school == s].index.values, inplace=True)
+
 # move sample columns to the correct place where misread
 df.loc[~df['sample'].str.contains('-'), 'sample'] = df.loc[~df['sample'].str.contains('-')]['location']
 

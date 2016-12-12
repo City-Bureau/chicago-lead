@@ -7,9 +7,9 @@ tabula_reports.processed.csv:
 	python scripts/clean_tabula_data.py tabula_reports.raw.csv > $@
  
 lead_scores.csv: hand_scrape_reports.processed.csv tabula_reports.processed.csv
-	python scripts/score_schools.py $^ > $@
+	python scripts/score_schools.py $^ t > $@
 
-cps_lead_scores.geojson: lead_scores.csv
+cps_lead.geojson: lead_scores.csv
 	python scripts/generate_vrt.py $(basename $<) > $(basename $<).vrt
 	ogr2ogr -f "GeoJSON" cps_lead.geojson $(basename $<).vrt
 

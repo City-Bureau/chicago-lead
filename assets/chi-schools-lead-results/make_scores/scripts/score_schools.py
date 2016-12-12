@@ -53,6 +53,7 @@ if effective_zero_values == df['result'].value_counts()[0]:
 
     # combine fusion table w lat/long
     geo = pd.merge(test_schools, fusion[['filename', 'lat', 'long', 'schoolname']], on='filename', how='left')
+
     geo['schoolname'] = geo['schoolname'].str.title()
     geo = geo[['schoolname', 'score', 'num_fixtures', 'lat', 'long']]
 
