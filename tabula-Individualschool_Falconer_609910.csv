@@ -1,0 +1,147 @@
+Sample ID #,Sample Location,"Sample Collection Time &Date",Test Result (ppb),Test Results
+1-C-CS01-01,Kitchen,6/7/16 6:08 AM,None Detected,ND
+1-C-CS01-02,Kitchen,6/7/16 6:08 AM,None Detected,ND
+1-C-CS01-03,Kitchen,6/7/16 6:08 AM,None Detected,ND
+1-C-CS01-04,Kitchen,6/7/16 6:08 AM,None Detected,ND
+1-C-CS01-05,Kitchen,6/7/16 6:08 AM,None Detected,ND
+1-E-CS01-06,Kitchen,6/7/16 6:10 AM,None Detected,ND
+1-E-CS01-07,Kitchen,6/7/16 6:10 AM,None Detected,ND
+1-E-CS01-08,Kitchen,6/7/16 6:10 AM,None Detected,ND
+1-E-CS01-09,Kitchen,6/7/16 6:10 AM,None Detected,ND
+1-E-CS01-10,Kitchen,6/7/16 6:10 AM,None Detected,ND
+1-W-CS01-11,Kitchen,6/7/16 6:12 AM,None Detected,ND
+1-W-CS01-12,Kitchen,6/7/16 6:12 AM,None Detected,ND
+1-W-CS01-13,Kitchen,6/7/16 6:12 AM,None Detected,ND
+1-W-CS01-14,Kitchen,6/7/16 6:12 AM,None Detected,ND
+1-W-CS01-15,Kitchen,6/7/16 6:12 AM,None Detected,ND
+1-SE-CS01-16,Kitchen for Washing Dishes,6/7/16 6:17 AM,None Detected,ND
+1-SE-CS01-17,Kitchen for Washing Dishes,6/7/16 6:17 AM,None Detected,ND
+1-SE-CS01-18,Kitchen for Washing Dishes,6/7/16 6:17 AM,None Detected,ND
+1-SE-CS01-19,Kitchen for Washing Dishes,6/7/16 6:17 AM,None Detected,ND
+1-SE-CS01-20,Kitchen for Washing Dishes,6/7/16 6:17 AM,None Detected,ND
+1-SW-CS01-21,Kitchen for Washing Dishes,6/7/16 6:23 AM,None Detected,ND
+1-SW-CS01-22,Kitchen for Washing Dishes,6/7/16 6:23 AM,6.29,BA
+1-SW-CS01-23,Kitchen for Washing Dishes,6/7/16 6:23 AM,None Detected,ND
+1-SW-CS01-24,Kitchen for Washing Dishes,6/7/16 6:23 AM,None Detected,ND
+1-SW-CS01-25,Kitchen for Washing Dishes,6/7/16 6:23 AM,None Detected,ND
+1-NW-F01-26,Room 116 - Kindergarten,6/7/16 6:39 AM,None Detected,ND
+1-NW-F01-27,Room 116 - Kindergarten,6/7/16 6:39 AM,None Detected,ND
+1-NW-F01-28,Room 116 - Kindergarten,6/7/16 6:39 AM,None Detected,ND
+1-NW-F01-29,Room 116 - Kindergarten,6/7/16 6:39 AM,None Detected,ND
+1-NW-F01-30,Room 116 - Kindergarten,6/7/16 6:39 AM,None Detected,ND
+1-SE-F01-31,Room 113,6/7/16 6:42 AM,None Detected,ND
+1-SE-F01-32,Room 113,6/7/16 6:42 AM,None Detected,ND
+1-SE-F01-33,Room 113,6/7/16 6:42 AM,None Detected,ND
+1-SE-F01-34,Room 113,6/7/16 6:42 AM,None Detected,ND
+1-SE-F01-35,Room 113,6/7/16 6:42 AM,None Detected,ND
+1-C-F01-36,Room 114,6/7/16 6:47 AM,None Detected,ND
+1-C-F01-37,Room 114,6/7/16 6:47 AM,None Detected,ND
+1-C-F01-38,Room 114,6/7/16 6:47 AM,None Detected,ND
+1-C-F01-39,Room 114,6/7/16 6:47 AM,None Detected,ND
+1-C-F01-40,Room 114,6/7/16 6:47 AM,None Detected,ND
+1-W-F02-41,Between Stairs and Boys Restroom,6/7/16 7:02 AM,None Detected,ND
+1-W-F02-42,Between Stairs and Boys Restroom,6/7/16 7:02 AM,None Detected,ND
+1-W-F02-43,Between Stairs and Boys Restroom,6/7/16 7:02 AM,None Detected,ND
+1-W-F02-44,Between Stairs and Boys Restroom,6/7/16 7:02 AM,None Detected,ND
+1-W-F02-45,Between Stairs and Boys Restroom,6/7/16 7:02 AM,None Detected,ND
+1-NE-F01-46,Hallway between Room 101 and 102,6/7/16 7:11 AM,None Detected,ND
+1-NE-F01-47,Hallway between Room 101 and 102,6/7/16 7:11 AM,None Detected,ND
+1-NE-F01-48,Hallway between Room 101 and 102,6/7/16 7:11 AM,None Detected,ND
+1-NE-F01-49,Hallway between Room 101 and 102,6/7/16 7:11 AM,None Detected,ND
+1-NE-F01-50,Hallway between Room 101 and 102,6/7/16 7:11 AM,None Detected,ND
+1-NE-F02-51,Hallway between Room 101 and 102,6/7/16 7:15 AM,None Detected,ND
+1-NE-F02-52,Hallway between Room 101 and 102,6/7/16 7:15 AM,None Detected,ND
+1-NE-F02-53,Hallway between Room 101 and 102,6/7/16 7:15 AM,None Detected,ND
+1-NE-F02-54,Hallway between Room 101 and 102,6/7/16 7:15 AM,None Detected,ND
+1-NE-F02-55,Hallway between Room 101 and 102,6/7/16 7:15 AM,None Detected,ND
+1-NE-F03-56,Hallway between Room 101 and 102,6/7/16 7:20 AM,None Detected,ND
+1-NE-F03-57,Hallway between Room 101 and 102,6/7/16 7:20 AM,None Detected,ND
+1-NE-F03-58,Hallway between Room 101 and 102,6/7/16 7:20 AM,None Detected,ND
+1-NE-F03-59,Hallway between Room 101 and 102,6/7/16 7:20 AM,None Detected,ND
+1-NE-F03-60,Hallway between Room 101 and 102,6/7/16 7:20 AM,None Detected,ND
+1-NE-F04-61,Hallway between Room 101 and 102,6/7/16 7:24 AM,None Detected,ND
+1-NE-F04-62,Hallway between Room 101 and 102,6/7/16 7:24 AM,None Detected,ND
+1-NE-F04-63,Hallway between Room 101 and 102,6/7/16 7:24 AM,None Detected,ND
+1-NE-F04-64,Hallway between Room 101 and 102,6/7/16 7:24 AM,None Detected,ND
+1-NE-F04-65,Hallway between Room 101 and 102,6/7/16 7:24 AM,None Detected,ND
+1-SE-F01-66,Hallway between Room 106 and 107,6/7/16 7:33 AM,None Detected,ND
+1-SE-F01-67,Hallway between Room 106 and 107,6/7/16 7:33 AM,None Detected,ND
+1-SE-F01-68,Hallway between Room 106 and 107,6/7/16 7:33 AM,None Detected,ND
+1-SE-F01-69,Hallway between Room 106 and 107,6/7/16 7:33 AM,None Detected,ND
+1-SE-F01-70,Hallway between Room 106 and 107,6/7/16 7:33 AM,None Detected,ND
+1-SE-F02-71,Hallway between Room 106 and 107,6/7/16 7:40 AM,None Detected,ND
+1-SE-F02-72,Hallway between Room 106 and 107,6/7/16 7:40 AM,None Detected,
+1-SE-F02-73,Hallway between Room 106 and 107,6/7/16 7:40 AM,None Detected,ND
+1-SE-F02-74,Hallway between Room 106 and 107,6/7/16 7:40 AM,None Detected,ND
+1-SE-F02-75,Hallway between Room 106 and 107,6/7/16 7:40 AM,None Detected,ND
+2-SE-F02-76,2nd FL Hallway between Room 206 & 207,6/7/16 7:46 AM,None Detected,ND
+2-SE-F02-77,2nd FL Hallway between Room 206 & 207,6/7/16 7:46 AM,None Detected,ND
+2-SE-F02-78,2nd FL Hallway between Room 206 & 207,6/7/16 7:46 AM,None Detected,ND
+2-SE-F02-79,2nd FL Hallway between Room 206 & 207,6/7/16 7:46 AM,None Detected,ND
+2-SE-F02-80,2nd FL Hallway between Room 206 & 207,6/7/16 7:46 AM,None Detected,ND
+2-NE-F01-81,2nd FL Hallway between Room 201 & 202,6/7/16 7:50 AM,None Detected,ND
+2-NE-F01-82,2nd FL Hallway between Room 201 & 202,6/7/16 7:50 AM,None Detected,ND
+2-NE-F01-83,2nd FL Hallway between Room 201 & 202,6/7/16 7:50 AM,None Detected,ND
+2-NE-F01-84,2nd FL Hallway between Room 201 & 202,6/7/16 7:50 AM,None Detected,ND
+2-NE-F01-85,2nd FL Hallway between Room 201 & 202,6/7/16 7:50 AM,None Detected,ND
+2-NE-F02-86,2nd FL Hallway between Room 201 & 202,6/7/16 7:55 AM,None Detected,ND
+2-NE-F02-87,2nd FL Hallway between Room 201 & 202,6/7/16 7:55 AM,None Detected,ND
+2-NE-F02-88,2nd FL Hallway between Room 201 & 202,6/7/16 7:55 AM,None Detected,ND
+2-NE-F02-89,2nd FL Hallway between Room 201 & 202,6/7/16 7:55 AM,None Detected,ND
+2-NE-F02-90,2nd FL Hallway between Room 201 & 202,6/7/16 7:55 AM,None Detected,ND
+2-NE-F03-91,2nd FL Hallway between Room 201 & 202,6/7/16 7:58 AM,None Detected,ND
+2-NE-F03-92,2nd FL Hallway between Room 201 & 202,6/7/16 7:58 AM,None Detected,ND
+2-NE-F03-93,2nd FL Hallway between Room 201 & 202,6/7/16 7:58 AM,None Detected,ND
+2-NE-F03-94,2nd FL Hallway between Room 201 & 202,6/7/16 7:58 AM,None Detected,ND
+2-NE-F03-95,2nd FL Hallway between Room 201 & 202,6/7/16 7:58 AM,None Detected,ND
+2-NE-F04-96,2nd FL Hallway between Room 201 & 202,6/7/16 8:02 AM,None Detected,ND
+2-NE-F04-97,2nd FL Hallway between Room 201 & 202,6/7/16 8:02 AM,None Detected,ND
+2-NE-F04-98,2nd FL Hallway between Room 201 & 202,6/7/16 8:02 AM,None Detected,ND
+2-NE-F04-99,2nd FL Hallway between Room 201 & 202,6/7/16 8:02 AM,None Detected,ND
+2-NE-F04-100,2nd FL Hallway between Room 201 & 202,6/7/16 8:02 AM,None Detected,ND
+2-NW-F01-101,Between Stairs and Boys Restroom,6/7/16 8:09 AM,None Detected,ND
+2-NW-F01-102,Between Stairs and Boys Restroom,6/7/16 8:09 AM,None Detected,ND
+2-NW-F01-103,Between Stairs and Boys Restroom,6/7/16 8:09 AM,None Detected,ND
+2-NW-F01-104,Between Stairs and Boys Restroom,6/7/16 8:09 AM,None Detected,ND
+2-NW-F01-105,Between Stairs and Boys Restroom,6/7/16 8:09 AM,None Detected,ND
+3-NW-F01-106,3rd FL between Stairs and Boys Restroom,6/7/16 8:17 AM,None Detected,ND
+3-NW-F01-107,3rd FL between Stairs and Boys Restroom,6/7/16 8:17 AM,None Detected,ND
+3-NW-F01-108,3rd FL between Stairs and Boys Restroom,6/7/16 8:17 AM,None Detected,ND
+3-NW-F01-109,3rd FL between Stairs and Boys Restroom,6/7/16 8:17 AM,None Detected,ND
+3-NW-F01-110,3rd FL between Stairs and Boys Restroom,6/7/16 8:17 AM,None Detected,ND
+3-NW-F02-111,3rd FL between Stairs and Boys Restroom,6/7/16 8:21 AM,None Detected,ND
+3-NW-F02-112,3rd FL between Stairs and Boys Restroom,6/7/16 8:21 AM,None Detected,ND
+3-NW-F02-113,3rd FL between Stairs and Boys Restroom,6/7/16 8:21 AM,None Detected,ND
+3-NW-F02-114,3rd FL between Stairs and Boys Restroom,6/7/16 8:21 AM,None Detected,ND
+3-NW-F02-115,3rd FL between Stairs and Boys Restroom,6/7/16 8:21 AM,None Detected,ND
+3-NE-F01-116,Between Room 301 & 302,6/7/16 8:28 AM,None Detected,ND
+3-NE-F01-117,Between Room 301 & 302,6/7/16 8:28 AM,None Detected,ND
+3-NE-F01-118,Between Room 301 & 302,6/7/16 8:28 AM,None Detected,ND
+3-NE-F01-119,Between Room 301 & 302,6/7/16 8:28 AM,None Detected,ND
+3-NE-F01-120,Between Room 301 & 302,6/7/16 8:28 AM,None Detected,ND
+3-NE-F02-121,Between Room 301 & 302,6/7/16 8:31 AM,None Detected,ND
+3-NE-F02-122,Between Room 301 & 302,6/7/16 8:31 AM,None Detected,ND
+3-NE-F02-123,Between Room 301 & 302,6/7/16 8:31 AM,None Detected,ND
+3-NE-F02-124,Between Room 301 & 302,6/7/16 8:31 AM,None Detected,ND
+3-NE-F02-125,Between Room 301 & 302,6/7/16 8:31 AM,None Detected,ND
+3-NE-F05-126,Between Room 301 & 302,6/7/16 8:37 AM,None Detected,ND
+3-NE-F05-127,Between Room 301 & 302,6/7/16 8:37 AM,None Detected,ND
+3-NE-F05-128,Between Room 301 & 302,6/7/16 8:37 AM,None Detected,ND
+3-NE-F05-129,Between Room 301 & 302,6/7/16 8:37 AM,None Detected,ND
+3-NE-F05-130,Between Room 301 & 302,6/7/16 8:37 AM,None Detected,ND
+3-NE-F06-131,Between Room 301 & 302,6/7/16 8:40 AM,None Detected,ND
+3-NE-F06-132,Between Room 301 & 302,6/7/16 8:40 AM,None Detected,ND
+3-NE-F06-133,Between Room 301 & 302,6/7/16 8:40 AM,None Detected,ND
+3-NE-F06-134,Between Room 301 & 302,6/7/16 8:40 AM,None Detected,ND
+3-NE-F06-135,Between Room 301 & 302,6/7/16 8:40 AM,None Detected,ND
+3-SE-F01-136,Between Room 306 & 307,6/7/16 8:45 AM,None Detected,ND
+3-SE-F01-137,Between Room 306 & 307,6/7/16 8:45 AM,None Detected,ND
+3-SE-F01-138,Between Room 306 & 307,6/7/16 8:45 AM,None Detected,ND
+3-SE-F01-139,Between Room 306 & 307,6/7/16 8:45 AM,None Detected,ND
+3-SE-F01-140,Between Room 306 & 307,6/7/16 8:45 AM,None Detected,ND
+3-SE-F02-141,Between Room 306 & 307,6/7/16 8:47 AM,None Detected,ND
+3-SE-F02-142,Between Room 306 & 307,6/7/16 8:47 AM,None Detected,ND
+3-SE-F02-143,Between Room 306 & 307,6/7/16 8:47 AM,None Detected,ND
+3-SE-F02-144,Between Room 306 & 307,6/7/16 8:47 AM,None Detected,ND
+3-SE-F02-145,Between Room 306 & 307,6/7/16 8:47 AM,None Detected,ND
+"",,,,
