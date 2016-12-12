@@ -1,0 +1,81 @@
+Sample ID #,Sample Location,Sample Collection Time & Date,Test Result (ppb),Test Results
+51013-1-KIT-KS01-001,"Main- Kitchen, Left Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS01-002,"Main- Kitchen, Left Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS01-003,"Main- Kitchen, Left Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS01-004,"Main- Kitchen, Left Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS01-005,"Main- Kitchen, Left Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS02-001,"Main- Kitchen, Right Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS02-002,"Main- Kitchen, Right Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS02-003,"Main- Kitchen, Right Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS02-004,"Main- Kitchen, Right Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-KIT-KS02-005,"Main- Kitchen, Right Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC01-001,"Main- Next To Room 203, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC01-002,"Main- Next To Room 203, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC01-003,"Main- Next To Room 203, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC01-004,"Main- Next To Room 203, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC01-005,"Main- Next To Room 203, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-TL-S02-001,"Main- Inside Teachers Lounge Room 205, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-TL-S02-002,"Main- Inside Teachers Lounge Room 205, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-TL-S02-003,"Main- Inside Teachers Lounge Room 205, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-TL-S02-004,"Main- Inside Teachers Lounge Room 205, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-TL-S02-005,"Main- Inside Teachers Lounge Room 205, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC03-001,"Main- Outside Room 209, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC03-002,"Main- Outside Room 209, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC03-003,"Main- Outside Room 209, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC03-004,"Main- Outside Room 209, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC03-005,"Main- Outside Room 209, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC04-001,"Main- Outside Room 209, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC04-002,"Main- Outside Room 209, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC04-003,"Main- Outside Room 209, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC04-004,"Main- Outside Room 209, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-WC04-005,"Main- Outside Room 209, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F05-001,"Main- Outside Office 218, Left Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F05-002,"Main- Outside Office 218, Left Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F05-003,"Main- Outside Office 218, Left Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F05-004,"Main- Outside Office 218, Left Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F05-005,"Main- Outside Office 218, Left Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F06-001,"Main- Outside Office 218, Center Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F06-002,"Main- Outside Office 218, Center Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F06-003,"Main- Outside Office 218, Center Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F06-004,"Main- Outside Office 218, Center Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F06-005,"Main- Outside Office 218, Center Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F07-001,"Main- Outside Office 218, Right Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F07-002,"Main- Outside Office 218, Right Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F07-003,"Main- Outside Office 218, Right Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F07-004,"Main- Outside Office 218, Right Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-2-HAL-F07-005,"Main- Outside Office 218, Right Fountain",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC03-001,"Main- Outside Room 105, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC03-002,"Main- Outside Room 105, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC03-003,"Main- Outside Room 105, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC03-004,"Main- Outside Room 105, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC03-005,"Main- Outside Room 105, Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-109-S04-001,"Main- Inside Kindergarten Room 109, Sink",9/20/16 6:00 AM,2.3,BA
+51013-1-109-S04-002,"Main- Inside Kindergarten Room 109, Sink",9/20/16 6:00 AM,2.3,BA
+51013-1-109-S04-003,"Main- Inside Kindergarten Room 109, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-109-S04-004,"Main- Inside Kindergarten Room 109, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-109-S04-005,"Main- Inside Kindergarten Room 109, Sink",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC05-001,"Main- Outside Room 109, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC05-002,"Main- Outside Room 109, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC05-003,"Main- Outside Room 109, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC05-004,"Main- Outside Room 109, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC05-005,"Main- Outside Room 109, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC06-001,"Main- Outside Room 109, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC06-002,"Main- Outside Room 109, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC06-003,"Main- Outside Room 109, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC06-004,"Main- Outside Room 109, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-1-HAL-WC06-005,"Main- Outside Room 109, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F01-001,"Main- Across From Room 115, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F01-002,"Main- Across From Room 115, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F01-003,"Main- Across From Room 115, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F01-004,"Main- Across From Room 115, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F01-005,"Main- Across From Room 115, Left Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F02-001,"Main- Across From Room 115, Center Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F02-002,"Main- Across From Room 115, Center Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F02-003,"Main- Across From Room 115, Center Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F02-004,"Main- Across From Room 115, Center Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F02-005,"Main- Across From Room 115, Center Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F03-001,"Main- Across From Room 115, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F03-002,"Main- Across From Room 115, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F03-003,"Main- Across From Room 115, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F03-004,"Main- Across From Room 115, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
+51013-G-HAL-F03-005,"Main- Across From Room 115, Right Water Cooler",9/20/16 6:00 AM,<2.0,ND
