@@ -26,13 +26,13 @@ df['result'].fillna(0, inplace=True)
 
 if effective_zero_values == df['result'].value_counts()[0]:
 
-    if test:
-        df.to_csv('school_reports.processed.csv', index=False)
-
     # generate id from sample serial num
     df['location_id'] = df['sample'].apply(lambda x: '-'.join(x.split('-')[:-1]))
     # binary var encode scores
     df['exceeds_epa'] = df['result'].apply(lambda x: 0 if x < 15 else 1)
+
+    if test:
+        df.to_csv('school_reports.processed.csv', index=False)
 
     # generate df with mean of trial scores for each fixture
     location_id = pd.DataFrame({'score': df.groupby(['school', 'location_id', 'filename'])['exceeds_epa'].mean()}).reset_index()
