@@ -1,0 +1,502 @@
+schoolname,school,filename,score,num_fixtures,lat,long
+Ace Tech Hs,Acetechhs,IndividualSchool_AceTechHS_400010.pdf,0.0,17,41.796122,-87.625849
+Addams,Addams,Individualschool_Addams_609772.pdf,0.0058823529411764705,17,41.698739,-87.532976
+Agassiz,Agassiz,Individualschool_Agassiz_609773.pdf,0.0,8,41.934126,-87.65622900000001
+Air Force Hs,Airforcehs,IndividualSchool_AirForceHS_610513.pdf,0.0,18,41.828145,-87.632757
+Alcott,Alcott,IndividualSchool_Alcott_609774.pdf,0.0,16,41.92985,-87.646413
+Alcott Hs,Alcotths,IndividualSchool_AlcottHS_610524.pdf,0.0,11,41.935795,-87.680562
+Aldridge,Aldridge,IndividualSchool_Aldridge_609848.pdf,0.0,17,41.657405,-87.606474
+Amundsen Hs,Amundsen,IndividualSchool_Amundsen_609695.pdf,0.0,37,41.975066999999996,-87.679484
+Ariel,Ariel,Individualschool_Ariel_609951.pdf,0.0,28,41.811173,-87.597503
+Armour,Armour,IndividualSchool_Armour_609777.pdf,0.0,26,41.833853999999995,-87.650653
+Armstrong,Armstrongg,Individualschool_ArmstrongG_609779.pdf,0.0,23,42.01015,-87.684442
+Ashburn,Ashburn,Individualschool_Ashburn_610287.pdf,0.0,12,41.742351,-87.70961
+Ashe,Ashe,IndividualSchool_Ashe_610268.pdf,0.0,13,41.740184,-87.601174
+Aspira - Haugan,Aspirahaugan,IndividualSchool_AspiraHaugan_400017.pdf,0.0,22,41.966406,-87.721825
+Audubon,Audubon,Individualschool_Audubon_609782.pdf,0.06153846153846154,13,41.945062,-87.68104100000001
+Avalon Park,Avalonpark,Individualschool_AvalonPark_609786.pdf,0.0,15,41.748247,-87.591654
+Azuela,Azuela,IndividualSchool_Azuela_610544.pdf,0.0,30,41.771079,-87.73992
+Back Of The Yards Hs,Backoftheyardshs,IndividualSchool_BackOfTheYardsHS_610563.pdf,0.0,29,41.808413,-87.677541
+Barnard,Barnard,Individualschool_Barnard_609788.pdf,0.0,9,41.705131,-87.658074
+Barry,Barry,IndividualSchool_Barry_609789.pdf,0.0,12,41.932511,-87.739388
+Barton,Barton,IndividualSchool_Barton_609790.pdf,0.0,6,41.754194,-87.670927
+Bass,Bass,IndividualSchool_Bass_609791.pdf,0.0,15,41.774246000000005,-87.653532
+Bateman,Bateman,Individualschool_Bateman_609792.pdf,0.0,27,41.958220000000004,-87.702151
+Beard,Beard,Individualschool_Beard_610083.pdf,0.0,12,41.970125,-87.78963
+Beasley,Beasley,Individualschool_Beasley_610246.pdf,0.06470588235294118,34,41.798465,-87.625692
+Beaubien,Beaubien,Individualschool_beaubien_609796.pdf,0.05714285714285715,14,41.972394,-87.757565
+Beethoven,Beethoven,Individualschool_Beethoven_610237.pdf,0.0,34,41.809135,-87.627137
+Beidler,Beidler,Individualschool_Beidler_609797.pdf,0.06666666666666667,15,41.885321000000005,-87.705855
+Belding,Belding,IndividualSchool_Belding_609798.pdf,0.0,19,41.958938,-87.73402
+Bell,Bell,IndividualSchool_Bell_609799.pdf,0.0,17,41.949529999999996,-87.686018
+Belmont-Cragin,Belmontcragin,Individualschool_BelmontCragin_609922.pdf,0.0,22,41.92015,-87.756843
+Bennett,Bennett,Individualschool_Bennett_609800.pdf,0.0,25,41.710435,-87.61739
+Blaine,Blaine,Individualschool_Blaine_609803.pdf,0.018181818181818184,22,41.950781,-87.664968
+Blair,Blair,Individualschool_Blair_610087.pdf,0.144,25,41.776556,-87.790604
+Bogan Hs,Bogan,IndividualSchool_Bogan_609698.pdf,0.03333333333333333,30,41.749376,-87.721097
+Bond,Bond,Individualschool_Bond_610238.pdf,0.0,21,41.765361,-87.653018
+Boone,Boone,IndividualSchool_Boone_609804.pdf,0.0,22,42.003412,-87.697463
+Bouchet,Bouchet,Individualschool_Bouchet_609815.pdf,0.06153846153846154,26,41.760847,-87.576075
+Bowen Hs,Bowenhs,IndividualSchool_BowenHS_610323.pdf,0.0,37,41.734627,-87.55755
+Bradwell,Bradwell,IndividualSchool_Bradwell_609806.pdf,0.0,18,41.754365,-87.557142
+Brennemann,Brennemann,Individualschool_Brennemann_610242.pdf,0.12307692307692308,13,41.959984000000006,-87.649749
+Brentano,Brentano,Individualschool_Brentano_609809.pdf,0.05454545454545456,11,41.930966,-87.696294
+Bridge,Bridge,Individualschool_bridge_609810.pdf,0.0,16,41.949114,-87.79866899999999
+Bright,Bright,Individualschool_Bright_609811.pdf,0.0,11,41.699726,-87.562084
+Brighton Park,Brightonpark,Individualschool_BrightonPark_610317.pdf,0.0,15,41.8239,-87.692077
+Brooks Hs,Brookshs,IndividualSchool_BrooksHS_609726.pdf,0.0,33,41.692763,-87.616353
+Brown R,Brownr,IndividualSchool_BrownR_610091.pdf,0.0,14,41.664873,-87.638958
+Brown W,Brownw,IndividualSchool_BrownW_609812.pdf,0.0,16,41.882996999999996,-87.670682
+Brunson,Brunson,IndividualSchool_Brunson_609830.pdf,0.008,25,41.897663,-87.765606
+Budlong,Budlong,Individualschool_Budlong_609817.pdf,0.011111111111111112,18,41.975753999999995,-87.696556
+Burbank,Burbank,Individualschool_Burbank_609818.pdf,0.045714285714285714,35,41.917598,-87.7827
+Burke,Burke,Individualschool_Burke_609819.pdf,0.01764705882352941,34,41.79676,-87.616141
+Burley,Burley,Individualschool_Burley_609820.pdf,0.0,5,41.937937,-87.669853
+Burnham,Burnham,Individualschool_Burnham_609821.pdf,0.0,18,41.714402,-87.567131
+Burnside,Burnside,IndividualSchool_Burnside_609827.pdf,0.02,20,41.728481,-87.607435
+Burr,Burr,Individualschool_Burr_609828.pdf,0.0,4,41.912358000000005,-87.668661
+Burroughs,Burroughs,Individualschool_Burroughs_609829.pdf,0.0,9,41.828868,-87.69245699999999
+Byrne,Byrne,IndividualSchool_Byrne_609832.pdf,0.0,17,41.795031,-87.79154399999999
+Caldwell,Caldwell,Individualschool_Caldwell_609833.pdf,0.05714285714285715,14,41.739226,-87.580729
+Calmeca,Calmeca,IndividualSchool_Calmeca_610353.pdf,0.0,31,41.824377,-87.71165400000001
+Camelot - Excel Englewood Hs,Camelotexcelenglewood,IndividualSchool_CamelotExcelEnglewood_610565.pdf,0.0,13,41.763896,-87.649124
+Camelot Excel Southshore,Camelotexcelsouthshore,IndividualSchool_CamelotExcelSouthshore_400175.pdf,0.0,4,41.760332,-87.556789
+Cameron,Cameron,Individualschool_Cameron_609835.pdf,0.03636363636363637,22,41.903791999999996,-87.717927
+Camras,Camras,Individualschool_Camras_610539.pdf,0.0,6,41.934931,-87.770127
+Canty,Canty,Individualschool_Canty_609836.pdf,0.0,5,41.948007000000004,-87.829296
+Cardenas,Cardenas,Individualschool_cardenas_610024.pdf,0.0,15,41.848488,-87.71601700000001
+Carnegie,Carnegie,IndividualSchool_Carnegie_609837.pdf,0.018750000000000003,16,41.783367999999996,-87.590795
+Carroll,Carroll,Individualschool_Carroll_609839.pdf,0.0,18,41.742517,-87.696012
+Carson,Carson,Individualschool_carson_609842.pdf,0.013333333333333336,45,41.793271999999995,-87.6878
+Carter,Carter,Individualschool_Carter_609844.pdf,0.0,10,41.789828,-87.62245300000001
+Carver G,Carver,Individualschool_Carver_609845.pdf,0.042105263157894736,19,41.653702,-87.59951600000001
+Carver Military Hs,Carvermilitary,IndividualSchool_CarverMilitary_609760.pdf,0.0,39,41.656290000000006,-87.59062
+Cassell,Cassell,individualschool_cassell_609849.pdf,0.0125,16,41.687346999999995,-87.703215
+Castellanos,Castellanos,Individualschool_Castellanos_609826.pdf,0.011764705882352941,17,41.84545,-87.714927
+Cather,Cather,Individualschool_Cather_610251.pdf,0.0,13,41.88295,-87.699187
+Chalmers,Chalmers,IndividualSchool_Chalmers_609851.pdf,0.009523809523809525,21,41.866434999999996,-87.695259
+Chappell,Chappell,Individualschool_Chappell_609852.pdf,0.008695652173913044,23,41.975894,-87.68326400000001
+Chase,Chase,Individualschool_Chase_609853.pdf,0.035897435897435895,39,41.917993,-87.694562
+Chavez,Chavez,IndividualSchool_Chavez_610148.pdf,0.0,18,41.807142999999996,-87.666037
+Chicago Academy Es,Chicagoacademyes,IndividualSchool_ChicagoAcademyES_610248.pdf,0.0,31,41.943056,-87.778187
+Chicago Agriculture Hs,Chicagoagriculture,IndividualSchool_ChicagoAgriculture_609753.pdf,0.0,36,41.691221,-87.71777
+Chicago Arts Hs,Chicagoartshs,IndividualSchool_ChicagoArtsHS_400022.pdf,0.0,24,41.899377,-87.69494499999999
+Chicago Military Hs,Chicagomilitaryhs,IndividualSchool_ChicagoMilitaryHS_609754.pdf,0.0,21,41.830555,-87.61921600000001
+Chicago Tech Hs,Chicagotechhs,IndividualSchool_ChicagoTechHS_400091.pdf,0.0,7,41.863301,-87.659095
+Chopin,Chopin,Individualschool_Chopin_609854.pdf,0.0,7,41.896713,-87.688937
+Cics - Chicagoquest Hs,Cicschicagoquest,IndividualSchool_CICSChicagoQuest_400113.pdf,0.0,20,41.907796999999995,-87.645561
+Claremont,Claremont,IndividualSchool_Claremont_610347.pdf,0.0064516129032258064,31,41.777511,-87.681061
+Clark Es,Clark,IndividualSchool_Clark_609795.pdf,0.0,10,41.867813,-87.770418
+Clark Hs,Clarkhs,IndividualSchool_ClarkHS_610244.pdf,0.043478260869565216,23,41.872885,-87.753325
+Clay,Clay,IndividualSchool_Clay_609856.pdf,0.0,15,41.654558,-87.544614
+Clemente Hs,Clemente,IndividualSchool_Clemente_609759.pdf,0.0774193548387097,62,41.902626,-87.68690600000001
+Cleveland,Cleveland,Individualschool_cleveland_609857.pdf,0.0,17,41.952042,-87.70644300000001
+Clinton,Clinton,Individualschool_Clinton_609859.pdf,0.0,24,41.992540999999996,-87.69836
+Clissold,Clissold,IndividualSchool_Clissold_609861.pdf,0.0,10,41.693026,-87.680897
+Colemon,Colemon,IndividualSchool_Colemon_610199.pdf,0.0,7,41.677505,-87.658111
+Coles,Coles,Individualschool_Coles_609862.pdf,0.028571428571428574,14,41.741413,-87.56597
+Collins Hs,Collins,IndividualSchool_CollinsHS_610499.pdf,0.0375,32,41.864149,-87.702042
+Columbia Explorers,Columbiaexplorers,IndividualSchool_ColumbiaExplorers_610170.pdf,0.006666666666666667,30,41.811069,-87.704199
+Columbus,Columbus,Individualschool_Columbus_609863.pdf,0.022222222222222223,9,41.899566,-87.681938
+Cook,Cook,Individualschool_Cook_609864.pdf,0.0,18,41.745237,-87.659775
+Coonley,Coonley,Individualschool_Coonley_609866.pdf,0.0,7,41.955553,-87.68376500000001
+Cooper,Cooper,Individualschool_cooper_609867.pdf,0.0,24,41.856031,-87.667227
+Corkery,Corkery,Individualschool_Corkery_609870.pdf,0.0,19,41.845602,-87.731193
+Corliss Hs,Corliss,IndividualSchool_Corliss_609761.pdf,0.0,22,41.70666,-87.60121600000001
+Courtenay,Courtenay,Individualschool_courtenay_610355.pdf,0.06666666666666667,24,41.962308,-87.663853
+Crane Medical Hs,Cranemedical,IndividualSchool_CraneMedical_610561.pdf,0.0,25,41.876946999999994,-87.683301
+Crown,Crown,Individualschool_Crown_609873.pdf,0.0,5,41.852663,-87.71247
+Cuffe,Cuffe,IndividualSchool_Cuffe_610003.pdf,0.013793103448275864,29,41.742452,-87.653633
+Cullen,Cullen,IndividualSchool_cullen_610004.pdf,0.0,4,41.700334999999995,-87.611244
+Curie Hs,Curie,IndividualSchool_Curie_609756.pdf,0.0,46,41.803059999999995,-87.722042
+Curtis,Curtis,Individualschool_Curtis_609900.pdf,0.0,23,41.685418,-87.62165300000001
+Chicago Vocational Hs,Cvca,IndividualSchool_CVCA_609674.pdf,0.08095238095238096,42,41.737173999999996,-87.573268
+Darwin,Darwin,Individualschool_Darwin_609875.pdf,0.02666666666666667,30,41.923322999999996,-87.70541300000001
+Davis N,Davis,IndividualSchool_Davis_609876.pdf,0.0,26,41.821852,-87.700202
+Davis M,Davism,IndividualSchool_DavisM_610521.pdf,0.0,25,41.771221000000004,-87.66653000000001
+Dawes,Dawes,Individualschool_Dawes_609879.pdf,0.0,24,41.745078,-87.717353
+De Diego,Dediego,Individualschool_DeDiego_610313.pdf,0.0,11,41.905294,-87.68575600000001
+Deneen,Deneen,Individualschool_Deneen_609883.pdf,0.028571428571428574,14,41.76249,-87.623345
+Depriest,Depriest,IndividualSchool_DePriest_610367.pdf,0.0,26,41.877978999999996,-87.76629799999999
+Dett,Dett,Individualschool_Dett_610252.pdf,0.0,5,41.879870000000004,-87.68031500000001
+Dever,Dever,Individualschool_Dever_609884.pdf,0.0,17,41.942552,-87.813132
+Dewey,Dewey,Individualschool_dewey_609885.pdf,0.0,17,41.795646000000005,-87.642652
+Dirksen,Dirksen,Individualschool_Dirksen_609874.pdf,0.0,17,41.973715000000006,-87.841041
+Disney,Disney,Individualschool_Disney_610363.pdf,0.011111111111111112,54,41.956815999999996,-87.64608299999999
+Disney Ii,Disneyii,Individualschool_DisneyII_610515.pdf,0.016666666666666666,12,41.950461,-87.730678
+Dixon,Dixon,IndividualSchool_Dixon_609887.pdf,0.0,17,41.743669,-87.60997900000001
+Dodge,Dodge,Individualschool_Dodge_610257.pdf,0.03,20,41.889178,-87.705108
+U Of C - Donoghue,Donoghue,IndividualSchool_Donoghue_400075.pdf,0.0,14,41.827726,-87.608501
+Doolittle,Doolittle,Individualschool_Doolittle_609891.pdf,0.0,22,41.831121,-87.612275
+Dore,Dore,Individualschool_Dore_609893.pdf,0.0,8,41.780954,-87.787604
+Douglass Hs,Douglasshs,IndividualSchool_DouglassHS_610245.pdf,0.037037037037037035,27,41.890369,-87.767668
+Drake,Drake,Individualschool_Drake_609894.pdf,0.010526315789473684,19,41.844043,-87.628553
+Drummond,Drummond,IndividualSchool_Drummond_609896.pdf,0.028571428571428574,14,41.915914,-87.674495
+Dubois,Dubois,Individualschool_DuBois_610364.pdf,0.05,8,41.653733,-87.61431999999999
+Dulles,Dulles,Individualschool_Dulles_610263.pdf,0.0,13,41.7799,-87.617214
+Dunbar Hs,Dunbar,IndividualSchool_Dunbar_609676.pdf,0.011111111111111112,36,41.840226,-87.617637
+Dunne,Dunne,IndividualSchool_Dunne_610188.pdf,0.0,10,41.696496,-87.639974
+Durkin Park,Durkinpark,Individualschool_DurkinPark_610352.pdf,0.06666666666666667,15,41.738844,-87.729955
+Dvorak,Dvorak,Individualschool_dvorak_610254.pdf,0.0,15,41.858883,-87.715744
+Earhart,Earhart,IndividualSchool_Earhart_610316.pdf,0.0,9,41.726107,-87.58218199999999
+Earle,Earle,Individualschool_Earle_609897.pdf,0.0,14,41.781225,-87.675547
+Eberhart,Eberhart,IndividualSchool_Eberhart_609898.pdf,0.0,33,41.77442,-87.707953
+Ebinger,Ebinger,IndividualSchool_Ebinger_609899.pdf,0.0,21,42.004408000000005,-87.81116999999999
+Edgebrook,Edgebrook,IndividualSchool_Edgebrook_609901.pdf,0.0,16,41.999437,-87.76184
+Edison,Edison,IndividualSchool_Edison_609794.pdf,0.02307692307692308,26,41.971506,-87.709304
+Edison Park,Edisonpark,IndividualSchool_EdisonPark_610523.pdf,0.0,19,41.994238,-87.813771
+Edwards,Edwards,IndividualSchool_Edwards_609903.pdf,0.0,20,41.805541999999996,-87.72585600000001
+Ellington,Ellington,IndividualSchool_Ellington_609904.pdf,0.0,32,41.885529999999996,-87.766589
+Epic Hs,Epichs,IndividualSchool_EpicHS_400094.pdf,0.0,10,41.744849,-87.55022199999999
+Ericson,Ericson,Individualschool_Ericson_609907.pdf,0.0,5,41.875744,-87.715804
+Esmond,Esmond,Individualschool_Esmond_609908.pdf,0.018750000000000003,32,41.68942,-87.669159
+Everett,Everett,Individualschool_Everett_609909.pdf,0.10769230769230768,13,41.831555,-87.68131
+Evergreen,Evergreen,IndividualSchool_Evergreen_610319.pdf,0.0,18,41.829356,-87.667817
+Evers,Evers,Individualschool_Evers_610362.pdf,0.0,3,41.715665,-87.63930500000001
+Fairfield,Fairfield,IndividualSchool_Fairfield_610057.pdf,0.15000000000000002,4,41.780904,-87.692115
+Falconer,Falconer,Individualschool_Falconer_609910.pdf,0.0,28,41.935784999999996,-87.74933100000001
+Faraday,Faraday,Individualschool_Faraday_610055.pdf,0.0,17,41.879714,-87.70809200000001
+Farnsworth,Farnsworth,IndividualSchool_Farnsworth_609912.pdf,0.0,17,41.97979,-87.766072
+Farragut Hs,Farragut,Individualschool_Farragut_609704.pdf,0.0,30,41.84856,-87.708706
+Fenger Hs,Fengerhs,IndividualSchool_FengerHS_609705.pdf,0.013333333333333334,30,41.689951,-87.63757199999999
+Fernwood,Fernwood,Individualschool_Fernwood_609917.pdf,0.06315789473684212,19,41.711184,-87.640414
+Field,Field,Individualschool_Field_609918.pdf,0.2076923076923077,13,42.009664,-87.669985
+Finkl,Finkl,IndividualSchool_Finkl_609967.pdf,0.0,25,41.849215,-87.685668
+Fiske,Fiske,IndividualSchool_Fiske_609919.pdf,0.0,22,41.785183,-87.608633
+Foreman Hs,Foreman,IndividualSchool_Foreman_609708.pdf,0.005555555555555556,36,41.939797,-87.75416700000001
+Fort Dearborn,Fortdearborn,Individualschool_FortDearborn_609924.pdf,0.010526315789473684,19,41.729673,-87.65548100000001
+Foster Park,Fosterpark,Individualschool_FosterPark_609927.pdf,0.0,16,41.738425,-87.668099
+Franklin,Franklin,IndividualSchool_Franklin_609926.pdf,0.0,13,41.9066,-87.635513
+Frazier Prospective,Frazierprospective,IndividualSchool_FrazierProspective_610503.pdf,0.07272727272727274,22,41.86698,-87.727244
+Fuller,Fuller,IndividualSchool_Fuller_609928.pdf,0.0,21,41.818003000000004,-87.611784
+Fulton,Fulton,Individualschool_Fulton_609929.pdf,0.0,11,41.797579999999996,-87.668436
+Funston,Funston,Individualschool_Funston_609930.pdf,0.007692307692307693,26,41.917617,-87.716892
+Gage Park Hs,Gagepark,IndividualSchool_GagePark_609709.pdf,0.0,36,41.791013,-87.68895400000001
+Gale,Gale,Individualschool_Gale_609933.pdf,0.0,29,42.021091,-87.671939
+Galileo,Galileo,IndividualSchool_Galileo_610009.pdf,0.075,32,41.871255,-87.653366
+Gallistel,Gallistel,Individualschool_Gallistel_609935.pdf,0.008695652173913044,23,41.706801,-87.535175
+Garvey,Garvey,Individualschool_Garvey_610128.pdf,0.0,9,41.706603,-87.647577
+Garvy,Garvy,individualschool_garvy_609937.pdf,0.0,16,41.976352,-87.796235
+Gary,Gary,Individualschool_Gary_609938.pdf,0.0,11,41.837065,-87.71869699999999
+Gillespie,Gillespie,Individualschool_Gillespie_609939.pdf,0.0,9,41.725332,-87.623719
+Goethe,Goethe,Individualschool_Goethe_609942.pdf,0.0,16,41.922831,-87.6929
+Goode Hs,Goodehs,IndividualSchool_GoodeHS_610558.pdf,0.0,32,41.75375,-87.70734499999999
+Goudy,Goudy,Individualschool_Goudy_609945.pdf,0.017391304347826087,23,41.975817,-87.657912
+Graham Es,Graham,Individualschool_Graham_609947.pdf,0.0380952380952381,21,41.813303999999995,-87.643344
+Graham Hs,Grahamhs,IndividualSchool_GrahamHS_609769.pdf,0.0,7,41.849675,-87.625315
+Gray,Gray,IndividualSchool_Gray_609949.pdf,0.0,23,41.948764000000004,-87.757116
+Greeley,Greeley,Individualschool_Greeley_609850.pdf,0.010526315789473684,19,41.95281,-87.65098
+Green,Green,Individualschool_Green_610032.pdf,0.0,10,41.719291999999996,-87.6525
+Greene,Greene,IndividualSchool_Greene_609952.pdf,0.0,26,41.829669,-87.671492
+Gregory,Gregory,Individualschool_Gregory_609954.pdf,0.0,12,41.870742,-87.718666
+Gresham,Gresham,Individualschool_Gresham_609955.pdf,0.0,24,41.73892,-87.645025
+Grimes,Grimes,IndividualSchool_Grimes_609956.pdf,0.0,10,41.775464,-87.758803
+Grissom,Grissom,IndividualSchool_Grissom_609944.pdf,0.0,9,41.662481,-87.55330699999999
+Gunsaulus,Gunsaulus,Individualschool_Gunsaulus_609958.pdf,0.014285714285714287,14,41.813007,-87.699364
+Haines,Haines,IndividualSchool_Haines_609959.pdf,0.0,18,41.849958,-87.633806
+Hale,Hale,Individualschool_Hale_609960.pdf,0.0,26,41.780192,-87.776579
+Haley,Haley,Individualschool_Haley_609808.pdf,0.008333333333333333,24,41.686659999999996,-87.63363199999999
+Hamilton,Hamilton,IndividualSchool_Hamilton_609963.pdf,0.0,19,41.94522,-87.670865
+Hamline,Hamline,IndividualSchool_Hamline_609964.pdf,0.0125,32,41.807241999999995,-87.661175
+Hammond,Hammond,IndividualSchool_Hammond_609966.pdf,0.0,14,41.852719,-87.69624300000001
+Hampton,Hampton,IndividualSchool_Hampton_609807.pdf,0.012121212121212121,33,41.753457,-87.708731
+Hancock Hs,Hancock,IndividualSchool_Hancock_609694.pdf,0.0,28,41.791464000000005,-87.72447
+Hanson Park,Hansonpark,Individualschool_HansonPark_610068.pdf,0.0,32,41.923955,-87.761515
+Harlan Hs,Harlan,IndividualSchool_Harlan_609710.pdf,0.1021276595744681,47,41.718371999999995,-87.620623
+Harper Hs,Harperhs,IndividualSchool_HarperHS_609711.pdf,0.05517241379310344,29,41.775124,-87.669089
+Harte,Harte,IndividualSchool_Harte_609969.pdf,0.02,10,41.793447,-87.586855
+Harvard,Harvard,Individualschool_Harvard_609971.pdf,0.018181818181818184,11,41.757341,-87.632737
+Haugan,Haugan,Individualschool_Haugan_609972.pdf,0.0,25,41.964029,-87.723128
+Hawthorne,Hawthorne,IndividualSchool_Hawthorne_609974.pdf,0.0,12,41.942275,-87.657709
+Hay,Hay,Individualschool_Hay_609975.pdf,0.0,18,41.899171,-87.755813
+Hayt,Hayt,Individualschool_hayt_609976.pdf,0.0,28,41.994541,-87.668504
+Healy,Healy,Individualschool_healy_609979.pdf,0.0625,16,41.839595,-87.640341
+Hearst,Hearst,Individualschool_Hearst_609981.pdf,0.0,18,41.808175,-87.745726
+Hedges,Hedges,Individualschool_hedges_609983.pdf,0.0,22,41.807112,-87.673327
+Hefferan,Hefferan,Individualschool_Hefferan_609985.pdf,0.0,5,41.878665000000005,-87.735802
+Henderson,Henderson,IndividualSchool_Henderson_609986.pdf,0.0,22,41.790591,-87.671887
+Hendricks,Hendricks,Individualschool_Hendricks_609987.pdf,0.0,9,41.815788,-87.633664
+Henry,Henry,Individualschool_Henry_609988.pdf,0.0,10,41.958989,-87.715632
+Hernandez,Hernandez,IndividualSchool_Hernandez_610532.pdf,0.0,25,41.793479,-87.71137
+Herzl,Herzl,Individualschool_Herzl_609991.pdf,0.0,30,41.862080999999996,-87.718994
+Hibbard,Hibbard,IndividualSchool_Hibbard_609994.pdf,0.010714285714285714,16,41.970335,-87.710362
+Higgins,Higgins,IndividualSchool_Higgins_610295.pdf,0.0,10,41.681031,-87.64699399999999
+Hirsch Hs,Hirschhs,IndividualSchool_HirschHS_609712.pdf,0.0,24,41.753748,-87.601727
+Hitch,Hitch,Individualschool_Hitch_609995.pdf,0.0,12,41.983672,-87.779123
+Holden,Holden,Individualschool_Holden_609996.pdf,0.0,15,41.838027000000004,-87.65379200000001
+Holmes,Holmes,Individualschool_Holmes_609997.pdf,0.0,21,41.793788,-87.649795
+Hope Hs,Hope,IndividualSchool_Hope_609768.pdf,0.0,25,41.793553,-87.641244
+Hope Institute,Hopeinstitute,Individualschool_HopeInstitute_400043.pdf,0.004166666666666667,48,41.883362,-87.668077
+Howe,Howe,Individualschool_Howe_610000.pdf,0.0,14,41.893612,-87.759398
+Hubbard Hs,Hubbard,IndividualSchool_Hubbard_609741.pdf,0.0,40,41.780526,-87.718014
+Hughes C,Hughesc,Individualschool_HughesC_610005.pdf,0.028571428571428574,14,41.860518,-87.73177700000001
+Hughes L,Hughesl,IndividualSchool_HughesL_610368.pdf,0.009523809523809525,21,41.705342,-87.629869
+Hurley,Hurley,IndividualSchool_Hurley_610006.pdf,0.0,15,41.766785,-87.719541
+Hyde Park Hs,Hydeparkhs,IndividualSchool_HydeParkHS_609713.pdf,0.0,51,41.782257,-87.58661500000001
+Interamerican,Interamerican,Individualschool_Interamerican_610078.pdf,0.0,20,41.949003000000005,-87.651573
+Irving,Irving,IndividualSchool_Irving_610121.pdf,0.0,16,41.871595,-87.683616
+Jackson M,Jackson,Individualschool_Jackson_610369.pdf,0.0,4,41.734125,-87.64676700000001
+Jahn,Jahn,Individualschool_Jahn_610010.pdf,0.0,15,41.939246999999995,-87.67581
+Jamieson,Jamieson,Individualschool_Jamieson_610011.pdf,0.0,9,41.984640999999996,-87.700529
+Jenner,Jenner,IndividualSchool_Jenner_610012.pdf,0.0,19,41.902055,-87.641056
+Jensen,Jensen,Individualschool_Jensen_610271.pdf,0.0,23,41.873815,-87.702241
+Johnson,Johnson,Individualschool_Johnson_610274.pdf,0.0,19,41.861836,-87.70313900000001
+Jones Hs,Joneshs,IndividualSchool_JonesHS_609678.pdf,0.0,48,41.873065999999994,-87.627675
+Joplin,Joplin,IndividualSchool_Joplin_609805.pdf,0.0,10,41.749339,-87.669366
+Juarez Hs,Juarezhs,IndividualSchool_JuarezHS_ 609764.pdf,0.0,33,41.852667,-87.663732
+Julian Hs,Julianhs,IndividualSchool_JulianHS_609762.pdf,0.041379310344827586,29,41.705859000000004,-87.653749
+Jungman,Jungman,Individualschool_Jungman_610015.pdf,0.0,5,41.858065,-87.652302
+Kanoon,Kanoon,Individualschool_Kanoon_609920.pdf,0.005128205128205128,13,41.850771,-87.705112
+Keller,Keller,IndividualSchool_Keller_610084.pdf,0.0,5,41.69717,-87.697278
+Kellman,Kellman,Individualschool_kellman_609925.pdf,0.0,7,41.870168,-87.702163
+Kellogg,Kellogg,IndividualSchool_Kellogg_610016.pdf,0.025,8,41.725263,-87.677233
+Kelly Hs,Kellyhs,IndividualSchool_KellyHS_609715.pdf,0.0,34,41.818729,-87.694639
+Kelvyn Park Hs,Kelvynparkhs,IndividualSchool_KelvynParkHS_609716.pdf,0.0,28,41.927918,-87.73599899999999
+Kennedy Hs,Kennedy,IndividualSchool_Kennedy_609718.pdf,0.0,58,41.789961,-87.78084
+Kenwood Hs,Kenwoodhs,IndividualSchool_KenwoodHS_609746.pdf,0.02222222222222222,63,41.803771999999995,-87.59042099999999
+Kershaw,Kershaw,IndividualSchool_Kershaw_610019.pdf,0.1285714285714286,14,41.776453000000004,-87.64089200000001
+Kilmer,Kilmer,Individualschool_Kilmer_610022.pdf,0.0,16,42.003640000000004,-87.668222
+King Es,King,Individualschool_King_610299.pdf,0.0,18,41.765335,-87.641335
+King Hs,Kinghs,IndividualSchool_KingHS_609751.pdf,0.0,28,41.813675,-87.603874
+Kinzie,Kinzie,IndividualSchool_Kinzie_610026.pdf,0.0,58,41.789965,-87.779483
+Kipling,Kipling,IndividualSchool_Kipling_610027.pdf,0.0,12,41.723627,-87.639521
+Kozminski,Kozminski,Individualschool_kozminski_610030.pdf,0.0,4,41.798002000000004,-87.60248100000001
+Lasalle Ii,LaSalle II,Individualschool_Lasalle_II_610520.pdf,0.0071428571428571435,28,41.902914,-87.67369599999999
+Lake View Hs,Lakeviewhs,IndividualSchool_LakeViewHS_609719.pdf,0.0058823529411764705,34,41.954764000000004,-87.668953
+Lane Tech Hs,Lanetech,IndividualSchool_LaneTech_609720.pdf,0.0,69,41.946645000000004,-87.691013
+Langford,Langford,Individualschool_Langford_609869.pdf,0.0,10,41.784681,-87.657169
+Lara,Lara,IndividualSchool_Lara_609993.pdf,0.0,23,41.80977,-87.67218199999999
+Lasalle,Lasalle,individualschool_lasalle_610033.pdf,0.1285714285714286,14,41.9139,-87.63756500000001
+Lavizzo,Lavizzo,IndividualSchool_Lavizzo_610208.pdf,0.0,13,41.696262,-87.62714799999999
+Lawndale,Lawndale,IndividualSchool_Lawndale_610034.pdf,0.0,14,41.86296,-87.71295699999999
+Lee,Lee,Individualschool_Lee_610291.pdf,0.0,16,41.775304999999996,-87.728884
+Lenart,Lenart,Individualschool_Lenart_610298.pdf,0.0,6,41.747186,-87.62804
+Lewis,Lewis,Individualschool_Lewis_610036.pdf,0.009090909090909092,22,41.906826,-87.75455
+Libby,Libby,IndividualSchool_Libby_610037.pdf,0.009523809523809525,21,41.797684999999994,-87.659933
+Lincoln,Lincoln,IndividualSchool_Lincoln_610038.pdf,0.0,31,41.924525,-87.644497
+Lincoln Park Hs,Lincolnparkhs,IndividualSchool_LincolnParkHS_609738.pdf,0.0,47,41.918268,-87.64600899999999
+Lindblom Hs,Lindblom,IndividualSchool_Lindblom_610391.pdf,0.005128205128205128,39,41.782041,-87.671662
+Little Village,Littlevillage,IndividualSchool_LittleVillage_609834.pdf,0.016666666666666666,24,41.843697999999996,-87.71731899999999
+Lloyd,Lloyd,Individualschool_Lloyd_610040.pdf,0.0,23,41.918814000000005,-87.748515
+Locke J,Lockej,Individualschool_LockeJ_610041.pdf,0.005405405405405406,37,41.931762,-87.795604
+Logandale,Logandale,Individualschool_Logandale_610325.pdf,0.0,20,41.93397,-87.70804100000001
+Lovett,Lovett,IndividualSchool_Lovett_610043.pdf,0.03529411764705882,17,41.912718,-87.783919
+Lowell,Lowell,Individualschool_Lowell_610044.pdf,0.010526315789473684,19,41.90652,-87.710217
+Lozano,Lozano,Individualschool_Lozano_610029.pdf,0.03636363636363637,22,41.908885999999995,-87.665093
+Lyon,Lyon,Individualschool_Lyon_610046.pdf,0.006060606060606061,33,41.934191999999996,-87.777174
+Madero,Madero,IndividualSchool_Madero_610215.pdf,0.05,20,41.840957,-87.70506400000001
+Madison,Madison,IndividualSchool_Madison_610047.pdf,0.0,13,41.759547999999995,-87.590712
+Manierre,Manierre,Individualschool_Manierre_610048.pdf,0.007692307692307693,26,41.908246999999996,-87.639827
+Manley Hs,Manley,IndividualSchool_Manley_609722.pdf,0.0,30,41.870939,-87.699896
+Mann,Mann,Individualschool_Mann_610052.pdf,0.0,16,41.748274,-87.574816
+Marine Leadership At Ames Hs,Marineleadershipames,IndividualSchool_MarineLeadershipAmes_609780.pdf,0.0,17,41.916045000000004,-87.721742
+Marquette,Marquette,IndividualSchool_Marquette_610053.pdf,0.0,22,41.773881,-87.69703
+Marsh,Marsh,Individualschool_Marsh_610054.pdf,0.020000000000000004,30,41.716588,-87.552483
+Marshall Hs,Marshallhs,IndividualSchool_MarshallHS_609723.pdf,0.0,49,41.878444,-87.70805
+Mason,Mason,Individualschool_Mason_610056.pdf,0.005405405405405406,37,41.856864,-87.731672
+Mather Hs,Mather,IndividualSchool_Mather_609724.pdf,0.0,32,41.987589,-87.702496
+Mayer,Mayer,Individualschool_Mayer_610059.pdf,0.0,18,41.923204,-87.657287
+Mays,Mays,Individualschool_Mays_610290.pdf,0.0,5,41.772727,-87.637277
+Mcclellan,Mcclellan,Individualschool_McClellan_610062.pdf,0.0,12,41.829993,-87.641103
+Mccormick,Mccormick,Individualschool_McCormick_610063.pdf,0.0,14,41.842267,-87.7063
+Mccutcheon,Mccutcheon,Individualschool_McCutcheon_610269.pdf,0.0,16,41.970949,-87.654758
+Mcdade,Mcdade,IndividualSchool_McDade_610066.pdf,0.0,6,41.73455,-87.619214
+Mcdowell,Mcdowell,Individualschool_McDowell_610312.pdf,0.0,7,41.733132,-87.589589
+Mckay,Mckay,Individualschool_McKay_610067.pdf,0.0,21,41.768143,-87.691787
+Mcnair,Mcnair,IndividualSchool_McNair_610282.pdf,0.030952380952380953,21,41.897819,-87.74673100000001
+Mcpherson,Mcpherson,Individualschool_McPherson_610070.pdf,0.0,24,41.967847,-87.676288
+Metcalfe,Metcalfe,Individualschool_Metcalfe_609902.pdf,0.0,11,41.669444,-87.63430600000001
+Mireles,Mireles,Individualschool_Mireles_610171.pdf,0.0380952380952381,21,41.731716999999996,-87.552788
+Mitchell,Mitchell,Individualschool_Mitchell_610073.pdf,0.05714285714285715,14,41.892082,-87.683185
+Mollison,Mollison,Individualschool_Mollison_610276.pdf,0.0,11,41.814358,-87.616618
+Monroe,Monroe,Individualschool_Monroe_610074.pdf,0.0,12,41.929989,-87.719224
+Montessori Englewood,Montessorienglewood,IndividualSchool_MontessoriEnglewood_400116.pdf,0.0,10,41.774572,-87.676147
+Moos,Moos,Individualschool_Moos_610076.pdf,0.0,28,41.912504999999996,-87.69694100000001
+Morrill,Morrill,Individualschool_Morrill_610077.pdf,0.0,12,41.784313,-87.688549
+Mount Greenwood,Mountgreenwood,IndividualSchool_MountGreenwood_610082.pdf,0.0,24,41.695734,-87.70581
+Mount Vernon,Mountvernon,IndividualSchool_MountVernon_610086.pdf,0.0,15,41.701952,-87.64765200000001
+Mozart,Mozart,Individualschool_Mozart_610088.pdf,0.0,23,41.92091,-87.721888
+Murphy,Murphy,Individualschool_Murphy_610089.pdf,0.0,15,41.950078000000005,-87.716832
+Murray,Murray,IndividualSchool_Murray_610090.pdf,0.0,13,41.798535,-87.59334
+Nash,Nash,IndividualSchool_Nash_610092.pdf,0.0,23,41.89181,-87.747936
+National Teachers,Nationalteachers,IndividualSchool_NationalTeachers_610231.pdf,0.0,50,41.8528,-87.629308
+Neil,Neil,Individualschool_Neil_610093.pdf,0.0,5,41.738407,-87.620933
+Nettelhorst,Nettelhorst,Individualschool_Nettelhorst_610094.pdf,0.03076923076923077,26,41.941637,-87.644561
+Newberry,Newberry,Individualschool_Newberry_610095.pdf,0.03157894736842106,19,41.913947,-87.64599
+New Field,Newfield,IndividualSchool_NewField_610284.pdf,0.0,41,42.007703,-87.673168
+New Sullivan,Newsulllivan,IndividualSchool_NewSulllivan_610193.pdf,0.0,21,41.743829,-87.542928
+Nicholson,Nicholson,Individualschool_Nicholson_609793.pdf,0.0,4,41.784942,-87.647453
+Nightingale,Nightingale,Individualschool_Nightingale_610096.pdf,0.008695652173913044,23,41.797714,-87.689139
+Ninos Heroes,Ninosheroes,Individualschool_NinosHeroes_609961.pdf,0.0,15,41.743753000000005,-87.551862
+Nixon,Nixon,IndividualSchool_Nixon_610097.pdf,0.0,16,41.919581,-87.73142
+Nobel,Nobel,IndividualSchool_Nobel_610098.pdf,0.0,11,41.906155,-87.729955
+Noble - Bulls Hs,Noblebulls,IndividualSchool_NobleBulls_400097.pdf,0.0,21,41.878809000000004,-87.678195
+Noble - Johnson Hs,Noblejohnson,IndividualSchool_NobleJohnson_400106.pdf,0.0,17,41.778369,-87.63511700000001
+Noble - Uic Hs,Nobleuic,IndividualSchool_NobleUIC_400057.pdf,0.0,17,41.865817,-87.67611099999999
+North-Grand Hs,Northgrand,IndividualSchool_NorthGrand_609691.pdf,0.0,21,41.911674,-87.735238
+North Lawndale - Christiana Hs,Northlawndalechristiana,IndividualSchool_NorthLawndaleChristiana_400058.pdf,0.11428571428571428,21,41.858564,-87.708987
+North River,Northriver,IndividualSchool_NorthRiver_610354.pdf,0.0,8,41.961721000000004,-87.707151
+Northside Learning Hs,Northsidehs,IndividualSchool_NorthsideHS_609744.pdf,0.05,16,41.982973,-87.722386
+Northside Prep Hs,Northsideprep,IndividualSchool_NorthsidePrep_609749.pdf,0.0,22,41.981315,-87.708708
+Norwood Park,Norwoodpark,Individualschool_NorwoodPark_610099.pdf,0.07692307692307693,13,41.988153000000004,-87.80297900000001
+Ogden Hs,Ogden,IndividualSchool_Ogden_610529.pdf,0.0,20,41.893547999999996,-87.659405
+Ogden,Ogden,Individualschool_Ogden_610101.pdf,0.0,9,41.899976,-87.629297
+Oglesby,Oglesby,Individualschool_Oglesby_610102.pdf,0.0,9,41.754670000000004,-87.64546899999999
+Okeeffe,Okeeffe,Individualschool_Okeeffe_610103.pdf,0.0,16,41.768602,-87.572806
+Onahan,Onahan,Individualschool_Onahan_610104.pdf,0.15454545454545457,22,41.993790000000004,-87.79310799999999
+Oriole Park,Oriolepark,Individualschool_OriolePark_610105.pdf,0.0,27,41.978501,-87.812054
+Orozco,Orozco,IndividualSchool_Orozco_610329.pdf,0.0,18,41.857755,-87.67520999999999
+Orr Hs,Orr,IndividualSchool_Orr_610389.pdf,0.1602941176470588,34,41.894449,-87.726166
+Ortiz De Dominguez,Ortizdedominguez,IndividualSchool_OrtizDeDominguez_609950.pdf,0.0,29,41.838791,-87.71719
+Otis,Otis,Individualschool_Otis_610107.pdf,0.0,14,41.891806,-87.665426
+Otoole,Otoole,Individualschool_Otoole_610108.pdf,0.0,19,41.774571,-87.674865
+Owen,Owen,IndividualSchool_Owen_610109.pdf,0.0,10,41.74285,-87.705749
+Owens,Owens,Individualschool_Owens_609943.pdf,0.0125,16,41.670618,-87.622546
+Palmer,Palmer,IndividualSchool_Palmer_610111.pdf,0.0,15,41.973289,-87.739213
+Parker,Parker,Individualschool_Parker_610112.pdf,0.0,11,41.77078,-87.634086
+Park Manor,Parkmanor,Individualschool_ParkManor_610115.pdf,0.0,13,41.766477,-87.61154599999999
+Parkside,Parkside,Individualschools_Parkside_610116.pdf,0.010526315789473684,19,41.768555,-87.582954
+Pasteur,Pasteur,Individualschool_Pasteur_610117.pdf,0.0,19,41.786895,-87.73266600000001
+Payton Hs,Payton,IndividualSchool_Payton_609680.pdf,0.0,22,41.901575,-87.635385
+Peace And Education Hs,Peaceandeducation,IndividualSchool_PeaceAndEducation_610386.pdf,0.04,10,41.803515000000004,-87.667378
+Peck,Peck,IndividualSchool_Peck_610120.pdf,0.0,19,41.787898999999996,-87.719216
+Peirce,Peirce,Individualschool_Peirce_610122.pdf,0.010526315789473684,19,41.983456,-87.66585
+Penn,Penn,Individualschool_Penn_610123.pdf,0.02,20,41.858371999999996,-87.722386
+Perez,Perez,Individualschool_Perez_609872.pdf,0.08333333333333333,12,41.856029,-87.65798000000001
+Pershing,Pershing,IndividualSchool_Pershing_610126.pdf,0.0,21,41.836527000000004,-87.618338
+Perspectives - Leadership Hs,Perspectiveleadership,IndividualSchool_PerspectiveLeadership_400061.pdf,0.05333333333333334,15,41.745961,-87.652045
+Perspectives - Math & Sci Hs,Perspectivesmathsci,IndividualSchool_PerspectivesMathSci_400066.pdf,0.0,15,41.827784,-87.624788
+Peterson,Peterson,IndividualSchool_Peterson_610127.pdf,0.0,20,41.981557,-87.712583
+Phillips Hs,Phillipshs,IndividualSchool_PhillipsHS_609727.pdf,0.0,46,41.823879999999996,-87.619796
+Phoenix Military Hs,Phoenixmilitary,IndividualSchool_PhoenixMilitary_610304.pdf,0.011111111111111112,36,41.879118,-87.68696
+Piccolo,Piccolo,IndividualSchool_Piccolo_610106.pdf,0.0,31,41.90014,-87.731261
+Pickard,Pickard,Individualschool_Pickard_610129.pdf,0.016,25,41.8529,-87.683291
+Pilsen,Pilsen,Individualschool_Pilsen_610013.pdf,0.002403846153846154,26,41.858849,-87.66220899999999
+Pirie,Pirie,Individualschool_Pirie_610130.pdf,0.08333333333333333,12,41.74034,-87.60789100000001
+Plamondon,Plamondon,IndividualSchool_Plamondon_610131.pdf,0.0,7,41.860259,-87.692526
+Portage Park,Portagepark,Individualschool_PortagePark_610135.pdf,0.008,25,41.956988,-87.76100699999999
+Powell,Powell,IndividualSchool_Powell_610281.pdf,0.0,11,41.760332,-87.556789
+Prescott,Prescott,Individualschool_Prescott_610136.pdf,0.0,10,41.928841,-87.669528
+Prieto,Prieto,IndividualSchool_Prieto_610533.pdf,0.0,33,41.921318,-87.765781
+Pritzker,Pritzker,Individualschool_pritzker_610229.pdf,0.0,5,41.907053000000005,-87.677761
+Prosser Hs,Prosserhs,IndividualSchool_ProsserHS_609679.pdf,0.0,34,41.920059,-87.761048
+Providence Englewood,Providenceenglewood,IndividualSchool_ProvidenceEnglewood_400071.pdf,0.0,16,41.775366999999996,-87.663996
+Prussing,Prussing,Individualschool_Prussing_610137.pdf,0.013333333333333334,15,41.965619000000004,-87.772414
+Pulaski,Pulaski,Individualschool_Pulaski_610138.pdf,0.013793103448275864,29,41.918486,-87.683801
+Pullman,Pullman,IndividualSchool_Pullman_610139.pdf,0.09999999999999999,12,41.688819,-87.609431
+Raby Hs,Rabyhs,IndividualSchool_RabyHS_610334.pdf,0.014285714285714287,28,41.88621,-87.715423
+Randolph,Randolph,Individualschool_Randolph_609941.pdf,0.0,14,41.760614000000004,-87.675966
+Ravenswood,Ravenswood,Individualschool_Ravenswood_610141.pdf,0.0,5,41.960746,-87.67092199999999
+Ray,Ray,Individualschool_Ray_610142.pdf,0.0,13,41.792348,-87.594752
+Reavis,Reavis,Individualschool_Reavis_610143.pdf,0.01,20,41.804173999999996,-87.604925
+Reilly,Reilly,Individualschool_Reilly_610144.pdf,0.25999999999999995,10,41.941094,-87.719541
+Reinberg,Reinberg,Individualschool_Reinberg_610145.pdf,0.0,21,41.943019,-87.76898299999999
+Revere,Revere,Individualschool_Revere_610146.pdf,0.0,20,41.764196000000005,-87.600177
+Richards Hs,Richardshs,IndividualSchool_RichardsHS_609682.pdf,0.0,18,41.802881,-87.662278
+Robeson Hs,Robeson,IndividualSchool_Robeson_609707.pdf,0.14666666666666667,15,41.769714,-87.637153
+Robinson,Robinson,Individualschool_Robinson_610256.pdf,0.010256410256410256,13,41.817349,-87.599067
+Rogers,Rogers,Individualschool_Rogers_610147.pdf,0.0,16,42.015265,-87.697185
+Roosevelt Hs,Roosevelths,IndividualSchool_RooseveltHS_609728.pdf,0.015789473684210527,38,41.964828000000004,-87.71481899999999
+Rowe,Rowe,IndividualSchool_Rowe_400096.pdf,0.02666666666666667,15,41.907796999999995,-87.66407199999999
+Rudolph,Rudolph,IndividualSchool_Rudolph_610308.pdf,0.0,16,41.883568,-87.669477
+Ruggles,Ruggles,Individualschool_Ruggles_610152.pdf,0.0,15,41.751946000000004,-87.618066
+Ruiz,Ruiz,IndividualSchool_Ruiz_610125.pdf,0.0,22,41.848101,-87.680745
+Ryder,Ryder,Individualschool_Ryder_610153.pdf,0.0,16,41.735378999999995,-87.63884300000001
+Sabin,Sabin,individualschool_sabin_610342.pdf,0.0,15,41.906816,-87.68305
+Salazar,Salazar,IndividualSchool_Salazar_610250.pdf,0.25,4,41.901416999999995,-87.63363199999999
+Sandoval,Sandoval,IndividualSchool_Sandoval_610226.pdf,0.008333333333333333,24,41.792346,-87.710987
+Saucedo,Saucedo,Individualschool_Saucedo_610017.pdf,0.0,12,41.847941,-87.697316
+Sauganash,Sauganash,IndividualSchool_Sauganash_610155.pdf,0.0,12,41.991169,-87.745951
+Sawyer,Sawyer,IndividualSchool_Sawyer_610157.pdf,0.015853658536585366,41,41.797498,-87.70500600000001
+Sayre,Sayre,Individualschool_Sayre_610158.pdf,0.025,16,41.914151000000004,-87.798721
+Scammon,Scammon,Individualschool_Scammon_610159.pdf,0.0,16,41.941678,-87.732179
+Schmid,Schmid,Individualschool_Schmid_610178.pdf,0.025,8,41.716989,-87.596932
+Schubert,Schubert,Individualschool_Schubert_610165.pdf,0.0,19,41.930403000000005,-87.76119
+Schurz Hs,Schurz,IndividualSchool_Schurz_609729.pdf,0.020833333333333332,48,41.946365,-87.735612
+Senn Hs,Senn,IndividualSchool_Senn_609730.pdf,0.0,25,41.989028999999995,-87.667136
+Seward,Seward,IndividualSchool_Seward_610167.pdf,0.0,22,41.810333,-87.668772
+Sheridan,Sheridan,Individualschool_Sheridan_610081.pdf,0.0,11,41.8444,-87.64134
+Sherman,Sherman,Individualschool_Sherman_610172.pdf,0.08333333333333333,12,41.799766,-87.650221
+Sherwood,Sherwood,Individualschool_Sherwood_610173.pdf,0.0,12,41.7908,-87.632279
+Shields,Shieldsj,Individualschool_ShieldsJ_610174.pdf,0.0,30,41.815909000000005,-87.689647
+Shoesmith,Shoesmith,IndividualSchool_Shoesmith_610175.pdf,0.0,13,41.804294,-87.593905
+Shoop,Shoop,Individualschool_Shoop_610176.pdf,0.0,15,41.690919,-87.65866899999999
+Simpson Hs,Simpson,IndividualSchool_Simpson_609750.pdf,0.1142857142857143,7,41.864365,-87.668722
+Skinner (West),Skinner,Individualschool_Skinner_610177.pdf,0.0,23,41.879103,-87.659419
+Skinner North,Skinnernorth,individualschool_skinnernorth_610534.pdf,0.0,16,41.905109,-87.644841
+Smith,Smith,Individualschool_Smith_609978.pdf,0.009523809523809523,14,41.707558,-87.60466
+Smyser,Smyser,Individualschool_Smyser_610179.pdf,0.05384615384615385,26,41.958868,-87.781975
+Smyth,Smyth,Individualschool_Smyth_610180.pdf,0.04285714285714286,14,41.865351000000004,-87.65344499999999
+Solomon,Solomon,Individualschool_Solomon_610182.pdf,0.018181818181818184,11,41.993942,-87.72404300000001
+South Loop,Southloop,Individualschool_Southloop_609990.pdf,0.0,16,41.866875,-87.628615
+South Shore Es,Southshore,Individualschool_SouthShore_610530.pdf,0.0,5,41.767755,-87.590396
+Spencer,Spencer,Individualschool_spencer_610183.pdf,0.03214285714285715,28,41.884876,-87.750445
+Spry Es,Spry,IndividualSchool_Spry_610184.pdf,0.0,14,41.847747,-87.700184
+Stagg,Stagg,Individualschool_Stagg_610339.pdf,0.0,6,41.758925,-87.64921700000001
+Steinmetz Hs,Steinmetz,IndividualSchool_Steinmetz_609732.pdf,0.0,45,41.935634,-87.78351500000001
+Stem,Stemmagnet,Individualschool_StemMagnet_610548.pdf,0.0,16,41.868576000000004,-87.664969
+Stevenson,Stevenson,IndividualSchool_Stevenson_610185.pdf,0.0,37,41.747107,-87.731666
+Stock,Stock,Individualschool_stock_610163.pdf,0.015384615384615385,13,42.016892,-87.814195
+Stone,Stone,IndividualSchool_Stone_610191.pdf,0.018181818181818184,22,41.995359,-87.684793
+Stowe,Stowe,Individualschool_Stowe_610192.pdf,0.017391304347826087,23,41.911938,-87.713318
+Suder,Suder,Individualschool_Suder_610405.pdf,0.0,20,41.883215,-87.67763599999999
+Sullivan Hs,Sullivanhs,IndividualSchool_SullivanHS_609733.pdf,0.0,31,42.002688,-87.66919200000001
+Sumner,Sumner,Individualschool_Sumner_610194.pdf,0.0,9,41.870828,-87.733524
+Sutherland,Sutherland,IndividualSchool_Sutherland_610195.pdf,0.0,16,41.711445,-87.67682099999999
+Swift,Swift,Individualschool_swift_610196.pdf,0.0,27,41.989139,-87.65829599999999
+Taft Hs,Taft,IndividualSchool_Taft_609734.pdf,0.0,51,41.982960999999996,-87.791547
+Talcott,Talcott,IndividualSchool_Talcott_610197.pdf,0.010526315789473684,19,41.892405,-87.673723
+Talman,Talman,Individualschool_Talman_610249.pdf,0.0,9,41.794048,-87.69026099999999
+Tanner,Tanner,Individualschool_Tanner_610279.pdf,0.2,5,41.760673,-87.606791
+Tarkington,Tarkington,IndividualSchool_Tarkington_610396.pdf,0.005714285714285714,35,41.764407,-87.706445
+Taylor,Taylor,Individualschool_Taylor_610198.pdf,0.0,11,41.71547,-87.53297099999999
+Team Hs,Teamhs,IndividualSchool_TeamHS_610506.pdf,0.004761904761904762,42,41.781484999999996,-87.63301899999999
+Thomas,Thomas,Individualschool_Thomas_610504.pdf,0.0,5,41.827775,-87.677542
+Thorp J,Thorpj,Individualschool_ThorpJ_610200.pdf,0.0,18,41.733323999999996,-87.54428
+Thorp O,Thorpo,IndividualSchool_ThorpO_610201.pdf,0.0,15,41.948571,-87.777631
+Tilden Hs,Tildenhs,IndividualSchool_TildenHS_609735.pdf,0.0071428571428571435,28,41.80751,-87.642966
+Till,Till,Individualschool_Till_610065.pdf,0.015384615384615385,13,41.775424,-87.60935699999999
+Tilton,Tilton,Individualschool_Tilton_610202.pdf,0.023529411764705882,17,41.884102,-87.73056600000001
+Tonti,Tonti,Individualschool_Tonti_610203.pdf,0.005128205128205128,39,41.787523,-87.708179
+Turner-Drew,Turnerdrew,IndividualSchool_TurnerDrew_609895.pdf,0.0,11,41.725609000000006,-87.63016400000001
+Twain,Twain,Individualschool_Twain_610206.pdf,0.008333333333333333,24,41.799046000000004,-87.758928
+U Of C - Woodlawn Hs,Uofcwoodlawn,IndividualSchool_UofCWoodlawn_400077.pdf,0.0,18,41.77813,-87.598114
+Uplift Hs,Uplifths,IndividualSchool_UpliftHS_610394.pdf,0.0,36,41.965546999999994,-87.652473
+Vanderpoel,Vanderpoel,IndividualSchool_Vanderpoel_610207.pdf,0.0,11,41.720817,-87.665559
+Vaughn Hs,Vaughnhs,IndividualSchool_VaughnHS_609766.pdf,0.0,12,41.960364,-87.764663
+Vick,Vick,Individualschool_Vick_609871.pdf,0.0,6,41.688190999999996,-87.685677
+Volta,Volta,IndividualSchool_Volta_610209.pdf,0.0,22,41.971634,-87.72460500000001
+Von Linne,Vonlinne,Individualschool_VonLinne_610039.pdf,0.0,14,41.940009,-87.702635
+Von Steuben Hs,Vonsteuben,IndividualSchool_VonSteuben_609737.pdf,0.0489795918367347,35,41.973185,-87.713386
+Wacker,Wacker,Individualschool_Wacker_610366.pdf,0.0,11,41.716193,-87.648044
+Wadsworth,Wadsworth,Individualschool_Wadsworth_610213.pdf,0.0,18,41.773478000000004,-87.60101800000001
+Walsh,Walsh,IndividualSchool_Walsh_610216.pdf,0.0,21,41.854836,-87.64808599999999
+Ward J,Wardj,Individualschool_WardJ_610217.pdf,0.0,7,41.84398,-87.635356
+Ward L,Wardl,Individualschool_WardL_610133.pdf,0.0,16,41.893236,-87.718797
+Warren,Warren,Individualschool_Warren_610218.pdf,0.03333333333333333,6,41.726763,-87.575353
+Washington H Es,Washington,Individualschool_Washington_610124.pdf,0.0,4,41.728534,-87.596257
+Washington G,Washingtong,Individualschool_WashingtonG_610219.pdf,0.044444444444444446,18,41.688131,-87.536015
+Washington Hs,Washingtonghs,IndividualSchool_WashingtonGHS_609739.pdf,0.02666666666666667,30,41.688137,-87.53757
+Waters,Waters,IndividualSchool_Waters_610220.pdf,0.0,16,41.964365,-87.691333
+Webster,Webster,Individualschool_Webster_610221.pdf,0.0,5,41.869915999999996,-87.727524
+Wells Es,Wells,IndividualSchool_Wells_610110.pdf,0.08333333333333333,12,41.827355,-87.61978
+Wells Hs,Wellshs,IndividualSchool_WellsHS_609740.pdf,0.02553191489361702,47,41.898995,-87.66748299999999
+Wentworth,Wentworth,Individualschool_Wentworth_610223.pdf,0.175,16,41.765076,-87.65820500000001
+Westcott,Westcott,Individualschool_Westcott_610300.pdf,0.0,6,41.748868,-87.634751
+Westinghouse Hs,Westinghousehs,IndividualSchool_WestinghouseHS_609693.pdf,0.006896551724137932,29,41.889977,-87.707332
+West Park,Westpark,IndividualSchool_WestPark_610100.pdf,0.0071428571428571435,28,41.906907000000004,-87.732443
+West Ridge,Westridge,IndividualSchool_WestRidge_610542.pdf,0.00625,32,42.002959000000004,-87.705917
+Whistler,Whistler,IndividualSchool_Whistler_610225.pdf,0.0,13,41.683907,-87.655384
+White,White,Individualschool_White_610315.pdf,0.0,11,41.672309000000006,-87.650539
+Whitney,Whitney,Individualschool_Whitney_610227.pdf,0.0,24,41.84008,-87.725546
+Whittier,Whittier,Individualschool_whittier_610228.pdf,0.0,11,41.850481,-87.673392
+Wildwood,Wildwood,IndividualSchool_Wildwood_610230.pdf,0.0,18,42.007490999999995,-87.778345
+Williams Hs,Williams,IndividualSchool_Williams_610380.pdf,0.004878048780487805,41,41.806118,-87.62503000000001
+Woodlawn,Woodlawn,IndividualSchool_Woodlawn_609977.pdf,0.08888888888888889,9,41.773365999999996,-87.594392
+Woodson,Woodson,Individualschool_Woodson_610345.pdf,0.00808080808080808,33,41.814499,-87.608419
+World Language Hs,Worldlanguagehs,IndividualSchool_WorldLanguageHS_610392.pdf,0.010810810810810811,37,41.834396999999996,-87.735292
+Yates,Yates,IndividualSchool_Yates_610234.pdf,0.0,45,41.915039,-87.70028
+Young Es,Young,IndividualSchool_Young_610235.pdf,0.006060606060606061,33,41.906791,-87.767143
+Young Hs,Younghs,IndividualSchool_YoungHS_ 609755.pdf,0.0391304347826087,46,41.878603000000005,-87.664233
+Young Womens Hs,Youngwomenshs,IndividualSchool_YoungWomensHS_400087.pdf,0.0,9,41.844544,-87.618724
+Zapata,Zapata,Individualschool_Zapata_609973.pdf,0.006277056277056278,22,41.841394,-87.734313

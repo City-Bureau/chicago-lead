@@ -1,7 +1,11 @@
 # coding: utf-8
+# missing schools (n=15): 
+# Hoyne, Melody, Brownell, Mcauliffe, Decatur, Kipp Chicago - Ascend Primary,
+# Jordan, Leland, Voise Hs, Casals, Bronzeville Hs, Lorca, Black, Christopher, Poe
 
 import sys
 
+import numpy as np
 import pandas as pd
 
 test = True if len(sys.argv) > 3 else False
@@ -42,11 +46,15 @@ if effective_zero_values == df['result'].value_counts()[0]:
     # import fusion table from cps portal
     fusion = pd.read_csv('cps_fusion_table.raw.csv')
     fusion.columns = [c.lower() for c in fusion.columns]
+    
+    # fix one filename (missing .pdf), remove incorrect filename (williams hs dupe)
+    fusion.loc[fusion.schoolname == 'FALCONER', 'filename'] = 'Individualschool_Falconer_609910.pdf'
+    fusion.loc[fusion.schoolname == 'BRONZEVILLE HS', 'filename'] = np.nan
 
     # combine fusion table w lat/long
     geo = pd.merge(test_schools, fusion[['filename', 'lat', 'long', 'schoolname']], on='filename', how='left')
     geo['schoolname'] = geo['schoolname'].str.title()
-    geo = geo[['schoolname', 'school', 'filename', 'score', 'num_fixtures', 'lat', 'long']]
+    geo = geo[['schoolname', 'score', 'num_fixtures', 'lat', 'long']]
 
     geo.to_csv(sys.stdout, index=False)
 
