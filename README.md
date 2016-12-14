@@ -12,6 +12,7 @@
 clone this repo and from a terminal window, run:
 
 `make setupdb`
+
 `make all`
 
 the files should land in `output/`.

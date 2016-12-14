@@ -5,6 +5,7 @@
 in a terminal window, run:
 
 `make output/parks_lead_scores.csv`
+
 `make clean_parks`
 
 ## data dir
