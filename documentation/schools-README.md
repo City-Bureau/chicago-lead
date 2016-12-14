@@ -10,11 +10,11 @@ in a terminal window, run:
 
 ## data dir
 
-* [cps_lead.geojson](https://github.com/datamade/chicago-lead/blob/master/output/cps_lead.geojson) - schools plotted by lat/long pairs, with attributes for:
+* [cps_lead.geojson](../output/cps_lead.geojson) - schools plotted by lat/long pairs, with attributes for:
   * **lead_score**: the proportion of fixtures tested that contained lead in excess of the epa standard of 15 ppb. to calcuate, each trial was translated to one of two values: 0 for a measurement at or below the epa standard, 1 for a measurement above it. the trials were averaged to produce a score for that fixture, then the fixture averages were averaged to produce a school-level score.
   * **num_fixtures**: the number of fixtures tested in a school
   
-* [cps_lead_scores.csv](https://github.com/datamade/chicago-lead/blob/master/output/cps_lead_scores.csv) - the above, in csv format
+* [cps_lead_scores.csv](../output/cps_lead_scores.csv) - the above, in csv format
 
 ## notes
 

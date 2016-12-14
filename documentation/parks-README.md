@@ -10,7 +10,7 @@ in a terminal window, run:
 
 ## data dir
 
-1. [parks_lead_scores.csv](https://github.com/datamade/chicago-lead/blob/master/output/parks_lead_scores.csv) contains three fields:
+1. [parks_lead_scores.csv](../output/parks_lead_scores.csv) contains three fields:
 
   * **park_name**: the name of the park
   * **num_fixtures**: the number of fixtures tested in the park
