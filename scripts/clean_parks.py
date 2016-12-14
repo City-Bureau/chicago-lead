@@ -7,21 +7,6 @@ import pandas as pd
 
 df = pd.read_csv(sys.stdin)
 
-# move park names from headers to row attrs
-header_rows = df.loc[df.result.isnull()].index
-park_names = df.loc[df.result.isnull()]['fixture_location']
-park_objects = list(zip(header_rows, park_names))
-
-for ind, park_obj in enumerate(park_objects):
-    start, park = park_obj
-    try:
-        end = park_objects[ind+1][0] - 1
-    except IndexError:
-        end = len(df)
-    df.loc[start:end, 'park_name'] = park
-    
-df.drop(list(header_rows), inplace=True)
-
 # spot cleaning
 df['result_flag'] = df['result'].apply(lambda x: x.split(' ')[-1] if len(x.split(' ')) > 1 else '')
 df['result'] = df['result'].apply(lambda x: x.split(' ')[0]).str.replace('˂', '<')
