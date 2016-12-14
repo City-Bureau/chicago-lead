@@ -5,6 +5,7 @@
 in a terminal window, run:
 
 `make output/cps_lead.geojson`
+
 `make clean_schools`
 
 ## data dir

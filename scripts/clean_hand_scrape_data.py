@@ -19,17 +19,17 @@ def amend(wrong, right, sample, result=[]):
         df.loc[wrong, 'result'] = result    
 
 files = [
-    'tabula-individualschool_cassell_609849.csv',
-    'tabula-IndividualSchool_CollinsHS_610499.csv',
-    'tabula-Individualschool_Falconer_609910.csv',
-    'tabula-individualschool_garvy_609937.csv',
-    'tabula-IndividualSchool_JuarezHS_ 609764.csv',
-    'tabula-individualschool_lasalle_610033.csv',
-    'tabula-individualschool_sabin_610342.csv',
-    'tabula-individualschool_skinnernorth_610534.csv',
-    'tabula-IndividualSchool_YoungHS_ 609755.csv',
-    'tabula-IndividualSchool_Powell_610281.csv',
-    'tabula-Individualschool_Tanner_610279.csv'
+    'tabula/tabula-individualschool_cassell_609849.csv',
+    'tabula/tabula-IndividualSchool_CollinsHS_610499.csv',
+    'tabula/tabula-Individualschool_Falconer_609910.csv',
+    'tabula/tabula-individualschool_garvy_609937.csv',
+    'tabula/tabula-IndividualSchool_JuarezHS_ 609764.csv',
+    'tabula/tabula-individualschool_lasalle_610033.csv',
+    'tabula/tabula-individualschool_sabin_610342.csv',
+    'tabula/tabula-individualschool_skinnernorth_610534.csv',
+    'tabula/tabula-IndividualSchool_YoungHS_ 609755.csv',
+    'tabula/tabula-IndividualSchool_Powell_610281.csv',
+    'tabula/tabula-Individualschool_Tanner_610279.csv'
 ]
 
 # cassell
