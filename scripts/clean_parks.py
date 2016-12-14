@@ -6,6 +6,7 @@ import pandas as pd
 df = pd.read_csv(sys.argv[1], names=[i for i in range(0, 4)])
 
 # get columns in order
+# $ sed -e 's/^"",*//' -e 's/,"",""/,""/' tabula-Water_Fountain_Testing_Final_Results.csv
 
 # blank col, name col, value col, blank col
 rows = df.loc[df[0].isnull() & df[3].isnull()].index.values
