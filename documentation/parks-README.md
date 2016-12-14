@@ -1,7 +1,20 @@
-# data directory
+# chicago parks lead scores
 
-1. [chi-parks-lead-scores.processed.csv](https://github.com/datamade/chicago-lead/blob/master/assets/chi-parks-lead-results/chi-parks-lead-scores.processed.csv) is scores aggregated to park level as discussed.
+## to reproduce
 
-2. [parks_score_lookup_table.csv](https://github.com/datamade/chicago-lead/blob/master/assets/chi-parks-lead-results/parks_score_lookup_table.csv) is the same score data with an additonal `geo_name` column that corresponds to the names in the city's aug 2012 parks shapefile for easy joining, if you please. (this omits parks in the test result data that did not have a corresponding shape in the shapefile.) 
+in a terminal window, run:
 
-3. [chi-parks-lead-results-10-2016.processed.csv](https://github.com/datamade/chicago-lead/blob/master/assets/chi-parks-lead-results/chi-parks-lead-results-10-2016.processed.csv) is the raw results data plus two calculated fields, `processed_result` which converts `result_value` to numbers by converting the below-threshold (<.120 etc.) readings to 0, and `exceeds_epa` which is 0 for results at or below the 15ppb threshold and 1 for results above it.
+`make output/parks_lead_scores.csv`
+`make clean_parks`
+
+## data dir
+
+1. [parks_lead_scores.csv](https://github.com/datamade/chicago-lead/blob/master/output/parks_lead_scores.csv) contains three fields:
+
+  * **park_name**: the name of the park
+  * **num_fixtures**: the number of fixtures tested in the park
+  * **score**: the proportion of fixtures tested that exceeded the epa action level, 15 ppb. to calcuate this score, each test result was translated to a value, 0 if at or below 15 ppb, 1 if above. the park score is the average of its encoded fixture values.
+
+## notes
+
+* with a few isolated exceptions, parks fixtures were tested only once. we omitted retests and calcuated park scores based only on initial lead test results.

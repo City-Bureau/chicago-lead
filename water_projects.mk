@@ -1,5 +1,10 @@
 PG_DB = water
 
+.PHONY : setupdb
+setupdb : 
+	make $(PG_DB)
+	make water_projects
+
 water_projects : raw/water_projects.geojson
 	ogr2ogr -f PostgreSQL PG:"dbname=$(PG_DB)" -nln $@ $<
 	psql -d $(PG_DB) -c "alter table water_projects alter column project_submit_date type timestamp using timestamp 'epoch' + project_submit_date * interval '1 millisecond'"
@@ -34,10 +39,9 @@ foia : raw/WaterCIP2016_20161121.xlsx
 	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
             -sql "SELECT * FROM water_projects WHERE startdate < '2017-01-01'::DATE AND (enddate IS NULL or enddate >= '2016-01-01'::DATE)"
 
-all_years.geojson :
+water_projects_all_years.geojson :
 	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)"
 
 $(PG_DB) :
-	createbd $@
+	createdb $@
 	psql -d $@ -c "CREATE EXTENSION POSTGIS"
-
