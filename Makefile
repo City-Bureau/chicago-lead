@@ -1,6 +1,5 @@
-all: cps_lead.geojson
+all : output/cps_lead.geojson output/parks_lead_scores.csv clean 
 
 include schools.mk parks.mk water_projects.mk
 
-clean:
-	rm lead_scores.vrt hand_scrape_reports.processed.csv tabula_reports.processed.csv
+clean : clean_schools clean_parks
