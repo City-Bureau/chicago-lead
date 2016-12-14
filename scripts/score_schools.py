@@ -24,7 +24,7 @@ if effective_zero_values == df['result'].value_counts()[0]:
     # generate id from sample serial num
     df['location_id'] = df['sample'].apply(lambda x: '-'.join(x.split('-')[:-1]))
     # binary var encode scores
-    df['exceeds_epa'] = df['result'].apply(lambda x: 0 if x < 15 else 1)
+    df['exceeds_epa'] = df['result'].apply(lambda x: 0 if x <= 15 else 1)
 
     df.to_csv('all_schools.processed.csv', index=False)
 
