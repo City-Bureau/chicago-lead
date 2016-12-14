@@ -21,6 +21,6 @@ the files should land in `output/`.
 
 ## data docs
 
-* [parks](https://github.com/datamade/chicago-lead/blob/master/documentation/parks-README.md)
+* [parks](documentation/parks-README.md)
 * [schools](https://github.com/datamade/chicago-lead/blob/master/documentation/schools-README.md)
 * water projects
