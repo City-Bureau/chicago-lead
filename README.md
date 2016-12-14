@@ -1,5 +1,7 @@
 # chicago-lead
 
+how much lead is pouring out of chicago's fixtures?
+
 ## requirements
 
 * postgres ([instructions](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/))
@@ -16,3 +18,9 @@ clone this repo and from a terminal window, run:
 `make all`
 
 the files should land in `output/`.
+
+## data docs
+
+* [parks](https://github.com/datamade/chicago-lead/blob/master/documentation/parks-README.md)
+* [schools](https://github.com/datamade/chicago-lead/blob/master/documentation/schools-README.md)
+* water projects
