@@ -22,6 +22,11 @@ df = df.append(pd.DataFrame([
      'http://www.cps.edu/SiteCollectionDocuments/LeadTesting/Individualschool_Zapata_609973.pdf']
     ], columns=[c for c in df.columns]))
 
+df = df.append(pd.DataFrame([
+    ['Orr', '51558-1-HAL-F05', 'Main- Next to Room 118, Fountain', '10/12/16 6:00 AM', '530', 
+     'http://www.cps.edu/SiteCollectionDocuments/LeadTesting/IndividualSchool_Orr_610389.pdf']
+    ], columns=[c for c in df.columns]))
+
 df.loc[(df.school == 'Zapata') & (df.result.isnull()), 'result'] = 'None Detected'
 df.loc[(df.school == 'Camras') & (df['sample'] == '3-N-F03-30'), 'result'] = 'None Detected'
 df.loc[(df.school == 'Cvca') & (df['sample'] == '51625-1-113-S01-04'), 'result'] = 'None Detected'
