@@ -26,7 +26,7 @@ if effective_zero_values == df['result'].value_counts()[0]:
     # binary var encode scores
     df['exceeds_epa'] = df['result'].apply(lambda x: 0 if x < 15 else 1)
 
-    df.to_csv('all_schools.processed.csv', index=False)
+    df.drop('date', axis=1).to_csv('all_schools.processed.csv', index=False)
 
     # generate df with mean of trial scores for each fixture
     location_id = pd.DataFrame(
