@@ -13,8 +13,6 @@ how much lead is pouring out of chicago's fixtures?
 
 clone this repo and from a terminal window, run:
 
-`make setupdb`
-
 `make all`
 
 the files should land in `output/`.
