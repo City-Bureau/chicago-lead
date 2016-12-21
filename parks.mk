@@ -17,7 +17,7 @@ parks_lead_scores.csv : clean_scrape.csv $(PG_DB)
 	csvsql --db postgresql:///$(PG_DB) --insert --table "lead_scores" --blanks $<
 	psql -d $(PG_DB) -c "alter table lead_scores add exceeds_epa int"
 	psql -d $(PG_DB) -c "update lead_scores set exceeds_epa = case when result <= 15 then 0 else 1 end;"
-	psql -d $(PG_DB) -c "\copy (select park_name, round(avg(exceeds_epa), 4), count(*) as num_fixtures from lead_scores group by park_name order by park_name) to 'output/$@' csv header"
+	psql -d $(PG_DB) -c "\copy (select park_name, count(*) as num_fixtures, round(avg(exceeds_epa), 4) as score from lead_scores group by park_name order by park_name) to 'output/$@' csv header"
 
 .PHONY : clean_parks
 clean_parks :
