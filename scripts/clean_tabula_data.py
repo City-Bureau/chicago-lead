@@ -24,7 +24,7 @@ df = df.append(pd.DataFrame([
 
 df = df.append(pd.DataFrame([
     ['Orr', '51558-1-HAL-F05', 'Main- Next to Room 118, Fountain', '10/12/16 6:00 AM', '530', 
-     'http://www.cps.edu/SiteCollectionDocuments/LeadTesting/IndividualSchool_Orr_610389.pdf.pdf']
+     'http://www.cps.edu/SiteCollectionDocuments/LeadTesting/IndividualSchool_Orr_610389.pdf']
     ], columns=[c for c in df.columns]))
 
 df.loc[(df.school == 'Zapata') & (df.result.isnull()), 'result'] = 'None Detected'
