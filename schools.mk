@@ -1,5 +1,5 @@
 hand_scrape_reports.processed.csv :
-	python scripts/clean_hand_scrape_data.py > $@
+	python scripts/clean_hand_scrape.py > $@
 
 tabula_reports.processed.csv : tabula/tabula-cps_lead_results.csv
 	python scripts/clean_tabula_data.py $< > $@
