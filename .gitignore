@@ -87,3 +87,17 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+# dedupe files
+config.json
+learned_settings
+logfile
+training.json
+
+# interim data/dev work
+*.ipynb
+*.processed.csv
+
+# crap
+.DS_Store
+

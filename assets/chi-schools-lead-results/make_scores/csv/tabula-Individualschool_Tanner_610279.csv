@@ -1,29 +1,0 @@
-Sample ID #,Sample Location,"Sample CollectionTime & Date",Test Results (ppb),ppb Level
-51484-1-K-CS-01,Kitchen,6:03 AM 5/6/16,ND,-
-51484-1-C-WC-02,Hallway by Gym,6:05 AM 5/6/16,ND,-
-51484-1-N-F-03,Hallway by Room 103,6:07 AM 5/6/16,ND,-
-51484-2-N-F-04,Hallway by Room 209,6:09 AM 5/6/16,ND,-
-51484-3-C-F-05,Hallway by Room 301,6:11 AM 5/6/16,19.8,AA
-"51484-3-S-F01-01(Flush Draw)",Hallway by Room 302,6:06 AM 5/17/16,15.4,AA
-"51484-3-S-F01-02(Flush Draw)",Hallway by Room 302,6:08 AM 5/17/16,114,AA
-"51484-3-N-F02-03(1st Draw)",Hallway by Room 307,6:11 AM 5/17/16,9.96,BA
-"51484-3-N-F02-04(Flush Draw)",Hallway by Room 307,6:13 AM 5/17/16,ND,-
-"51484-3-N-F01-05(1st Draw)",Hallway by Room 307,6:15 AM 5/17/16,5.44,BA
-"51484-3-N-F01-06(Flush Draw)",Hallway by Room 307,6:17 AM 5/17/16,ND,-
-"51484-2-N-F01-07(1st Draw)",Hallway by Room 207,6:20 AM 5/17/16,15,AA
-"51484-2-N-F01-08(Flush Draw)",Hallway by Room 207,6:22 AM 5/17/16,ND,-
-"51484-2-N-F02-09(1st Draw)",Hallway by Room 207,6:24 AM 5/17/16,9.15,BA
-"51484-2-N-F02-10          (Flush Draw)",Hallway by Room 207,6:26 AM 5/17/16,ND,-
-"Chicago Public SchoolsDepartment of FacilityOperations",Hallway by Room 104,6:31 AM 5/17/16,ND,-
-"51484-1-N-F01-12(Flush Draw)",Hallway by Room 104,6:33 AM 5/17/16,ND,-
-"51484-1-N-F02-13(1st Draw)",Hallway by Room 104,6:35 AM 5/17/16,ND,-
-"51484-1-N-F02-14(Flush Draw)",Hallway by Room 104,6:37 AM 5/17/16,ND,-
-"51484-1-C-F01-15(1st Draw)",Hallway by Boiler Room,6:40 AM 5/17/16,ND,-
-"51484-1-C-F01-16(Flush Draw)",Hallway by Boiler Room,6:42 AM 5/17/16,ND,-
-"51484-1-C-F02-17(1st Draw)",Hallway by Boiler Room,6:44 AM 5/17/16,ND,-
-"51484-1-C-F02-18(Flush Draw)",Hallway by Boiler Room,6:46 AM 5/17/16,ND,-
-"51484-2-S-F01-19(1st Draw)",Hallway by Room 202,6:50 AM 5/17/16,47.5,AA
-"51484-2-S-F01-20(Flush Draw)",Hallway by Room 202,6:51 AM 5/17/16,15.8,AA
-"51484-1-K-F03-21(1st Draw)",Kitchen,6:55 AM 5/17/16,ND,-
-"51484-1-K-F03-22(Flush Draw)",Kitchen,6:56 AM 5/17/16,ND,-
-"",,,,
