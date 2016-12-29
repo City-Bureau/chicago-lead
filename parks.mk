@@ -8,8 +8,8 @@ clean_scrape.csv : tabula/tabula-Water_Fountain_Testing_Final_Results.csv
 										  and fixture_location not in ('Indoor', 'Outdoor', 'Oudoor')"| \
 	python scripts/pivot_park_headers.py > $@
 
-parks_lead_scores.csv : clean_scrape.csv
-	cat $< | python scripts/parks_score.py > output/$@
+output/parks_lead_scores.csv : clean_scrape.csv
+	cat $< | python scripts/parks_score.py > $@
 
 .PHONY : clean_parks
 clean_parks :
