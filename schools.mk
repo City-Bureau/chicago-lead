@@ -15,23 +15,15 @@ fusion.clean.csv : raw/cps_lead_fusion_table.csv
 	s|4,LEAD FOUND,IndividualSchool_Williams_610380.pdf|4,LEAD FOUND,None|' $< > $@
  
 cps_lead_scores.csv : hand_scrape.clean.csv tabula.clean.csv fusion.clean.csv
-	csvstack $< $(word 2,$^) | python scripts/cps_score.py > output/$@
-	csvstack $< $(word 2,$^) | csvsql --query "select distinct f.SchoolName from '$(basename $(word 3,$^))' as f \
-	where f.Filename not in (select a.filename from stdin as a)" --no-inference $(word 3,$^) | \
-	tail -n +2 | while read school; do \
-		echo "$$school,," >> output/$@; \
-	done
+	csvstack $< $(word 2,$^) | csvsql --query "select distinct SchoolName, sample, location, date, result, s.filename \
+	from '$(basename $(word 3,$^))' as f left join stdin as s on (f.Filename=s.filename)" --no-inference $(word 3,$^) | \
+	python scripts/cps_score.py > output/$@
 
-scores_fusion_xwalk.csv : hand_scrape.clean.csv tabula.clean.csv fusion.clean.csv
-	csvstack $< $(word 2,$^) | \
-	csvsql --query "select distinct SchoolName, school, lat, long from '$(basename $(word 3,$^))' \
-	as f left join stdin as s on (f.Filename=s.filename)" --no-inference $(word 3,$^) > $@
-
-cps_lead.geojson : output/cps_lead_scores.csv scores_fusion_xwalk.csv fusion.clean.csv
-	csvsql --query "select f.SchoolName, s.score, s.num_fixtures, f.lat, f.long from $(notdir $(basename $<)) as s \
-	join $(basename $(word 2,$^)) as f on (s.school_name=f.school) or (s.school_name=f.SchoolName)" --no-inference $< $(word 2,$^) | \
+cps_lead.geojson : output/cps_lead_scores.csv fusion.clean.csv
+	csvsql --query "select s.school_name, s.score, s.num_fixtures, f.lat, f.long from $(notdir $(basename $<)) as s \
+	join '$(basename $(word 2,$^))' as f on (upper(s.school_name)=f.SchoolName)" --no-inference $< $(word 2,$^) | \
 	csvjson --lat Lat --lon Long --crs urn:ogc:def:crs:OGC:1.3:CRS84 --indent 2  > output/$@
 
 .PHONY : clean_schools
 clean_schools :
-	rm *.clean.csv *.tmp *xwalk.csv
+	rm *.clean.csv *.tmp

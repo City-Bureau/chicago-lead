@@ -12,177 +12,12 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.702042,
-          41.864149
-        ]
-      },
-      "properties": {
-        "SchoolName": "COLLINS HS",
-        "score": "0.04032258064516129",
-        "num_fixtures": "31"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.663732,
-          41.852667
-        ]
-      },
-      "properties": {
-        "SchoolName": "JUAREZ HS",
-        "score": "0.0",
-        "num_fixtures": "33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.606791,
-          41.760673
-        ]
-      },
-      "properties": {
-        "SchoolName": "TANNER",
-        "score": "0.1875",
-        "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.664233,
-          41.878603
-        ]
-      },
-      "properties": {
-        "SchoolName": "YOUNG HS",
-        "score": "0.030434782608695653",
-        "num_fixtures": "46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.749331,
-          41.935785
-        ]
-      },
-      "properties": {
-        "SchoolName": "FALCONER",
-        "score": "0.0",
-        "num_fixtures": "29"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.68305,
-          41.906816
-        ]
-      },
-      "properties": {
-        "SchoolName": "SABIN",
-        "score": "0.0",
-        "num_fixtures": "15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.556789,
-          41.760332
-        ]
-      },
-      "properties": {
-        "SchoolName": "POWELL",
-        "score": "0.0",
-        "num_fixtures": "28"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.644841,
-          41.905109
-        ]
-      },
-      "properties": {
-        "SchoolName": "SKINNER NORTH",
-        "score": "0.0",
-        "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.796235,
-          41.976352
-        ]
-      },
-      "properties": {
-        "SchoolName": "GARVY",
-        "score": "0.0",
-        "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.703215,
-          41.687347
-        ]
-      },
-      "properties": {
-        "SchoolName": "CASSELL",
-        "score": "0.0125",
-        "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.637565,
-          41.9139
-        ]
-      },
-      "properties": {
-        "SchoolName": "LASALLE",
-        "score": "0.1285714285714286",
-        "num_fixtures": "14"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
           -87.625849,
           41.796122
         ]
       },
       "properties": {
-        "SchoolName": "ACE TECH HS",
+        "school_name": "Ace Tech Hs",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -197,7 +32,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ADDAMS",
+        "school_name": "Addams",
         "score": "0.0058823529411764705",
         "num_fixtures": "17"
       }
@@ -212,7 +47,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "AGASSIZ",
+        "school_name": "Agassiz",
         "score": "0.0",
         "num_fixtures": "8"
       }
@@ -227,7 +62,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "AIR FORCE HS",
+        "school_name": "Air Force Hs",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -242,7 +77,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ALCOTT",
+        "school_name": "Alcott",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -257,7 +92,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ALCOTT HS",
+        "school_name": "Alcott Hs",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -272,7 +107,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ALDRIDGE",
+        "school_name": "Aldridge",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -287,7 +122,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "AMUNDSEN HS",
+        "school_name": "Amundsen Hs",
         "score": "0.0",
         "num_fixtures": "37"
       }
@@ -302,7 +137,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ARIEL",
+        "school_name": "Ariel",
         "score": "0.0",
         "num_fixtures": "28"
       }
@@ -317,7 +152,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ARMOUR",
+        "school_name": "Armour",
         "score": "0.0",
         "num_fixtures": "26"
       }
@@ -332,7 +167,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ARMSTRONG",
+        "school_name": "Armstrong",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -347,7 +182,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ASHBURN",
+        "school_name": "Ashburn",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -362,24 +197,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "ASHE",
+        "school_name": "Ashe",
         "score": "0.0",
         "num_fixtures": "13"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.721825,
-          41.966406
-        ]
-      },
-      "properties": {
-        "SchoolName": "ASPIRA - HAUGAN",
-        "score": "0.0",
-        "num_fixtures": "22"
       }
     },
     {
@@ -392,7 +212,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "AUDUBON",
+        "school_name": "Audubon",
         "score": "0.06153846153846154",
         "num_fixtures": "13"
       }
@@ -407,7 +227,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "AVALON PARK",
+        "school_name": "Avalon Park",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -422,24 +242,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "AZUELA",
+        "school_name": "Azuela",
         "score": "0.0",
         "num_fixtures": "30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.677541,
-          41.808413
-        ]
-      },
-      "properties": {
-        "SchoolName": "BACK OF THE YARDS HS",
-        "score": "0.0",
-        "num_fixtures": "29"
       }
     },
     {
@@ -452,7 +257,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BARNARD",
+        "school_name": "Barnard",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -467,7 +272,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BARRY",
+        "school_name": "Barry",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -482,7 +287,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BARTON",
+        "school_name": "Barton",
         "score": "0.0",
         "num_fixtures": "6"
       }
@@ -497,7 +302,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BASS",
+        "school_name": "Bass",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -512,7 +317,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BATEMAN",
+        "school_name": "Bateman",
         "score": "0.0",
         "num_fixtures": "27"
       }
@@ -527,7 +332,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BEARD",
+        "school_name": "Beard",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -542,7 +347,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BEASLEY",
+        "school_name": "Beasley",
         "score": "0.06470588235294118",
         "num_fixtures": "34"
       }
@@ -557,7 +362,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BEAUBIEN",
+        "school_name": "Beaubien",
         "score": "0.05714285714285715",
         "num_fixtures": "14"
       }
@@ -572,7 +377,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BEETHOVEN",
+        "school_name": "Beethoven",
         "score": "0.0",
         "num_fixtures": "34"
       }
@@ -587,7 +392,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BEIDLER",
+        "school_name": "Beidler",
         "score": "0.06666666666666667",
         "num_fixtures": "15"
       }
@@ -602,7 +407,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BELDING",
+        "school_name": "Belding",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -617,7 +422,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BELL",
+        "school_name": "Bell",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -632,7 +437,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BELMONT-CRAGIN",
+        "school_name": "Belmont-Cragin",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -647,9 +452,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "BENNETT",
+        "school_name": "Bennett",
         "score": "0.0",
         "num_fixtures": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.576643,
+          41.729692
+        ]
+      },
+      "properties": {
+        "school_name": "Black",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -662,7 +482,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BLAINE",
+        "school_name": "Blaine",
         "score": "0.018181818181818184",
         "num_fixtures": "22"
       }
@@ -677,7 +497,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BLAIR",
+        "school_name": "Blair",
         "score": "0.144",
         "num_fixtures": "25"
       }
@@ -692,7 +512,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BOGAN HS",
+        "school_name": "Bogan Hs",
         "score": "0.03333333333333333",
         "num_fixtures": "30"
       }
@@ -707,7 +527,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BOND",
+        "school_name": "Bond",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -722,7 +542,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BOONE",
+        "school_name": "Boone",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -737,24 +557,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "BOUCHET",
+        "school_name": "Bouchet",
         "score": "0.06153846153846154",
         "num_fixtures": "26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.55755,
-          41.734627
-        ]
-      },
-      "properties": {
-        "SchoolName": "BOWEN HS",
-        "score": "0.0",
-        "num_fixtures": "37"
       }
     },
     {
@@ -767,7 +572,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRADWELL",
+        "school_name": "Bradwell",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -782,7 +587,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRENNEMANN",
+        "school_name": "Brennemann",
         "score": "0.12307692307692308",
         "num_fixtures": "13"
       }
@@ -797,7 +602,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRENTANO",
+        "school_name": "Brentano",
         "score": "0.05454545454545456",
         "num_fixtures": "11"
       }
@@ -812,7 +617,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRIDGE",
+        "school_name": "Bridge",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -827,7 +632,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRIGHT",
+        "school_name": "Bright",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -842,7 +647,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRIGHTON PARK",
+        "school_name": "Brighton Park",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -852,14 +657,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.616353,
-          41.692763
+          -87.625004,
+          41.805204
         ]
       },
       "properties": {
-        "SchoolName": "BROOKS HS",
-        "score": "0.0",
-        "num_fixtures": "33"
+        "school_name": "Bronzeville Hs",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -872,7 +677,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BROWN R",
+        "school_name": "Brown R",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -887,9 +692,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "BROWN W",
+        "school_name": "Brown W",
         "score": "0.0",
         "num_fixtures": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.621746,
+          41.77162
+        ]
+      },
+      "properties": {
+        "school_name": "Brownell",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -902,7 +722,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BRUNSON",
+        "school_name": "Brunson",
         "score": "0.008",
         "num_fixtures": "25"
       }
@@ -917,7 +737,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BUDLONG",
+        "school_name": "Budlong",
         "score": "0.011111111111111112",
         "num_fixtures": "18"
       }
@@ -932,7 +752,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURBANK",
+        "school_name": "Burbank",
         "score": "0.045714285714285714",
         "num_fixtures": "35"
       }
@@ -947,7 +767,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURKE",
+        "school_name": "Burke",
         "score": "0.01764705882352941",
         "num_fixtures": "34"
       }
@@ -962,7 +782,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURLEY",
+        "school_name": "Burley",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -977,7 +797,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURNHAM",
+        "school_name": "Burnham",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -992,7 +812,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURNSIDE",
+        "school_name": "Burnside",
         "score": "0.02",
         "num_fixtures": "20"
       }
@@ -1007,7 +827,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURR",
+        "school_name": "Burr",
         "score": "0.0",
         "num_fixtures": "4"
       }
@@ -1022,7 +842,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BURROUGHS",
+        "school_name": "Burroughs",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -1037,7 +857,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "BYRNE",
+        "school_name": "Byrne",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -1052,7 +872,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CALDWELL",
+        "school_name": "Caldwell",
         "score": "0.05714285714285715",
         "num_fixtures": "14"
       }
@@ -1067,7 +887,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CALMECA",
+        "school_name": "Calmeca",
         "score": "0.0",
         "num_fixtures": "31"
       }
@@ -1082,7 +902,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CAMELOT - EXCEL ENGLEWOOD HS",
+        "school_name": "Camelot - Excel Englewood Hs",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -1097,7 +917,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CAMELOT EXCEL SOUTHSHORE",
+        "school_name": "Camelot Excel Southshore",
         "score": "0.0",
         "num_fixtures": "4"
       }
@@ -1112,7 +932,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CAMERON",
+        "school_name": "Cameron",
         "score": "0.03636363636363637",
         "num_fixtures": "22"
       }
@@ -1127,7 +947,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CAMRAS",
+        "school_name": "Camras",
         "score": "0.0",
         "num_fixtures": "6"
       }
@@ -1142,7 +962,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CANTY",
+        "school_name": "Canty",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -1157,7 +977,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARDENAS",
+        "school_name": "Cardenas",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -1172,7 +992,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARNEGIE",
+        "school_name": "Carnegie",
         "score": "0.018750000000000003",
         "num_fixtures": "16"
       }
@@ -1187,7 +1007,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARROLL",
+        "school_name": "Carroll",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -1202,7 +1022,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARSON",
+        "school_name": "Carson",
         "score": "0.013333333333333336",
         "num_fixtures": "45"
       }
@@ -1217,7 +1037,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARTER",
+        "school_name": "Carter",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -1232,7 +1052,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARVER G",
+        "school_name": "Carver G",
         "score": "0.042105263157894736",
         "num_fixtures": "19"
       }
@@ -1247,9 +1067,39 @@
         ]
       },
       "properties": {
-        "SchoolName": "CARVER MILITARY HS",
+        "school_name": "Carver Military Hs",
         "score": "0.0",
         "num_fixtures": "39"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.714234,
+          41.904503
+        ]
+      },
+      "properties": {
+        "school_name": "Casals",
+        "score": "",
+        "num_fixtures": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.703215,
+          41.687347
+        ]
+      },
+      "properties": {
+        "school_name": "Cassell",
+        "score": "0.0125",
+        "num_fixtures": "16"
       }
     },
     {
@@ -1262,7 +1112,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CASTELLANOS",
+        "school_name": "Castellanos",
         "score": "0.011764705882352941",
         "num_fixtures": "17"
       }
@@ -1277,7 +1127,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CATHER",
+        "school_name": "Cather",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -1292,7 +1142,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHALMERS",
+        "school_name": "Chalmers",
         "score": "0.009523809523809525",
         "num_fixtures": "21"
       }
@@ -1307,7 +1157,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHAPPELL",
+        "school_name": "Chappell",
         "score": "0.008695652173913044",
         "num_fixtures": "23"
       }
@@ -1322,7 +1172,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHASE",
+        "school_name": "Chase",
         "score": "0.035897435897435895",
         "num_fixtures": "39"
       }
@@ -1337,7 +1187,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHAVEZ",
+        "school_name": "Chavez",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -1352,7 +1202,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHICAGO ACADEMY ES",
+        "school_name": "Chicago Academy Es",
         "score": "0.0",
         "num_fixtures": "31"
       }
@@ -1367,7 +1217,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHICAGO AGRICULTURE HS",
+        "school_name": "Chicago Agriculture Hs",
         "score": "0.0",
         "num_fixtures": "36"
       }
@@ -1382,7 +1232,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHICAGO ARTS HS",
+        "school_name": "Chicago Arts Hs",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -1392,29 +1242,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.619216,
-          41.830555
+          -87.573268,
+          41.737174
         ]
       },
       "properties": {
-        "SchoolName": "CHICAGO MILITARY HS",
-        "score": "0.0",
-        "num_fixtures": "21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.659095,
-          41.863301
-        ]
-      },
-      "properties": {
-        "SchoolName": "CHICAGO TECH HS",
-        "score": "0.0",
-        "num_fixtures": "7"
+        "school_name": "Chicago Vocational Hs",
+        "score": "0.0761904761904762",
+        "num_fixtures": "42"
       }
     },
     {
@@ -1427,9 +1262,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "CHOPIN",
+        "school_name": "Chopin",
         "score": "0.0",
         "num_fixtures": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.685607,
+          41.801659
+        ]
+      },
+      "properties": {
+        "school_name": "Christopher",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -1442,7 +1292,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CICS - CHICAGOQUEST HS",
+        "school_name": "Cics - Chicagoquest Hs",
         "score": "0.0",
         "num_fixtures": "20"
       }
@@ -1457,7 +1307,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLAREMONT",
+        "school_name": "Claremont",
         "score": "0.0064516129032258064",
         "num_fixtures": "31"
       }
@@ -1472,7 +1322,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLARK ES",
+        "school_name": "Clark Es",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -1487,7 +1337,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLARK HS",
+        "school_name": "Clark Hs",
         "score": "0.043478260869565216",
         "num_fixtures": "23"
       }
@@ -1502,7 +1352,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLAY",
+        "school_name": "Clay",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -1517,7 +1367,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLEMENTE HS",
+        "school_name": "Clemente Hs",
         "score": "0.07096774193548387",
         "num_fixtures": "62"
       }
@@ -1532,7 +1382,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLEVELAND",
+        "school_name": "Cleveland",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -1547,7 +1397,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLINTON",
+        "school_name": "Clinton",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -1562,7 +1412,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CLISSOLD",
+        "school_name": "Clissold",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -1577,7 +1427,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COLEMON",
+        "school_name": "Colemon",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -1592,9 +1442,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "COLES",
+        "school_name": "Coles",
         "score": "0.014285714285714287",
         "num_fixtures": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.702042,
+          41.864149
+        ]
+      },
+      "properties": {
+        "school_name": "Collins Hs",
+        "score": "0.04032258064516129",
+        "num_fixtures": "31"
       }
     },
     {
@@ -1607,7 +1472,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COLUMBIA EXPLORERS",
+        "school_name": "Columbia Explorers",
         "score": "0.006666666666666667",
         "num_fixtures": "30"
       }
@@ -1622,7 +1487,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COLUMBUS",
+        "school_name": "Columbus",
         "score": "0.022222222222222223",
         "num_fixtures": "9"
       }
@@ -1637,7 +1502,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COOK",
+        "school_name": "Cook",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -1652,7 +1517,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COONLEY",
+        "school_name": "Coonley",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -1667,7 +1532,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "COOPER",
+        "school_name": "Cooper",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -1682,7 +1547,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CORKERY",
+        "school_name": "Corkery",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -1697,7 +1562,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CORLISS HS",
+        "school_name": "Corliss Hs",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -1712,24 +1577,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "COURTENAY",
+        "school_name": "Courtenay",
         "score": "0.05833333333333333",
         "num_fixtures": "24"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.683301,
-          41.876947
-        ]
-      },
-      "properties": {
-        "SchoolName": "CRANE MEDICAL HS",
-        "score": "0.0",
-        "num_fixtures": "25"
       }
     },
     {
@@ -1742,7 +1592,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CROWN",
+        "school_name": "Crown",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -1757,7 +1607,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CUFFE",
+        "school_name": "Cuffe",
         "score": "0.013793103448275864",
         "num_fixtures": "29"
       }
@@ -1772,7 +1622,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CULLEN",
+        "school_name": "Cullen",
         "score": "0.0",
         "num_fixtures": "4"
       }
@@ -1787,7 +1637,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "CURIE HS",
+        "school_name": "Curie Hs",
         "score": "0.0",
         "num_fixtures": "46"
       }
@@ -1802,24 +1652,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "CURTIS",
+        "school_name": "Curtis",
         "score": "0.0",
         "num_fixtures": "23"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.573268,
-          41.737174
-        ]
-      },
-      "properties": {
-        "SchoolName": "CHICAGO VOCATIONAL HS",
-        "score": "0.07272727272727274",
-        "num_fixtures": "44"
       }
     },
     {
@@ -1832,24 +1667,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "DARWIN",
+        "school_name": "Darwin",
         "score": "0.02666666666666667",
         "num_fixtures": "30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.700202,
-          41.821852
-        ]
-      },
-      "properties": {
-        "SchoolName": "DAVIS N",
-        "score": "0.0",
-        "num_fixtures": "26"
       }
     },
     {
@@ -1862,9 +1682,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "DAVIS M",
+        "school_name": "Davis M",
         "score": "0.0",
         "num_fixtures": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.700202,
+          41.821852
+        ]
+      },
+      "properties": {
+        "school_name": "Davis N",
+        "score": "0.0",
+        "num_fixtures": "26"
       }
     },
     {
@@ -1877,7 +1712,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DAWES",
+        "school_name": "Dawes",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -1892,9 +1727,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "DE DIEGO",
+        "school_name": "De Diego",
         "score": "0.0",
         "num_fixtures": "11"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.704619,
+          42.009289
+        ]
+      },
+      "properties": {
+        "school_name": "Decatur",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -1907,7 +1757,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DENEEN",
+        "school_name": "Deneen",
         "score": "0.028571428571428574",
         "num_fixtures": "14"
       }
@@ -1922,9 +1772,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "DEPRIEST",
+        "school_name": "Depriest",
         "score": "0.0",
-        "num_fixtures": "28"
+        "num_fixtures": "26"
       }
     },
     {
@@ -1937,7 +1787,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DETT",
+        "school_name": "Dett",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -1952,7 +1802,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DEVER",
+        "school_name": "Dever",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -1967,7 +1817,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DEWEY",
+        "school_name": "Dewey",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -1982,7 +1832,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DIRKSEN",
+        "school_name": "Dirksen",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -1997,7 +1847,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DISNEY",
+        "school_name": "Disney",
         "score": "0.011111111111111112",
         "num_fixtures": "54"
       }
@@ -2012,7 +1862,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DISNEY II",
+        "school_name": "Disney Ii",
         "score": "0.016666666666666666",
         "num_fixtures": "12"
       }
@@ -2027,7 +1877,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DIXON",
+        "school_name": "Dixon",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -2042,24 +1892,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "DODGE",
+        "school_name": "Dodge",
         "score": "0.03",
         "num_fixtures": "20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.608501,
-          41.827726
-        ]
-      },
-      "properties": {
-        "SchoolName": "U OF C - DONOGHUE",
-        "score": "0.0",
-        "num_fixtures": "14"
       }
     },
     {
@@ -2072,7 +1907,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DOOLITTLE",
+        "school_name": "Doolittle",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -2087,24 +1922,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "DORE",
+        "school_name": "Dore",
         "score": "0.0",
         "num_fixtures": "8"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.767668,
-          41.890369
-        ]
-      },
-      "properties": {
-        "SchoolName": "DOUGLASS HS",
-        "score": "0.02962962962962963",
-        "num_fixtures": "27"
       }
     },
     {
@@ -2117,7 +1937,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DRAKE",
+        "school_name": "Drake",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -2132,7 +1952,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DRUMMOND",
+        "school_name": "Drummond",
         "score": "0.028571428571428574",
         "num_fixtures": "14"
       }
@@ -2147,7 +1967,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DUBOIS",
+        "school_name": "Dubois",
         "score": "0.05",
         "num_fixtures": "8"
       }
@@ -2162,7 +1982,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DULLES",
+        "school_name": "Dulles",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -2177,7 +1997,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DUNBAR HS",
+        "school_name": "Dunbar Hs",
         "score": "0.011111111111111112",
         "num_fixtures": "36"
       }
@@ -2192,7 +2012,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DUNNE",
+        "school_name": "Dunne",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -2207,7 +2027,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DURKIN PARK",
+        "school_name": "Durkin Park",
         "score": "0.06666666666666667",
         "num_fixtures": "15"
       }
@@ -2222,7 +2042,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "DVORAK",
+        "school_name": "Dvorak",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -2237,7 +2057,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EARHART",
+        "school_name": "Earhart",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -2252,7 +2072,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EARLE",
+        "school_name": "Earle",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -2267,7 +2087,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EBERHART",
+        "school_name": "Eberhart",
         "score": "0.0",
         "num_fixtures": "33"
       }
@@ -2282,7 +2102,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EBINGER",
+        "school_name": "Ebinger",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -2297,7 +2117,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EDGEBROOK",
+        "school_name": "Edgebrook",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -2312,7 +2132,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EDISON",
+        "school_name": "Edison",
         "score": "0.015384615384615385",
         "num_fixtures": "26"
       }
@@ -2327,7 +2147,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EDISON PARK",
+        "school_name": "Edison Park",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -2342,7 +2162,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EDWARDS",
+        "school_name": "Edwards",
         "score": "0.0",
         "num_fixtures": "20"
       }
@@ -2357,9 +2177,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "ELLINGTON",
+        "school_name": "Ellington",
         "score": "0.0",
-        "num_fixtures": "34"
+        "num_fixtures": "32"
       }
     },
     {
@@ -2372,7 +2192,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EPIC HS",
+        "school_name": "Epic Hs",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -2387,7 +2207,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ERICSON",
+        "school_name": "Ericson",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -2402,7 +2222,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ESMOND",
+        "school_name": "Esmond",
         "score": "0.018750000000000003",
         "num_fixtures": "32"
       }
@@ -2417,7 +2237,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EVERETT",
+        "school_name": "Everett",
         "score": "0.10769230769230768",
         "num_fixtures": "13"
       }
@@ -2432,7 +2252,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EVERGREEN",
+        "school_name": "Evergreen",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -2447,7 +2267,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "EVERS",
+        "school_name": "Evers",
         "score": "0.0",
         "num_fixtures": "3"
       }
@@ -2462,9 +2282,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "FAIRFIELD",
+        "school_name": "Fairfield",
         "score": "0.15000000000000002",
         "num_fixtures": "4"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.749331,
+          41.935785
+        ]
+      },
+      "properties": {
+        "school_name": "Falconer",
+        "score": "0.0",
+        "num_fixtures": "28"
       }
     },
     {
@@ -2477,7 +2312,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FARADAY",
+        "school_name": "Faraday",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -2492,7 +2327,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FARNSWORTH",
+        "school_name": "Farnsworth",
         "score": "0.0",
         "num_fixtures": "17"
       }
@@ -2507,23 +2342,8 @@
         ]
       },
       "properties": {
-        "SchoolName": "FARRAGUT HS",
+        "school_name": "Farragut Hs",
         "score": "0.0",
-        "num_fixtures": "30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.637572,
-          41.689951
-        ]
-      },
-      "properties": {
-        "SchoolName": "FENGER HS",
-        "score": "0.013333333333333334",
         "num_fixtures": "30"
       }
     },
@@ -2537,7 +2357,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FERNWOOD",
+        "school_name": "Fernwood",
         "score": "0.06315789473684212",
         "num_fixtures": "19"
       }
@@ -2552,7 +2372,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FIELD",
+        "school_name": "Field",
         "score": "0.2076923076923077",
         "num_fixtures": "13"
       }
@@ -2567,7 +2387,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FINKL",
+        "school_name": "Finkl",
         "score": "0.0",
         "num_fixtures": "25"
       }
@@ -2582,7 +2402,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FISKE",
+        "school_name": "Fiske",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -2597,7 +2417,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FOREMAN HS",
+        "school_name": "Foreman Hs",
         "score": "0.005555555555555556",
         "num_fixtures": "36"
       }
@@ -2612,7 +2432,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FORT DEARBORN",
+        "school_name": "Fort Dearborn",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -2627,7 +2447,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FOSTER PARK",
+        "school_name": "Foster Park",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -2642,7 +2462,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FRANKLIN",
+        "school_name": "Franklin",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -2657,7 +2477,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FRAZIER PROSPECTIVE",
+        "school_name": "Frazier Prospective",
         "score": "0.06363636363636363",
         "num_fixtures": "22"
       }
@@ -2672,7 +2492,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FULLER",
+        "school_name": "Fuller",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -2687,7 +2507,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FULTON",
+        "school_name": "Fulton",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -2702,7 +2522,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "FUNSTON",
+        "school_name": "Funston",
         "score": "0.007692307692307693",
         "num_fixtures": "26"
       }
@@ -2717,7 +2537,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GAGE PARK HS",
+        "school_name": "Gage Park Hs",
         "score": "0.0",
         "num_fixtures": "36"
       }
@@ -2732,7 +2552,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GALE",
+        "school_name": "Gale",
         "score": "0.0",
         "num_fixtures": "29"
       }
@@ -2747,7 +2567,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GALILEO",
+        "school_name": "Galileo",
         "score": "0.06875",
         "num_fixtures": "32"
       }
@@ -2762,7 +2582,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GALLISTEL",
+        "school_name": "Gallistel",
         "score": "0.008695652173913044",
         "num_fixtures": "23"
       }
@@ -2777,9 +2597,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "GARVEY",
+        "school_name": "Garvey",
         "score": "0.0",
         "num_fixtures": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.796235,
+          41.976352
+        ]
+      },
+      "properties": {
+        "school_name": "Garvy",
+        "score": "0.0",
+        "num_fixtures": "16"
       }
     },
     {
@@ -2792,7 +2627,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GARY",
+        "school_name": "Gary",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -2807,7 +2642,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GILLESPIE",
+        "school_name": "Gillespie",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -2822,24 +2657,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "GOETHE",
+        "school_name": "Goethe",
         "score": "0.0",
         "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.707345,
-          41.75375
-        ]
-      },
-      "properties": {
-        "SchoolName": "GOODE HS",
-        "score": "0.0",
-        "num_fixtures": "32"
       }
     },
     {
@@ -2852,7 +2672,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GOUDY",
+        "school_name": "Goudy",
         "score": "0.017391304347826087",
         "num_fixtures": "23"
       }
@@ -2867,7 +2687,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRAHAM ES",
+        "school_name": "Graham Es",
         "score": "0.0380952380952381",
         "num_fixtures": "21"
       }
@@ -2882,7 +2702,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRAHAM HS",
+        "school_name": "Graham Hs",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -2897,7 +2717,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRAY",
+        "school_name": "Gray",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -2912,7 +2732,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GREELEY",
+        "school_name": "Greeley",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -2927,7 +2747,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GREEN",
+        "school_name": "Green",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -2942,7 +2762,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GREENE",
+        "school_name": "Greene",
         "score": "0.0",
         "num_fixtures": "26"
       }
@@ -2957,7 +2777,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GREGORY",
+        "school_name": "Gregory",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -2972,7 +2792,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRESHAM",
+        "school_name": "Gresham",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -2987,7 +2807,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRIMES",
+        "school_name": "Grimes",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -3002,7 +2822,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GRISSOM",
+        "school_name": "Grissom",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -3017,7 +2837,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "GUNSAULUS",
+        "school_name": "Gunsaulus",
         "score": "0.014285714285714287",
         "num_fixtures": "14"
       }
@@ -3032,7 +2852,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAINES",
+        "school_name": "Haines",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -3047,7 +2867,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HALE",
+        "school_name": "Hale",
         "score": "0.0",
         "num_fixtures": "26"
       }
@@ -3062,7 +2882,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HALEY",
+        "school_name": "Haley",
         "score": "0.008333333333333333",
         "num_fixtures": "24"
       }
@@ -3077,7 +2897,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAMILTON",
+        "school_name": "Hamilton",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -3092,7 +2912,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAMLINE",
+        "school_name": "Hamline",
         "score": "0.0125",
         "num_fixtures": "32"
       }
@@ -3107,7 +2927,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAMMOND",
+        "school_name": "Hammond",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -3122,7 +2942,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAMPTON",
+        "school_name": "Hampton",
         "score": "0.012121212121212121",
         "num_fixtures": "33"
       }
@@ -3137,7 +2957,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HANCOCK HS",
+        "school_name": "Hancock Hs",
         "score": "0.0",
         "num_fixtures": "28"
       }
@@ -3152,7 +2972,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HANSON PARK",
+        "school_name": "Hanson Park",
         "score": "0.0",
         "num_fixtures": "32"
       }
@@ -3167,24 +2987,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "HARLAN HS",
+        "school_name": "Harlan Hs",
         "score": "0.1021276595744681",
         "num_fixtures": "47"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.669089,
-          41.775124
-        ]
-      },
-      "properties": {
-        "SchoolName": "HARPER HS",
-        "score": "0.041379310344827586",
-        "num_fixtures": "29"
       }
     },
     {
@@ -3197,7 +3002,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HARTE",
+        "school_name": "Harte",
         "score": "0.02",
         "num_fixtures": "10"
       }
@@ -3212,7 +3017,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HARVARD",
+        "school_name": "Harvard",
         "score": "0.018181818181818184",
         "num_fixtures": "11"
       }
@@ -3227,7 +3032,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAUGAN",
+        "school_name": "Haugan",
         "score": "0.0",
         "num_fixtures": "25"
       }
@@ -3242,7 +3047,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAWTHORNE",
+        "school_name": "Hawthorne",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -3257,7 +3062,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAY",
+        "school_name": "Hay",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -3272,7 +3077,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HAYT",
+        "school_name": "Hayt",
         "score": "0.0",
         "num_fixtures": "28"
       }
@@ -3287,7 +3092,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HEALY",
+        "school_name": "Healy",
         "score": "0.0625",
         "num_fixtures": "16"
       }
@@ -3302,7 +3107,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HEARST",
+        "school_name": "Hearst",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -3317,7 +3122,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HEDGES",
+        "school_name": "Hedges",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -3332,7 +3137,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HEFFERAN",
+        "school_name": "Hefferan",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -3347,7 +3152,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HENDERSON",
+        "school_name": "Henderson",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -3362,7 +3167,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HENDRICKS",
+        "school_name": "Hendricks",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -3377,24 +3182,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "HENRY",
+        "school_name": "Henry",
         "score": "0.0",
         "num_fixtures": "10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.71137,
-          41.793479
-        ]
-      },
-      "properties": {
-        "SchoolName": "HERNANDEZ",
-        "score": "0.0",
-        "num_fixtures": "25"
       }
     },
     {
@@ -3407,7 +3197,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HERZL",
+        "school_name": "Herzl",
         "score": "0.0",
         "num_fixtures": "30"
       }
@@ -3422,7 +3212,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HIBBARD",
+        "school_name": "Hibbard",
         "score": "0.010714285714285714",
         "num_fixtures": "16"
       }
@@ -3437,24 +3227,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "HIGGINS",
+        "school_name": "Higgins",
         "score": "0.0",
         "num_fixtures": "10"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.601727,
-          41.753748
-        ]
-      },
-      "properties": {
-        "SchoolName": "HIRSCH HS",
-        "score": "0.0",
-        "num_fixtures": "24"
       }
     },
     {
@@ -3467,7 +3242,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HITCH",
+        "school_name": "Hitch",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -3482,7 +3257,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HOLDEN",
+        "school_name": "Holden",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -3497,7 +3272,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HOLMES",
+        "school_name": "Holmes",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -3512,7 +3287,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HOPE HS",
+        "school_name": "Hope Hs",
         "score": "0.0",
         "num_fixtures": "25"
       }
@@ -3527,7 +3302,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HOPE INSTITUTE",
+        "school_name": "Hope Institute",
         "score": "0.004166666666666667",
         "num_fixtures": "48"
       }
@@ -3542,9 +3317,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "HOWE",
+        "school_name": "Howe",
         "score": "0.0",
         "num_fixtures": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.568228,
+          41.733338
+        ]
+      },
+      "properties": {
+        "school_name": "Hoyne",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -3557,7 +3347,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HUBBARD HS",
+        "school_name": "Hubbard Hs",
         "score": "0.0",
         "num_fixtures": "40"
       }
@@ -3572,7 +3362,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HUGHES C",
+        "school_name": "Hughes C",
         "score": "0.028571428571428574",
         "num_fixtures": "14"
       }
@@ -3587,7 +3377,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "HUGHES L",
+        "school_name": "Hughes L",
         "score": "0.009523809523809525",
         "num_fixtures": "21"
       }
@@ -3602,24 +3392,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "HURLEY",
+        "school_name": "Hurley",
         "score": "0.0",
         "num_fixtures": "15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.586615,
-          41.782257
-        ]
-      },
-      "properties": {
-        "SchoolName": "HYDE PARK HS",
-        "score": "0.0",
-        "num_fixtures": "51"
       }
     },
     {
@@ -3632,7 +3407,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "INTERAMERICAN",
+        "school_name": "Interamerican",
         "score": "0.0",
         "num_fixtures": "20"
       }
@@ -3647,7 +3422,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "IRVING",
+        "school_name": "Irving",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -3662,7 +3437,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JACKSON M",
+        "school_name": "Jackson M",
         "score": "0.0",
         "num_fixtures": "4"
       }
@@ -3677,7 +3452,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JAHN",
+        "school_name": "Jahn",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -3692,7 +3467,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JAMIESON",
+        "school_name": "Jamieson",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -3707,7 +3482,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JENNER",
+        "school_name": "Jenner",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -3722,7 +3497,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JENSEN",
+        "school_name": "Jensen",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -3737,7 +3512,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JOHNSON",
+        "school_name": "Johnson",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -3752,7 +3527,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JONES HS",
+        "school_name": "Jones Hs",
         "score": "0.0",
         "num_fixtures": "48"
       }
@@ -3767,9 +3542,39 @@
         ]
       },
       "properties": {
-        "SchoolName": "JOPLIN",
+        "school_name": "Joplin",
         "score": "0.0",
         "num_fixtures": "10"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677763,
+          42.017088
+        ]
+      },
+      "properties": {
+        "school_name": "Jordan",
+        "score": "",
+        "num_fixtures": ""
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.663732,
+          41.852667
+        ]
+      },
+      "properties": {
+        "school_name": "Juarez Hs",
+        "score": "0.0",
+        "num_fixtures": "33"
       }
     },
     {
@@ -3782,7 +3587,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JULIAN HS",
+        "school_name": "Julian Hs",
         "score": "0.041379310344827586",
         "num_fixtures": "29"
       }
@@ -3797,7 +3602,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "JUNGMAN",
+        "school_name": "Jungman",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -3812,7 +3617,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KANOON",
+        "school_name": "Kanoon",
         "score": "0.005128205128205128",
         "num_fixtures": "13"
       }
@@ -3827,7 +3632,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KELLER",
+        "school_name": "Keller",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -3842,7 +3647,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KELLMAN",
+        "school_name": "Kellman",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -3857,7 +3662,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KELLOGG",
+        "school_name": "Kellogg",
         "score": "0.025",
         "num_fixtures": "8"
       }
@@ -3872,24 +3677,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "KELLY HS",
+        "school_name": "Kelly Hs",
         "score": "0.0",
         "num_fixtures": "34"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.735999,
-          41.927918
-        ]
-      },
-      "properties": {
-        "SchoolName": "KELVYN PARK HS",
-        "score": "0.0",
-        "num_fixtures": "28"
       }
     },
     {
@@ -3902,24 +3692,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "KENNEDY HS",
+        "school_name": "Kennedy Hs",
         "score": "0.0",
-        "num_fixtures": "60"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.590421,
-          41.803772
-        ]
-      },
-      "properties": {
-        "SchoolName": "KENWOOD HS",
-        "score": "0.02222222222222222",
-        "num_fixtures": "63"
+        "num_fixtures": "58"
       }
     },
     {
@@ -3932,7 +3707,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KERSHAW",
+        "school_name": "Kershaw",
         "score": "0.1285714285714286",
         "num_fixtures": "14"
       }
@@ -3947,7 +3722,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KILMER",
+        "school_name": "Kilmer",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -3962,7 +3737,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KING ES",
+        "school_name": "King Es",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -3977,7 +3752,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "KING HS",
+        "school_name": "King Hs",
         "score": "0.0",
         "num_fixtures": "28"
       }
@@ -3992,9 +3767,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "KINZIE",
+        "school_name": "Kinzie",
         "score": "0.0",
-        "num_fixtures": "60"
+        "num_fixtures": "58"
       }
     },
     {
@@ -4007,9 +3782,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "KIPLING",
+        "school_name": "Kipling",
         "score": "0.0",
         "num_fixtures": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.709287,
+          41.861174
+        ]
+      },
+      "properties": {
+        "school_name": "Kipp Chicago - Ascend Primary",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -4022,24 +3812,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "KOZMINSKI",
+        "school_name": "Kozminski",
         "score": "0.0",
         "num_fixtures": "4"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.673696,
-          41.902914
-        ]
-      },
-      "properties": {
-        "SchoolName": "LASALLE II",
-        "score": "0.0071428571428571435",
-        "num_fixtures": "28"
       }
     },
     {
@@ -4052,7 +3827,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LAKE VIEW HS",
+        "school_name": "Lake View Hs",
         "score": "0.0058823529411764705",
         "num_fixtures": "34"
       }
@@ -4067,7 +3842,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LANE TECH HS",
+        "school_name": "Lane Tech Hs",
         "score": "0.0",
         "num_fixtures": "69"
       }
@@ -4082,7 +3857,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LANGFORD",
+        "school_name": "Langford",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -4097,9 +3872,39 @@
         ]
       },
       "properties": {
-        "SchoolName": "LARA",
+        "school_name": "Lara",
         "score": "0.0",
         "num_fixtures": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.637565,
+          41.9139
+        ]
+      },
+      "properties": {
+        "school_name": "Lasalle",
+        "score": "0.1285714285714286",
+        "num_fixtures": "14"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.673696,
+          41.902914
+        ]
+      },
+      "properties": {
+        "school_name": "Lasalle Ii",
+        "score": "0.0071428571428571435",
+        "num_fixtures": "28"
       }
     },
     {
@@ -4112,7 +3917,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LAVIZZO",
+        "school_name": "Lavizzo",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -4127,7 +3932,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LAWNDALE",
+        "school_name": "Lawndale",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -4142,9 +3947,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "LEE",
+        "school_name": "Lee",
         "score": "0.0",
         "num_fixtures": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.749276,
+          41.873587
+        ]
+      },
+      "properties": {
+        "school_name": "Leland",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -4157,7 +3977,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LENART",
+        "school_name": "Lenart",
         "score": "0.0",
         "num_fixtures": "6"
       }
@@ -4172,7 +3992,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LEWIS",
+        "school_name": "Lewis",
         "score": "0.009090909090909092",
         "num_fixtures": "22"
       }
@@ -4187,7 +4007,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LIBBY",
+        "school_name": "Libby",
         "score": "0.009523809523809525",
         "num_fixtures": "21"
       }
@@ -4202,7 +4022,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LINCOLN",
+        "school_name": "Lincoln",
         "score": "0.0",
         "num_fixtures": "31"
       }
@@ -4217,7 +4037,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LINCOLN PARK HS",
+        "school_name": "Lincoln Park Hs",
         "score": "0.0",
         "num_fixtures": "47"
       }
@@ -4232,7 +4052,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LINDBLOM HS",
+        "school_name": "Lindblom Hs",
         "score": "0.005128205128205128",
         "num_fixtures": "39"
       }
@@ -4247,7 +4067,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LITTLE VILLAGE",
+        "school_name": "Little Village",
         "score": "0.016666666666666666",
         "num_fixtures": "24"
       }
@@ -4262,7 +4082,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LLOYD",
+        "school_name": "Lloyd",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -4277,7 +4097,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LOCKE J",
+        "school_name": "Locke J",
         "score": "0.005405405405405406",
         "num_fixtures": "37"
       }
@@ -4292,9 +4112,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "LOGANDALE",
+        "school_name": "Logandale",
         "score": "0.0",
         "num_fixtures": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.724783,
+          41.940026
+        ]
+      },
+      "properties": {
+        "school_name": "Lorca",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -4307,7 +4142,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LOVETT",
+        "school_name": "Lovett",
         "score": "0.03529411764705882",
         "num_fixtures": "17"
       }
@@ -4322,7 +4157,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LOWELL",
+        "school_name": "Lowell",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -4337,7 +4172,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "LOZANO",
+        "school_name": "Lozano",
         "score": "0.03636363636363637",
         "num_fixtures": "22"
       }
@@ -4352,24 +4187,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "LYON",
+        "school_name": "Lyon",
         "score": "0.006060606060606061",
         "num_fixtures": "33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.705064,
-          41.840957
-        ]
-      },
-      "properties": {
-        "SchoolName": "MADERO",
-        "score": "0.05",
-        "num_fixtures": "20"
       }
     },
     {
@@ -4382,7 +4202,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MADISON",
+        "school_name": "Madison",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -4397,7 +4217,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MANIERRE",
+        "school_name": "Manierre",
         "score": "0.007692307692307693",
         "num_fixtures": "26"
       }
@@ -4412,7 +4232,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MANLEY HS",
+        "school_name": "Manley Hs",
         "score": "0.0",
         "num_fixtures": "30"
       }
@@ -4427,24 +4247,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "MANN",
+        "school_name": "Mann",
         "score": "0.0",
         "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.721742,
-          41.916045
-        ]
-      },
-      "properties": {
-        "SchoolName": "MARINE LEADERSHIP AT AMES HS",
-        "score": "0.0",
-        "num_fixtures": "17"
       }
     },
     {
@@ -4457,7 +4262,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MARQUETTE",
+        "school_name": "Marquette",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -4472,24 +4277,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "MARSH",
+        "school_name": "Marsh",
         "score": "0.020000000000000004",
         "num_fixtures": "30"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.70805,
-          41.878444
-        ]
-      },
-      "properties": {
-        "SchoolName": "MARSHALL HS",
-        "score": "0.0",
-        "num_fixtures": "49"
       }
     },
     {
@@ -4502,7 +4292,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MASON",
+        "school_name": "Mason",
         "score": "0.0",
         "num_fixtures": "37"
       }
@@ -4517,7 +4307,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MATHER HS",
+        "school_name": "Mather Hs",
         "score": "0.0",
         "num_fixtures": "32"
       }
@@ -4532,7 +4322,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MAYER",
+        "school_name": "Mayer",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -4547,9 +4337,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "MAYS",
+        "school_name": "Mays",
         "score": "0.0",
         "num_fixtures": "5"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.723931,
+          41.914816
+        ]
+      },
+      "properties": {
+        "school_name": "Mcauliffe",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -4562,7 +4367,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCCLELLAN",
+        "school_name": "Mcclellan",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -4577,7 +4382,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCCORMICK",
+        "school_name": "Mccormick",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -4592,7 +4397,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCCUTCHEON",
+        "school_name": "Mccutcheon",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -4607,7 +4412,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCDADE",
+        "school_name": "Mcdade",
         "score": "0.0",
         "num_fixtures": "6"
       }
@@ -4622,7 +4427,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCDOWELL",
+        "school_name": "Mcdowell",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -4637,7 +4442,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCKAY",
+        "school_name": "Mckay",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -4652,7 +4457,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCNAIR",
+        "school_name": "Mcnair",
         "score": "0.030952380952380953",
         "num_fixtures": "21"
       }
@@ -4667,9 +4472,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "MCPHERSON",
+        "school_name": "Mcpherson",
         "score": "0.0",
         "num_fixtures": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.724661,
+          41.878799
+        ]
+      },
+      "properties": {
+        "school_name": "Melody",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -4682,7 +4502,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "METCALFE",
+        "school_name": "Metcalfe",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -4697,7 +4517,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MIRELES",
+        "school_name": "Mireles",
         "score": "0.0380952380952381",
         "num_fixtures": "21"
       }
@@ -4712,7 +4532,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MITCHELL",
+        "school_name": "Mitchell",
         "score": "0.05714285714285715",
         "num_fixtures": "14"
       }
@@ -4727,7 +4547,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MOLLISON",
+        "school_name": "Mollison",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -4742,7 +4562,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MONROE",
+        "school_name": "Monroe",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -4757,7 +4577,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MONTESSORI ENGLEWOOD",
+        "school_name": "Montessori Englewood",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -4772,7 +4592,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MOOS",
+        "school_name": "Moos",
         "score": "0.0",
         "num_fixtures": "28"
       }
@@ -4787,7 +4607,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MORRILL",
+        "school_name": "Morrill",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -4802,7 +4622,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MOUNT GREENWOOD",
+        "school_name": "Mount Greenwood",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -4817,7 +4637,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MOUNT VERNON",
+        "school_name": "Mount Vernon",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -4832,7 +4652,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MOZART",
+        "school_name": "Mozart",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -4847,7 +4667,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MURPHY",
+        "school_name": "Murphy",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -4862,7 +4682,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "MURRAY",
+        "school_name": "Murray",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -4877,7 +4697,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NASH",
+        "school_name": "Nash",
         "score": "0.0",
         "num_fixtures": "23"
       }
@@ -4892,7 +4712,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NATIONAL TEACHERS",
+        "school_name": "National Teachers",
         "score": "0.0",
         "num_fixtures": "50"
       }
@@ -4907,7 +4727,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NEIL",
+        "school_name": "Neil",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -4922,24 +4742,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "NETTELHORST",
+        "school_name": "Nettelhorst",
         "score": "0.03076923076923077",
         "num_fixtures": "26"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.64599,
-          41.913947
-        ]
-      },
-      "properties": {
-        "SchoolName": "NEWBERRY",
-        "score": "0.03157894736842106",
-        "num_fixtures": "19"
       }
     },
     {
@@ -4952,7 +4757,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NEW FIELD",
+        "school_name": "New Field",
         "score": "0.0",
         "num_fixtures": "41"
       }
@@ -4967,9 +4772,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "NEW SULLIVAN",
+        "school_name": "New Sullivan",
         "score": "0.0",
         "num_fixtures": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.64599,
+          41.913947
+        ]
+      },
+      "properties": {
+        "school_name": "Newberry",
+        "score": "0.03157894736842106",
+        "num_fixtures": "19"
       }
     },
     {
@@ -4982,7 +4802,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NICHOLSON",
+        "school_name": "Nicholson",
         "score": "0.0",
         "num_fixtures": "4"
       }
@@ -4997,7 +4817,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NIGHTINGALE",
+        "school_name": "Nightingale",
         "score": "0.008695652173913044",
         "num_fixtures": "23"
       }
@@ -5012,7 +4832,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NINOS HEROES",
+        "school_name": "Ninos Heroes",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -5027,7 +4847,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NIXON",
+        "school_name": "Nixon",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -5042,69 +4862,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "NOBEL",
+        "school_name": "Nobel",
         "score": "0.0",
         "num_fixtures": "11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.678195,
-          41.878809
-        ]
-      },
-      "properties": {
-        "SchoolName": "NOBLE - BULLS HS",
-        "score": "0.0",
-        "num_fixtures": "21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.635117,
-          41.778369
-        ]
-      },
-      "properties": {
-        "SchoolName": "NOBLE - JOHNSON HS",
-        "score": "0.0",
-        "num_fixtures": "18"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.676111,
-          41.865817
-        ]
-      },
-      "properties": {
-        "SchoolName": "NOBLE - UIC HS",
-        "score": "0.0",
-        "num_fixtures": "17"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.735238,
-          41.911674
-        ]
-      },
-      "properties": {
-        "SchoolName": "NORTH-GRAND HS",
-        "score": "0.0",
-        "num_fixtures": "21"
       }
     },
     {
@@ -5117,7 +4877,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NORTH LAWNDALE - CHRISTIANA HS",
+        "school_name": "North Lawndale - Christiana Hs",
         "score": "0.10476190476190475",
         "num_fixtures": "21"
       }
@@ -5132,7 +4892,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NORTH RIVER",
+        "school_name": "North River",
         "score": "0.0",
         "num_fixtures": "8"
       }
@@ -5147,7 +4907,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NORTHSIDE LEARNING HS",
+        "school_name": "Northside Learning Hs",
         "score": "0.05",
         "num_fixtures": "16"
       }
@@ -5162,7 +4922,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NORTHSIDE PREP HS",
+        "school_name": "Northside Prep Hs",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -5177,7 +4937,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "NORWOOD PARK",
+        "school_name": "Norwood Park",
         "score": "0.07692307692307693",
         "num_fixtures": "13"
       }
@@ -5192,7 +4952,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OGDEN",
+        "school_name": "Ogden",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -5207,7 +4967,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OGDEN HS",
+        "school_name": "Ogden Hs",
         "score": "0.0",
         "num_fixtures": "20"
       }
@@ -5222,7 +4982,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OGLESBY",
+        "school_name": "Oglesby",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -5237,7 +4997,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OKEEFFE",
+        "school_name": "Okeeffe",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -5252,7 +5012,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ONAHAN",
+        "school_name": "Onahan",
         "score": "0.15454545454545457",
         "num_fixtures": "22"
       }
@@ -5267,7 +5027,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ORIOLE PARK",
+        "school_name": "Oriole Park",
         "score": "0.0",
         "num_fixtures": "27"
       }
@@ -5282,7 +5042,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OROZCO",
+        "school_name": "Orozco",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -5297,7 +5057,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ORR HS",
+        "school_name": "Orr Hs",
         "score": "0.17857142857142855",
         "num_fixtures": "35"
       }
@@ -5312,7 +5072,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ORTIZ DE DOMINGUEZ",
+        "school_name": "Ortiz De Dominguez",
         "score": "0.0",
         "num_fixtures": "29"
       }
@@ -5327,7 +5087,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OTIS",
+        "school_name": "Otis",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -5342,7 +5102,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OTOOLE",
+        "school_name": "Otoole",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -5357,7 +5117,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OWEN",
+        "school_name": "Owen",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -5372,7 +5132,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "OWENS",
+        "school_name": "Owens",
         "score": "0.0125",
         "num_fixtures": "16"
       }
@@ -5387,24 +5147,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "PALMER",
+        "school_name": "Palmer",
         "score": "0.0",
         "num_fixtures": "15"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.634086,
-          41.77078
-        ]
-      },
-      "properties": {
-        "SchoolName": "PARKER",
-        "score": "0.0",
-        "num_fixtures": "11"
       }
     },
     {
@@ -5417,9 +5162,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "PARK MANOR",
+        "school_name": "Park Manor",
         "score": "0.0",
         "num_fixtures": "13"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.634086,
+          41.77078
+        ]
+      },
+      "properties": {
+        "school_name": "Parker",
+        "score": "0.0",
+        "num_fixtures": "11"
       }
     },
     {
@@ -5432,7 +5192,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PARKSIDE",
+        "school_name": "Parkside",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -5447,7 +5207,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PASTEUR",
+        "school_name": "Pasteur",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -5462,7 +5222,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PAYTON HS",
+        "school_name": "Payton Hs",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -5477,7 +5237,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PEACE AND EDUCATION HS",
+        "school_name": "Peace And Education Hs",
         "score": "0.02",
         "num_fixtures": "10"
       }
@@ -5492,7 +5252,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PECK",
+        "school_name": "Peck",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -5507,7 +5267,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PEIRCE",
+        "school_name": "Peirce",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -5522,7 +5282,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PENN",
+        "school_name": "Penn",
         "score": "0.02",
         "num_fixtures": "20"
       }
@@ -5537,7 +5297,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PEREZ",
+        "school_name": "Perez",
         "score": "0.08333333333333333",
         "num_fixtures": "12"
       }
@@ -5552,24 +5312,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "PERSHING",
+        "school_name": "Pershing",
         "score": "0.0",
         "num_fixtures": "21"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.652045,
-          41.745961
-        ]
-      },
-      "properties": {
-        "SchoolName": "PERSPECTIVES - LEADERSHIP HS",
-        "score": "0.05333333333333334",
-        "num_fixtures": "15"
       }
     },
     {
@@ -5582,7 +5327,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PERSPECTIVES - MATH & SCI HS",
+        "school_name": "Perspectives - Math & Sci Hs",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -5597,39 +5342,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "PETERSON",
+        "school_name": "Peterson",
         "score": "0.0",
         "num_fixtures": "20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.619796,
-          41.82388
-        ]
-      },
-      "properties": {
-        "SchoolName": "PHILLIPS HS",
-        "score": "0.0",
-        "num_fixtures": "46"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.68696,
-          41.879118
-        ]
-      },
-      "properties": {
-        "SchoolName": "PHOENIX MILITARY HS",
-        "score": "0.0",
-        "num_fixtures": "36"
       }
     },
     {
@@ -5642,7 +5357,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PICCOLO",
+        "school_name": "Piccolo",
         "score": "0.0",
         "num_fixtures": "31"
       }
@@ -5657,7 +5372,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PICKARD",
+        "school_name": "Pickard",
         "score": "0.016",
         "num_fixtures": "25"
       }
@@ -5672,7 +5387,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PILSEN",
+        "school_name": "Pilsen",
         "score": "0.002403846153846154",
         "num_fixtures": "26"
       }
@@ -5687,7 +5402,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PIRIE",
+        "school_name": "Pirie",
         "score": "0.08333333333333333",
         "num_fixtures": "12"
       }
@@ -5702,9 +5417,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "PLAMONDON",
+        "school_name": "Plamondon",
         "score": "0.0",
         "num_fixtures": "7"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.606419,
+          41.70263
+        ]
+      },
+      "properties": {
+        "school_name": "Poe",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -5717,9 +5447,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "PORTAGE PARK",
+        "school_name": "Portage Park",
         "score": "0.008",
         "num_fixtures": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.556789,
+          41.760332
+        ]
+      },
+      "properties": {
+        "school_name": "Powell",
+        "score": "0.0",
+        "num_fixtures": "28"
       }
     },
     {
@@ -5732,7 +5477,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PRESCOTT",
+        "school_name": "Prescott",
         "score": "0.0",
         "num_fixtures": "10"
       }
@@ -5747,7 +5492,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PRIETO",
+        "school_name": "Prieto",
         "score": "0.0",
         "num_fixtures": "33"
       }
@@ -5762,24 +5507,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "PRITZKER",
+        "school_name": "Pritzker",
         "score": "0.0",
         "num_fixtures": "5"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.761048,
-          41.920059
-        ]
-      },
-      "properties": {
-        "SchoolName": "PROSSER HS",
-        "score": "0.0",
-        "num_fixtures": "34"
       }
     },
     {
@@ -5792,7 +5522,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PROVIDENCE ENGLEWOOD",
+        "school_name": "Providence Englewood",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -5807,7 +5537,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PRUSSING",
+        "school_name": "Prussing",
         "score": "0.013333333333333334",
         "num_fixtures": "15"
       }
@@ -5822,7 +5552,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "PULASKI",
+        "school_name": "Pulaski",
         "score": "0.013793103448275864",
         "num_fixtures": "29"
       }
@@ -5837,24 +5567,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "PULLMAN",
+        "school_name": "Pullman",
         "score": "0.09999999999999999",
         "num_fixtures": "12"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.715423,
-          41.88621
-        ]
-      },
-      "properties": {
-        "SchoolName": "RABY HS",
-        "score": "0.014285714285714287",
-        "num_fixtures": "28"
       }
     },
     {
@@ -5867,7 +5582,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RANDOLPH",
+        "school_name": "Randolph",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -5882,7 +5597,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RAVENSWOOD",
+        "school_name": "Ravenswood",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -5897,7 +5612,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RAY",
+        "school_name": "Ray",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -5912,7 +5627,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "REAVIS",
+        "school_name": "Reavis",
         "score": "0.01",
         "num_fixtures": "20"
       }
@@ -5927,7 +5642,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "REILLY",
+        "school_name": "Reilly",
         "score": "0.25999999999999995",
         "num_fixtures": "10"
       }
@@ -5942,7 +5657,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "REINBERG",
+        "school_name": "Reinberg",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -5957,24 +5672,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "REVERE",
+        "school_name": "Revere",
         "score": "0.0",
         "num_fixtures": "20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.662278,
-          41.802881
-        ]
-      },
-      "properties": {
-        "SchoolName": "RICHARDS HS",
-        "score": "0.0",
-        "num_fixtures": "18"
       }
     },
     {
@@ -5987,7 +5687,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ROBESON HS",
+        "school_name": "Robeson Hs",
         "score": "0.14666666666666667",
         "num_fixtures": "15"
       }
@@ -6002,7 +5702,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ROBINSON",
+        "school_name": "Robinson",
         "score": "0.010256410256410256",
         "num_fixtures": "13"
       }
@@ -6017,24 +5717,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "ROGERS",
+        "school_name": "Rogers",
         "score": "0.0",
         "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.714819,
-          41.964828
-        ]
-      },
-      "properties": {
-        "SchoolName": "ROOSEVELT HS",
-        "score": "0.015789473684210527",
-        "num_fixtures": "38"
       }
     },
     {
@@ -6047,7 +5732,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ROWE",
+        "school_name": "Rowe",
         "score": "0.02666666666666667",
         "num_fixtures": "15"
       }
@@ -6062,7 +5747,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RUDOLPH",
+        "school_name": "Rudolph",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -6077,7 +5762,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RUGGLES",
+        "school_name": "Ruggles",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -6092,7 +5777,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "RUIZ",
+        "school_name": "Ruiz",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -6107,9 +5792,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "RYDER",
+        "school_name": "Ryder",
         "score": "0.0",
         "num_fixtures": "16"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68305,
+          41.906816
+        ]
+      },
+      "properties": {
+        "school_name": "Sabin",
+        "score": "0.0",
+        "num_fixtures": "15"
       }
     },
     {
@@ -6122,7 +5822,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SALAZAR",
+        "school_name": "Salazar",
         "score": "0.25",
         "num_fixtures": "4"
       }
@@ -6137,7 +5837,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SANDOVAL",
+        "school_name": "Sandoval",
         "score": "0.008333333333333333",
         "num_fixtures": "24"
       }
@@ -6152,7 +5852,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SAUCEDO",
+        "school_name": "Saucedo",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -6167,7 +5867,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SAUGANASH",
+        "school_name": "Sauganash",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -6182,7 +5882,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SAWYER",
+        "school_name": "Sawyer",
         "score": "0.015853658536585366",
         "num_fixtures": "41"
       }
@@ -6197,7 +5897,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SAYRE",
+        "school_name": "Sayre",
         "score": "0.025",
         "num_fixtures": "16"
       }
@@ -6212,7 +5912,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SCAMMON",
+        "school_name": "Scammon",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -6227,7 +5927,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SCHMID",
+        "school_name": "Schmid",
         "score": "0.025",
         "num_fixtures": "8"
       }
@@ -6242,7 +5942,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SCHUBERT",
+        "school_name": "Schubert",
         "score": "0.0",
         "num_fixtures": "19"
       }
@@ -6257,24 +5957,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "SCHURZ HS",
+        "school_name": "Schurz Hs",
         "score": "0.020833333333333332",
         "num_fixtures": "48"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.667136,
-          41.989029
-        ]
-      },
-      "properties": {
-        "SchoolName": "SENN HS",
-        "score": "0.0",
-        "num_fixtures": "25"
       }
     },
     {
@@ -6287,7 +5972,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SEWARD",
+        "school_name": "Seward",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -6302,7 +5987,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHERIDAN",
+        "school_name": "Sheridan",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -6317,7 +6002,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHERMAN",
+        "school_name": "Sherman",
         "score": "0.08333333333333333",
         "num_fixtures": "12"
       }
@@ -6332,7 +6017,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHERWOOD",
+        "school_name": "Sherwood",
         "score": "0.0",
         "num_fixtures": "12"
       }
@@ -6347,7 +6032,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHIELDS",
+        "school_name": "Shields",
         "score": "0.0",
         "num_fixtures": "30"
       }
@@ -6362,7 +6047,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHOESMITH",
+        "school_name": "Shoesmith",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -6377,7 +6062,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SHOOP",
+        "school_name": "Shoop",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -6392,7 +6077,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SIMPSON HS",
+        "school_name": "Simpson Hs",
         "score": "0.1142857142857143",
         "num_fixtures": "7"
       }
@@ -6407,9 +6092,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "SKINNER (WEST)",
+        "school_name": "Skinner (West)",
         "score": "0.0",
         "num_fixtures": "23"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.644841,
+          41.905109
+        ]
+      },
+      "properties": {
+        "school_name": "Skinner North",
+        "score": "0.0",
+        "num_fixtures": "16"
       }
     },
     {
@@ -6422,7 +6122,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SMITH",
+        "school_name": "Smith",
         "score": "0.009523809523809523",
         "num_fixtures": "14"
       }
@@ -6437,7 +6137,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SMYSER",
+        "school_name": "Smyser",
         "score": "0.05384615384615385",
         "num_fixtures": "26"
       }
@@ -6452,7 +6152,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SMYTH",
+        "school_name": "Smyth",
         "score": "0.04285714285714286",
         "num_fixtures": "14"
       }
@@ -6467,7 +6167,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SOLOMON",
+        "school_name": "Solomon",
         "score": "0.018181818181818184",
         "num_fixtures": "11"
       }
@@ -6482,7 +6182,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SOUTH LOOP",
+        "school_name": "South Loop",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -6497,7 +6197,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SOUTH SHORE ES",
+        "school_name": "South Shore Es",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -6512,7 +6212,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SPENCER",
+        "school_name": "Spencer",
         "score": "0.03214285714285715",
         "num_fixtures": "28"
       }
@@ -6527,7 +6227,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SPRY ES",
+        "school_name": "Spry Es",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -6542,7 +6242,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STAGG",
+        "school_name": "Stagg",
         "score": "0.0",
         "num_fixtures": "6"
       }
@@ -6557,7 +6257,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STEINMETZ HS",
+        "school_name": "Steinmetz Hs",
         "score": "0.0",
         "num_fixtures": "45"
       }
@@ -6572,7 +6272,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STEM",
+        "school_name": "Stem",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -6587,7 +6287,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STEVENSON",
+        "school_name": "Stevenson",
         "score": "0.0",
         "num_fixtures": "37"
       }
@@ -6602,7 +6302,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STOCK",
+        "school_name": "Stock",
         "score": "0.015384615384615385",
         "num_fixtures": "13"
       }
@@ -6617,7 +6317,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STONE",
+        "school_name": "Stone",
         "score": "0.018181818181818184",
         "num_fixtures": "22"
       }
@@ -6632,7 +6332,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "STOWE",
+        "school_name": "Stowe",
         "score": "0.017391304347826087",
         "num_fixtures": "23"
       }
@@ -6647,24 +6347,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "SUDER",
+        "school_name": "Suder",
         "score": "0.0",
         "num_fixtures": "20"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.669192,
-          42.002688
-        ]
-      },
-      "properties": {
-        "SchoolName": "SULLIVAN HS",
-        "score": "0.0",
-        "num_fixtures": "31"
       }
     },
     {
@@ -6677,7 +6362,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SUMNER",
+        "school_name": "Sumner",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -6692,7 +6377,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SUTHERLAND",
+        "school_name": "Sutherland",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -6707,7 +6392,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "SWIFT",
+        "school_name": "Swift",
         "score": "0.0",
         "num_fixtures": "27"
       }
@@ -6722,7 +6407,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TAFT HS",
+        "school_name": "Taft Hs",
         "score": "0.0",
         "num_fixtures": "51"
       }
@@ -6737,7 +6422,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TALCOTT",
+        "school_name": "Talcott",
         "score": "0.010526315789473684",
         "num_fixtures": "19"
       }
@@ -6752,9 +6437,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "TALMAN",
+        "school_name": "Talman",
         "score": "0.0",
         "num_fixtures": "9"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.606791,
+          41.760673
+        ]
+      },
+      "properties": {
+        "school_name": "Tanner",
+        "score": "0.1875",
+        "num_fixtures": "16"
       }
     },
     {
@@ -6767,7 +6467,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TARKINGTON",
+        "school_name": "Tarkington",
         "score": "0.005714285714285714",
         "num_fixtures": "35"
       }
@@ -6782,7 +6482,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TAYLOR",
+        "school_name": "Taylor",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -6797,7 +6497,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TEAM HS",
+        "school_name": "Team Hs",
         "score": "0.004761904761904762",
         "num_fixtures": "42"
       }
@@ -6812,7 +6512,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "THOMAS",
+        "school_name": "Thomas",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -6827,7 +6527,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "THORP J",
+        "school_name": "Thorp J",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -6842,7 +6542,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "THORP O",
+        "school_name": "Thorp O",
         "score": "0.0",
         "num_fixtures": "15"
       }
@@ -6857,7 +6557,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TILDEN HS",
+        "school_name": "Tilden Hs",
         "score": "0.0071428571428571435",
         "num_fixtures": "28"
       }
@@ -6872,7 +6572,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TILL",
+        "school_name": "Till",
         "score": "0.015384615384615385",
         "num_fixtures": "13"
       }
@@ -6887,7 +6587,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TILTON",
+        "school_name": "Tilton",
         "score": "0.023529411764705882",
         "num_fixtures": "17"
       }
@@ -6902,7 +6602,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TONTI",
+        "school_name": "Tonti",
         "score": "0.005128205128205128",
         "num_fixtures": "39"
       }
@@ -6917,7 +6617,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "TURNER-DREW",
+        "school_name": "Turner-Drew",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -6932,9 +6632,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "TWAIN",
+        "school_name": "Twain",
         "score": "0.008333333333333333",
         "num_fixtures": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.608501,
+          41.827726
+        ]
+      },
+      "properties": {
+        "school_name": "U Of C - Donoghue",
+        "score": "0.0",
+        "num_fixtures": "14"
       }
     },
     {
@@ -6947,7 +6662,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "U OF C - WOODLAWN HS",
+        "school_name": "U Of C - Woodlawn Hs",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -6962,7 +6677,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "UPLIFT HS",
+        "school_name": "Uplift Hs",
         "score": "0.0",
         "num_fixtures": "36"
       }
@@ -6977,24 +6692,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "VANDERPOEL",
+        "school_name": "Vanderpoel",
         "score": "0.0",
         "num_fixtures": "11"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.764663,
-          41.960364
-        ]
-      },
-      "properties": {
-        "SchoolName": "VAUGHN HS",
-        "score": "0.0",
-        "num_fixtures": "12"
       }
     },
     {
@@ -7007,9 +6707,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "VICK",
+        "school_name": "Vick",
         "score": "0.0",
         "num_fixtures": "6"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.761916,
+          41.885993
+        ]
+      },
+      "properties": {
+        "school_name": "Voise Hs",
+        "score": "",
+        "num_fixtures": ""
       }
     },
     {
@@ -7022,7 +6737,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "VOLTA",
+        "school_name": "Volta",
         "score": "0.0",
         "num_fixtures": "22"
       }
@@ -7037,7 +6752,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "VON LINNE",
+        "school_name": "Von Linne",
         "score": "0.0",
         "num_fixtures": "14"
       }
@@ -7052,7 +6767,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "VON STEUBEN HS",
+        "school_name": "Von Steuben Hs",
         "score": "0.0489795918367347",
         "num_fixtures": "35"
       }
@@ -7067,7 +6782,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WACKER",
+        "school_name": "Wacker",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -7082,7 +6797,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WADSWORTH",
+        "school_name": "Wadsworth",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -7097,7 +6812,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WALSH",
+        "school_name": "Walsh",
         "score": "0.0",
         "num_fixtures": "21"
       }
@@ -7112,7 +6827,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WARD J",
+        "school_name": "Ward J",
         "score": "0.0",
         "num_fixtures": "7"
       }
@@ -7127,7 +6842,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WARD L",
+        "school_name": "Ward L",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -7142,24 +6857,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "WARREN",
+        "school_name": "Warren",
         "score": "0.03333333333333333",
         "num_fixtures": "6"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.596257,
-          41.728534
-        ]
-      },
-      "properties": {
-        "SchoolName": "WASHINGTON H ES",
-        "score": "0.0",
-        "num_fixtures": "4"
       }
     },
     {
@@ -7172,9 +6872,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "WASHINGTON G",
+        "school_name": "Washington G",
         "score": "0.044444444444444446",
         "num_fixtures": "18"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.596257,
+          41.728534
+        ]
+      },
+      "properties": {
+        "school_name": "Washington H Es",
+        "score": "0.0",
+        "num_fixtures": "4"
       }
     },
     {
@@ -7187,7 +6902,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WASHINGTON HS",
+        "school_name": "Washington Hs",
         "score": "0.02666666666666667",
         "num_fixtures": "30"
       }
@@ -7202,7 +6917,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WATERS",
+        "school_name": "Waters",
         "score": "0.0",
         "num_fixtures": "16"
       }
@@ -7217,7 +6932,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WEBSTER",
+        "school_name": "Webster",
         "score": "0.0",
         "num_fixtures": "5"
       }
@@ -7232,7 +6947,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WELLS ES",
+        "school_name": "Wells Es",
         "score": "0.08333333333333333",
         "num_fixtures": "12"
       }
@@ -7247,7 +6962,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WELLS HS",
+        "school_name": "Wells Hs",
         "score": "0.02553191489361702",
         "num_fixtures": "47"
       }
@@ -7262,39 +6977,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "WENTWORTH",
+        "school_name": "Wentworth",
         "score": "0.175",
         "num_fixtures": "16"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.634751,
-          41.748868
-        ]
-      },
-      "properties": {
-        "SchoolName": "WESTCOTT",
-        "score": "0.0",
-        "num_fixtures": "6"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.707332,
-          41.889977
-        ]
-      },
-      "properties": {
-        "SchoolName": "WESTINGHOUSE HS",
-        "score": "0.006896551724137932",
-        "num_fixtures": "29"
       }
     },
     {
@@ -7307,7 +6992,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WEST PARK",
+        "school_name": "West Park",
         "score": "0.0071428571428571435",
         "num_fixtures": "28"
       }
@@ -7322,9 +7007,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "WEST RIDGE",
+        "school_name": "West Ridge",
         "score": "0.00625",
         "num_fixtures": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.634751,
+          41.748868
+        ]
+      },
+      "properties": {
+        "school_name": "Westcott",
+        "score": "0.0",
+        "num_fixtures": "6"
       }
     },
     {
@@ -7337,7 +7037,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WHISTLER",
+        "school_name": "Whistler",
         "score": "0.0",
         "num_fixtures": "13"
       }
@@ -7352,7 +7052,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WHITE",
+        "school_name": "White",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -7367,7 +7067,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WHITNEY",
+        "school_name": "Whitney",
         "score": "0.0",
         "num_fixtures": "24"
       }
@@ -7382,7 +7082,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WHITTIER",
+        "school_name": "Whittier",
         "score": "0.0",
         "num_fixtures": "11"
       }
@@ -7397,7 +7097,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WILDWOOD",
+        "school_name": "Wildwood",
         "score": "0.0",
         "num_fixtures": "18"
       }
@@ -7412,7 +7112,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WILLIAMS HS",
+        "school_name": "Williams Hs",
         "score": "0.004878048780487805",
         "num_fixtures": "41"
       }
@@ -7427,7 +7127,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "WOODLAWN",
+        "school_name": "Woodlawn",
         "score": "0.08888888888888889",
         "num_fixtures": "9"
       }
@@ -7442,24 +7142,9 @@
         ]
       },
       "properties": {
-        "SchoolName": "WOODSON",
+        "school_name": "Woodson",
         "score": "0.00808080808080808",
         "num_fixtures": "33"
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -87.735292,
-          41.834397
-        ]
-      },
-      "properties": {
-        "SchoolName": "WORLD LANGUAGE HS",
-        "score": "0.010810810810810811",
-        "num_fixtures": "37"
       }
     },
     {
@@ -7472,7 +7157,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "YATES",
+        "school_name": "Yates",
         "score": "0.0",
         "num_fixtures": "45"
       }
@@ -7487,9 +7172,24 @@
         ]
       },
       "properties": {
-        "SchoolName": "YOUNG ES",
+        "school_name": "Young Es",
         "score": "0.006060606060606061",
         "num_fixtures": "33"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.664233,
+          41.878603
+        ]
+      },
+      "properties": {
+        "school_name": "Young Hs",
+        "score": "0.030434782608695653",
+        "num_fixtures": "46"
       }
     },
     {
@@ -7502,7 +7202,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "YOUNG WOMENS HS",
+        "school_name": "Young Womens Hs",
         "score": "0.0",
         "num_fixtures": "9"
       }
@@ -7517,7 +7217,7 @@
         ]
       },
       "properties": {
-        "SchoolName": "ZAPATA",
+        "school_name": "Zapata",
         "score": "0.006277056277056278",
         "num_fixtures": "22"
       }
@@ -7527,14 +7227,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.576643,
-          41.729692
+          -87.767668,
+          41.890369
         ]
       },
       "properties": {
-        "SchoolName": "BLACK",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Douglass Hs",
+        "score": "0.02962962962962963",
+        "num_fixtures": "27"
       }
     },
     {
@@ -7542,14 +7242,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.625004,
-          41.805204
+          -87.55755,
+          41.734627
         ]
       },
       "properties": {
-        "SchoolName": "BRONZEVILLE HS",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Bowen Hs",
+        "score": "0.0",
+        "num_fixtures": "37"
       }
     },
     {
@@ -7557,14 +7257,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.621746,
-          41.77162
+          -87.659095,
+          41.863301
         ]
       },
       "properties": {
-        "SchoolName": "BROWNELL",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Chicago Tech Hs",
+        "score": "0.0",
+        "num_fixtures": "7"
       }
     },
     {
@@ -7572,14 +7272,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.714234,
-          41.904503
+          -87.586615,
+          41.782257
         ]
       },
       "properties": {
-        "SchoolName": "CASALS",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Hyde Park Hs",
+        "score": "0.0",
+        "num_fixtures": "51"
       }
     },
     {
@@ -7587,14 +7287,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.685607,
-          41.801659
+          -87.635117,
+          41.778369
         ]
       },
       "properties": {
-        "SchoolName": "CHRISTOPHER",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Noble - Johnson Hs",
+        "score": "0.0",
+        "num_fixtures": "17"
       }
     },
     {
@@ -7602,14 +7302,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.704619,
-          42.009289
+          -87.715423,
+          41.88621
         ]
       },
       "properties": {
-        "SchoolName": "DECATUR",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Raby Hs",
+        "score": "0.014285714285714287",
+        "num_fixtures": "28"
       }
     },
     {
@@ -7617,14 +7317,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.568228,
-          41.733338
+          -87.590421,
+          41.803772
         ]
       },
       "properties": {
-        "SchoolName": "HOYNE",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Kenwood Hs",
+        "score": "0.02222222222222222",
+        "num_fixtures": "63"
       }
     },
     {
@@ -7632,14 +7332,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.677763,
-          42.017088
+          -87.652045,
+          41.745961
         ]
       },
       "properties": {
-        "SchoolName": "JORDAN",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Perspectives - Leadership Hs",
+        "score": "0.05333333333333334",
+        "num_fixtures": "15"
       }
     },
     {
@@ -7647,14 +7347,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.709287,
-          41.861174
+          -87.667136,
+          41.989029
         ]
       },
       "properties": {
-        "SchoolName": "KIPP CHICAGO - ASCEND PRIMARY",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Senn Hs",
+        "score": "0.0",
+        "num_fixtures": "25"
       }
     },
     {
@@ -7662,14 +7362,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.749276,
-          41.873587
+          -87.70805,
+          41.878444
         ]
       },
       "properties": {
-        "SchoolName": "LELAND",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Marshall Hs",
+        "score": "0.0",
+        "num_fixtures": "49"
       }
     },
     {
@@ -7677,14 +7377,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.724783,
-          41.940026
+          -87.662278,
+          41.802881
         ]
       },
       "properties": {
-        "SchoolName": "LORCA",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Richards Hs",
+        "score": "0.0",
+        "num_fixtures": "18"
       }
     },
     {
@@ -7692,14 +7392,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.723931,
-          41.914816
+          -87.735999,
+          41.927918
         ]
       },
       "properties": {
-        "SchoolName": "MCAULIFFE",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Kelvyn Park Hs",
+        "score": "0.0",
+        "num_fixtures": "28"
       }
     },
     {
@@ -7707,14 +7407,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.724661,
-          41.878799
+          -87.616353,
+          41.692763
         ]
       },
       "properties": {
-        "SchoolName": "MELODY",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Brooks Hs",
+        "score": "0.0",
+        "num_fixtures": "33"
       }
     },
     {
@@ -7722,14 +7422,14 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.606419,
-          41.70263
+          -87.678195,
+          41.878809
         ]
       },
       "properties": {
-        "SchoolName": "POE",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Noble - Bulls Hs",
+        "score": "0.0",
+        "num_fixtures": "21"
       }
     },
     {
@@ -7737,14 +7437,314 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -87.761916,
-          41.885993
+          -87.619796,
+          41.82388
         ]
       },
       "properties": {
-        "SchoolName": "VOISE HS",
-        "score": "",
-        "num_fixtures": ""
+        "school_name": "Phillips Hs",
+        "score": "0.0",
+        "num_fixtures": "46"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.714819,
+          41.964828
+        ]
+      },
+      "properties": {
+        "school_name": "Roosevelt Hs",
+        "score": "0.015789473684210527",
+        "num_fixtures": "38"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.637572,
+          41.689951
+        ]
+      },
+      "properties": {
+        "school_name": "Fenger Hs",
+        "score": "0.013333333333333334",
+        "num_fixtures": "30"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.601727,
+          41.753748
+        ]
+      },
+      "properties": {
+        "school_name": "Hirsch Hs",
+        "score": "0.0",
+        "num_fixtures": "24"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.705064,
+          41.840957
+        ]
+      },
+      "properties": {
+        "school_name": "Madero",
+        "score": "0.05",
+        "num_fixtures": "20"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.764663,
+          41.960364
+        ]
+      },
+      "properties": {
+        "school_name": "Vaughn Hs",
+        "score": "0.0",
+        "num_fixtures": "12"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.669089,
+          41.775124
+        ]
+      },
+      "properties": {
+        "school_name": "Harper Hs",
+        "score": "0.041379310344827586",
+        "num_fixtures": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.721742,
+          41.916045
+        ]
+      },
+      "properties": {
+        "school_name": "Marine Leadership At Ames Hs",
+        "score": "0.0",
+        "num_fixtures": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.676111,
+          41.865817
+        ]
+      },
+      "properties": {
+        "school_name": "Noble - Uic Hs",
+        "score": "0.0",
+        "num_fixtures": "17"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.669192,
+          42.002688
+        ]
+      },
+      "properties": {
+        "school_name": "Sullivan Hs",
+        "score": "0.0",
+        "num_fixtures": "31"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.707332,
+          41.889977
+        ]
+      },
+      "properties": {
+        "school_name": "Westinghouse Hs",
+        "score": "0.006896551724137932",
+        "num_fixtures": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.68696,
+          41.879118
+        ]
+      },
+      "properties": {
+        "school_name": "Phoenix Military Hs",
+        "score": "0.0",
+        "num_fixtures": "36"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.735292,
+          41.834397
+        ]
+      },
+      "properties": {
+        "school_name": "World Language Hs",
+        "score": "0.010810810810810811",
+        "num_fixtures": "37"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677541,
+          41.808413
+        ]
+      },
+      "properties": {
+        "school_name": "Back Of The Yards Hs",
+        "score": "0.0",
+        "num_fixtures": "29"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.683301,
+          41.876947
+        ]
+      },
+      "properties": {
+        "school_name": "Crane Medical Hs",
+        "score": "0.0",
+        "num_fixtures": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.707345,
+          41.75375
+        ]
+      },
+      "properties": {
+        "school_name": "Goode Hs",
+        "score": "0.0",
+        "num_fixtures": "32"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.735238,
+          41.911674
+        ]
+      },
+      "properties": {
+        "school_name": "North-Grand Hs",
+        "score": "0.0",
+        "num_fixtures": "21"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.761048,
+          41.920059
+        ]
+      },
+      "properties": {
+        "school_name": "Prosser Hs",
+        "score": "0.0",
+        "num_fixtures": "34"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.71137,
+          41.793479
+        ]
+      },
+      "properties": {
+        "school_name": "Hernandez",
+        "score": "0.0",
+        "num_fixtures": "25"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.721825,
+          41.966406
+        ]
+      },
+      "properties": {
+        "school_name": "Aspira - Haugan",
+        "score": "0.0",
+        "num_fixtures": "22"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.619216,
+          41.830555
+        ]
+      },
+      "properties": {
+        "school_name": "Chicago Military Hs",
+        "score": "0.0",
+        "num_fixtures": "21"
       }
     }
   ],

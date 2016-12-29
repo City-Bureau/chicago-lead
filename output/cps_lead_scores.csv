@@ -1,33 +1,20 @@
 school_name,score,num_fixtures
-Collinshs,0.04032258064516129,31
-Juarezhs,0.0,33
-Tanner,0.1875,16
-Younghs,0.030434782608695653,46
-Falconer,0.0,29
-Sabin,0.0,15
-Powell,0.0,28
-Skinnernorth,0.0,16
-Garvy,0.0,16
-Cassell,0.0125,16
-Lasalle,0.1285714285714286,14
-Acetechhs,0.0,17
+Ace Tech Hs,0.0,17
 Addams,0.0058823529411764705,17
 Agassiz,0.0,8
-Airforcehs,0.0,18
+Air Force Hs,0.0,18
 Alcott,0.0,16
-Alcotths,0.0,11
+Alcott Hs,0.0,11
 Aldridge,0.0,17
-Amundsen,0.0,37
+Amundsen Hs,0.0,37
 Ariel,0.0,28
 Armour,0.0,26
-Armstrongg,0.0,23
+Armstrong,0.0,23
 Ashburn,0.0,12
 Ashe,0.0,13
-Aspirahaugan,0.0,22
 Audubon,0.06153846153846154,13
-Avalonpark,0.0,15
+Avalon Park,0.0,15
 Azuela,0.0,30
-Backoftheyardshs,0.0,29
 Barnard,0.0,9
 Barry,0.0,12
 Barton,0.0,6
@@ -40,24 +27,25 @@ Beethoven,0.0,34
 Beidler,0.06666666666666667,15
 Belding,0.0,19
 Bell,0.0,17
-Belmontcragin,0.0,22
+Belmont-Cragin,0.0,22
 Bennett,0.0,25
+Black,,
 Blaine,0.018181818181818184,22
 Blair,0.144,25
-Bogan,0.03333333333333333,30
+Bogan Hs,0.03333333333333333,30
 Bond,0.0,21
 Boone,0.0,22
 Bouchet,0.06153846153846154,26
-Bowenhs,0.0,37
 Bradwell,0.0,18
 Brennemann,0.12307692307692308,13
 Brentano,0.05454545454545456,11
 Bridge,0.0,16
 Bright,0.0,11
-Brightonpark,0.0,15
-Brookshs,0.0,33
-Brownr,0.0,14
-Brownw,0.0,16
+Brighton Park,0.0,15
+Bronzeville Hs,,
+Brown R,0.0,14
+Brown W,0.0,16
+Brownell,,
 Brunson,0.008,25
 Budlong,0.011111111111111112,18
 Burbank,0.045714285714285714,35
@@ -70,8 +58,8 @@ Burroughs,0.0,9
 Byrne,0.0,17
 Caldwell,0.05714285714285715,14
 Calmeca,0.0,31
-Camelotexcelenglewood,0.0,13
-Camelotexcelsouthshore,0.0,4
+Camelot - Excel Englewood Hs,0.0,13
+Camelot Excel Southshore,0.0,4
 Cameron,0.03636363636363637,22
 Camras,0.0,6
 Canty,0.0,5
@@ -80,72 +68,72 @@ Carnegie,0.018750000000000003,16
 Carroll,0.0,18
 Carson,0.013333333333333336,45
 Carter,0.0,10
-Carver,0.042105263157894736,19
-Carvermilitary,0.0,39
+Carver G,0.042105263157894736,19
+Carver Military Hs,0.0,39
+Casals,,
+Cassell,0.0125,16
 Castellanos,0.011764705882352941,17
 Cather,0.0,13
 Chalmers,0.009523809523809525,21
 Chappell,0.008695652173913044,23
 Chase,0.035897435897435895,39
 Chavez,0.0,18
-Chicagoacademyes,0.0,31
-Chicagoagriculture,0.0,36
-Chicagoartshs,0.0,24
-Chicagomilitaryhs,0.0,21
-Chicagotechhs,0.0,7
+Chicago Academy Es,0.0,31
+Chicago Agriculture Hs,0.0,36
+Chicago Arts Hs,0.0,24
+Chicago Vocational Hs,0.0761904761904762,42
 Chopin,0.0,7
-Cicschicagoquest,0.0,20
+Christopher,,
+Cics - Chicagoquest Hs,0.0,20
 Claremont,0.0064516129032258064,31
-Clark,0.0,10
-Clarkhs,0.043478260869565216,23
+Clark Es,0.0,10
+Clark Hs,0.043478260869565216,23
 Clay,0.0,15
-Clemente,0.07096774193548387,62
+Clemente Hs,0.07096774193548387,62
 Cleveland,0.0,17
 Clinton,0.0,24
 Clissold,0.0,10
 Colemon,0.0,7
 Coles,0.014285714285714287,14
-Columbiaexplorers,0.006666666666666667,30
+Collins Hs,0.04032258064516129,31
+Columbia Explorers,0.006666666666666667,30
 Columbus,0.022222222222222223,9
 Cook,0.0,18
 Coonley,0.0,7
 Cooper,0.0,24
 Corkery,0.0,19
-Corliss,0.0,22
+Corliss Hs,0.0,22
 Courtenay,0.05833333333333333,24
-Cranemedical,0.0,25
 Crown,0.0,5
 Cuffe,0.013793103448275864,29
 Cullen,0.0,4
-Curie,0.0,46
+Curie Hs,0.0,46
 Curtis,0.0,23
-Cvca,0.07272727272727274,44
 Darwin,0.02666666666666667,30
-Davis,0.0,26
-Davism,0.0,25
+Davis M,0.0,25
+Davis N,0.0,26
 Dawes,0.0,24
-Dediego,0.0,11
+De Diego,0.0,11
+Decatur,,
 Deneen,0.028571428571428574,14
-Depriest,0.0,28
+Depriest,0.0,26
 Dett,0.0,5
 Dever,0.0,17
 Dewey,0.0,17
 Dirksen,0.0,17
 Disney,0.011111111111111112,54
-Disneyii,0.016666666666666666,12
+Disney Ii,0.016666666666666666,12
 Dixon,0.0,17
 Dodge,0.03,20
-Donoghue,0.0,14
 Doolittle,0.0,22
 Dore,0.0,8
-Douglasshs,0.02962962962962963,27
 Drake,0.010526315789473684,19
 Drummond,0.028571428571428574,14
 Dubois,0.05,8
 Dulles,0.0,13
-Dunbar,0.011111111111111112,36
+Dunbar Hs,0.011111111111111112,36
 Dunne,0.0,10
-Durkinpark,0.06666666666666667,15
+Durkin Park,0.06666666666666667,15
 Dvorak,0.0,15
 Earhart,0.0,9
 Earle,0.0,14
@@ -153,44 +141,44 @@ Eberhart,0.0,33
 Ebinger,0.0,21
 Edgebrook,0.0,16
 Edison,0.015384615384615385,26
-Edisonpark,0.0,19
+Edison Park,0.0,19
 Edwards,0.0,20
-Ellington,0.0,34
-Epichs,0.0,10
+Ellington,0.0,32
+Epic Hs,0.0,10
 Ericson,0.0,5
 Esmond,0.018750000000000003,32
 Everett,0.10769230769230768,13
 Evergreen,0.0,18
 Evers,0.0,3
 Fairfield,0.15000000000000002,4
+Falconer,0.0,28
 Faraday,0.0,17
 Farnsworth,0.0,17
-Farragut,0.0,30
-Fengerhs,0.013333333333333334,30
+Farragut Hs,0.0,30
 Fernwood,0.06315789473684212,19
 Field,0.2076923076923077,13
 Finkl,0.0,25
 Fiske,0.0,22
-Foreman,0.005555555555555556,36
-Fortdearborn,0.010526315789473684,19
-Fosterpark,0.0,16
+Foreman Hs,0.005555555555555556,36
+Fort Dearborn,0.010526315789473684,19
+Foster Park,0.0,16
 Franklin,0.0,13
-Frazierprospective,0.06363636363636363,22
+Frazier Prospective,0.06363636363636363,22
 Fuller,0.0,21
 Fulton,0.0,11
 Funston,0.007692307692307693,26
-Gagepark,0.0,36
+Gage Park Hs,0.0,36
 Gale,0.0,29
 Galileo,0.06875,32
 Gallistel,0.008695652173913044,23
 Garvey,0.0,9
+Garvy,0.0,16
 Gary,0.0,11
 Gillespie,0.0,9
 Goethe,0.0,16
-Goodehs,0.0,32
 Goudy,0.017391304347826087,23
-Graham,0.0380952380952381,21
-Grahamhs,0.0,7
+Graham Es,0.0380952380952381,21
+Graham Hs,0.0,7
 Gray,0.0,23
 Greeley,0.010526315789473684,19
 Green,0.0,10
@@ -207,10 +195,9 @@ Hamilton,0.0,19
 Hamline,0.0125,32
 Hammond,0.0,14
 Hampton,0.012121212121212121,33
-Hancock,0.0,28
-Hansonpark,0.0,32
-Harlan,0.1021276595744681,47
-Harperhs,0.041379310344827586,29
+Hancock Hs,0.0,28
+Hanson Park,0.0,32
+Harlan Hs,0.1021276595744681,47
 Harte,0.02,10
 Harvard,0.018181818181818184,11
 Haugan,0.0,25
@@ -224,84 +211,84 @@ Hefferan,0.0,5
 Henderson,0.0,22
 Hendricks,0.0,9
 Henry,0.0,10
-Hernandez,0.0,25
 Herzl,0.0,30
 Hibbard,0.010714285714285714,16
 Higgins,0.0,10
-Hirschhs,0.0,24
 Hitch,0.0,12
 Holden,0.0,15
 Holmes,0.0,21
-Hope,0.0,25
-Hopeinstitute,0.004166666666666667,48
+Hope Hs,0.0,25
+Hope Institute,0.004166666666666667,48
 Howe,0.0,14
-Hubbard,0.0,40
-Hughesc,0.028571428571428574,14
-Hughesl,0.009523809523809525,21
+Hoyne,,
+Hubbard Hs,0.0,40
+Hughes C,0.028571428571428574,14
+Hughes L,0.009523809523809525,21
 Hurley,0.0,15
-Hydeparkhs,0.0,51
 Interamerican,0.0,20
 Irving,0.0,16
-Jackson,0.0,4
+Jackson M,0.0,4
 Jahn,0.0,15
 Jamieson,0.0,9
 Jenner,0.0,19
 Jensen,0.0,23
 Johnson,0.0,19
-Joneshs,0.0,48
+Jones Hs,0.0,48
 Joplin,0.0,10
-Julianhs,0.041379310344827586,29
+Jordan,,
+Juarez Hs,0.0,33
+Julian Hs,0.041379310344827586,29
 Jungman,0.0,5
 Kanoon,0.005128205128205128,13
 Keller,0.0,5
 Kellman,0.0,7
 Kellogg,0.025,8
-Kellyhs,0.0,34
-Kelvynparkhs,0.0,28
-Kennedy,0.0,60
-Kenwoodhs,0.02222222222222222,63
+Kelly Hs,0.0,34
+Kennedy Hs,0.0,58
 Kershaw,0.1285714285714286,14
 Kilmer,0.0,16
-King,0.0,18
-Kinghs,0.0,28
-Kinzie,0.0,60
+King Es,0.0,18
+King Hs,0.0,28
+Kinzie,0.0,58
 Kipling,0.0,12
+Kipp Chicago - Ascend Primary,,
 Kozminski,0.0,4
-LaSalle II,0.0071428571428571435,28
-Lakeviewhs,0.0058823529411764705,34
-Lanetech,0.0,69
+Lake View Hs,0.0058823529411764705,34
+Lane Tech Hs,0.0,69
 Langford,0.0,10
 Lara,0.0,23
+Lasalle,0.1285714285714286,14
+Lasalle Ii,0.0071428571428571435,28
 Lavizzo,0.0,13
 Lawndale,0.0,14
 Lee,0.0,16
+Leland,,
 Lenart,0.0,6
 Lewis,0.009090909090909092,22
 Libby,0.009523809523809525,21
 Lincoln,0.0,31
-Lincolnparkhs,0.0,47
-Lindblom,0.005128205128205128,39
-Littlevillage,0.016666666666666666,24
+Lincoln Park Hs,0.0,47
+Lindblom Hs,0.005128205128205128,39
+Little Village,0.016666666666666666,24
 Lloyd,0.0,23
-Lockej,0.005405405405405406,37
+Locke J,0.005405405405405406,37
 Logandale,0.0,20
+Lorca,,
 Lovett,0.03529411764705882,17
 Lowell,0.010526315789473684,19
 Lozano,0.03636363636363637,22
 Lyon,0.006060606060606061,33
-Madero,0.05,20
 Madison,0.0,13
 Manierre,0.007692307692307693,26
-Manley,0.0,30
+Manley Hs,0.0,30
 Mann,0.0,16
-Marineleadershipames,0.0,17
 Marquette,0.0,22
 Marsh,0.020000000000000004,30
-Marshallhs,0.0,49
 Mason,0.0,37
-Mather,0.0,32
+Mather Hs,0.0,32
 Mayer,0.0,18
 Mays,0.0,5
+Mcauliffe,,
 Mcclellan,0.0,12
 Mccormick,0.0,14
 Mccutcheon,0.0,16
@@ -310,85 +297,79 @@ Mcdowell,0.0,7
 Mckay,0.0,21
 Mcnair,0.030952380952380953,21
 Mcpherson,0.0,24
+Melody,,
 Metcalfe,0.0,11
 Mireles,0.0380952380952381,21
 Mitchell,0.05714285714285715,14
 Mollison,0.0,11
 Monroe,0.0,12
-Montessorienglewood,0.0,10
+Montessori Englewood,0.0,10
 Moos,0.0,28
 Morrill,0.0,12
-Mountgreenwood,0.0,24
-Mountvernon,0.0,15
+Mount Greenwood,0.0,24
+Mount Vernon,0.0,15
 Mozart,0.0,23
 Murphy,0.0,15
 Murray,0.0,13
 Nash,0.0,23
-Nationalteachers,0.0,50
+National Teachers,0.0,50
 Neil,0.0,5
 Nettelhorst,0.03076923076923077,26
+New Field,0.0,41
+New Sullivan,0.0,21
 Newberry,0.03157894736842106,19
-Newfield,0.0,41
-Newsulllivan,0.0,21
 Nicholson,0.0,4
 Nightingale,0.008695652173913044,23
-Ninosheroes,0.0,15
+Ninos Heroes,0.0,15
 Nixon,0.0,16
 Nobel,0.0,11
-Noblebulls,0.0,21
-Noblejohnson,0.0,18
-Nobleuic,0.0,17
-Northgrand,0.0,21
-Northlawndalechristiana,0.10476190476190475,21
-Northriver,0.0,8
-Northsidehs,0.05,16
-Northsideprep,0.0,22
-Norwoodpark,0.07692307692307693,13
+North Lawndale - Christiana Hs,0.10476190476190475,21
+North River,0.0,8
+Northside Learning Hs,0.05,16
+Northside Prep Hs,0.0,22
+Norwood Park,0.07692307692307693,13
 Ogden,0.0,9
-Ogdenhs,0.0,20
+Ogden Hs,0.0,20
 Oglesby,0.0,9
 Okeeffe,0.0,16
 Onahan,0.15454545454545457,22
-Oriolepark,0.0,27
+Oriole Park,0.0,27
 Orozco,0.0,18
-Orr,0.17857142857142855,35
-Ortizdedominguez,0.0,29
+Orr Hs,0.17857142857142855,35
+Ortiz De Dominguez,0.0,29
 Otis,0.0,14
 Otoole,0.0,19
 Owen,0.0,10
 Owens,0.0125,16
 Palmer,0.0,15
+Park Manor,0.0,13
 Parker,0.0,11
-Parkmanor,0.0,13
 Parkside,0.010526315789473684,19
 Pasteur,0.0,19
-Payton,0.0,22
-Peaceandeducation,0.02,10
+Payton Hs,0.0,22
+Peace And Education Hs,0.02,10
 Peck,0.0,19
 Peirce,0.010526315789473684,19
 Penn,0.02,20
 Perez,0.08333333333333333,12
 Pershing,0.0,21
-Perspectiveleadership,0.05333333333333334,15
-Perspectivesmathsci,0.0,15
+Perspectives - Math & Sci Hs,0.0,15
 Peterson,0.0,20
-Phillipshs,0.0,46
-Phoenixmilitary,0.0,36
 Piccolo,0.0,31
 Pickard,0.016,25
 Pilsen,0.002403846153846154,26
 Pirie,0.08333333333333333,12
 Plamondon,0.0,7
-Portagepark,0.008,25
+Poe,,
+Portage Park,0.008,25
+Powell,0.0,28
 Prescott,0.0,10
 Prieto,0.0,33
 Pritzker,0.0,5
-Prosserhs,0.0,34
-Providenceenglewood,0.0,16
+Providence Englewood,0.0,16
 Prussing,0.013333333333333334,15
 Pulaski,0.013793103448275864,29
 Pullman,0.09999999999999999,12
-Rabyhs,0.014285714285714287,28
 Randolph,0.0,14
 Ravenswood,0.0,5
 Ray,0.0,13
@@ -396,16 +377,15 @@ Reavis,0.01,20
 Reilly,0.25999999999999995,10
 Reinberg,0.0,21
 Revere,0.0,20
-Richardshs,0.0,18
-Robeson,0.14666666666666667,15
+Robeson Hs,0.14666666666666667,15
 Robinson,0.010256410256410256,13
 Rogers,0.0,16
-Roosevelths,0.015789473684210527,38
 Rowe,0.02666666666666667,15
 Rudolph,0.0,16
 Ruggles,0.0,15
 Ruiz,0.0,22
 Ryder,0.0,16
+Sabin,0.0,15
 Salazar,0.25,4
 Sandoval,0.008333333333333333,24
 Saucedo,0.0,12
@@ -415,103 +395,123 @@ Sayre,0.025,16
 Scammon,0.0,16
 Schmid,0.025,8
 Schubert,0.0,19
-Schurz,0.020833333333333332,48
-Senn,0.0,25
+Schurz Hs,0.020833333333333332,48
 Seward,0.0,22
 Sheridan,0.0,11
 Sherman,0.08333333333333333,12
 Sherwood,0.0,12
-Shieldsj,0.0,30
+Shields,0.0,30
 Shoesmith,0.0,13
 Shoop,0.0,15
-Simpson,0.1142857142857143,7
-Skinner,0.0,23
+Simpson Hs,0.1142857142857143,7
+Skinner (West),0.0,23
+Skinner North,0.0,16
 Smith,0.009523809523809523,14
 Smyser,0.05384615384615385,26
 Smyth,0.04285714285714286,14
 Solomon,0.018181818181818184,11
-Southloop,0.0,16
-Southshore,0.0,5
+South Loop,0.0,16
+South Shore Es,0.0,5
 Spencer,0.03214285714285715,28
-Spry,0.0,14
+Spry Es,0.0,14
 Stagg,0.0,6
-Steinmetz,0.0,45
-Stemmagnet,0.0,16
+Steinmetz Hs,0.0,45
+Stem,0.0,16
 Stevenson,0.0,37
 Stock,0.015384615384615385,13
 Stone,0.018181818181818184,22
 Stowe,0.017391304347826087,23
 Suder,0.0,20
-Sullivanhs,0.0,31
 Sumner,0.0,9
 Sutherland,0.0,16
 Swift,0.0,27
-Taft,0.0,51
+Taft Hs,0.0,51
 Talcott,0.010526315789473684,19
 Talman,0.0,9
+Tanner,0.1875,16
 Tarkington,0.005714285714285714,35
 Taylor,0.0,11
-Teamhs,0.004761904761904762,42
+Team Hs,0.004761904761904762,42
 Thomas,0.0,5
-Thorpj,0.0,18
-Thorpo,0.0,15
-Tildenhs,0.0071428571428571435,28
+Thorp J,0.0,18
+Thorp O,0.0,15
+Tilden Hs,0.0071428571428571435,28
 Till,0.015384615384615385,13
 Tilton,0.023529411764705882,17
 Tonti,0.005128205128205128,39
-Turnerdrew,0.0,11
+Turner-Drew,0.0,11
 Twain,0.008333333333333333,24
-Uofcwoodlawn,0.0,18
-Uplifths,0.0,36
+U Of C - Donoghue,0.0,14
+U Of C - Woodlawn Hs,0.0,18
+Uplift Hs,0.0,36
 Vanderpoel,0.0,11
-Vaughnhs,0.0,12
 Vick,0.0,6
+Voise Hs,,
 Volta,0.0,22
-Vonlinne,0.0,14
-Vonsteuben,0.0489795918367347,35
+Von Linne,0.0,14
+Von Steuben Hs,0.0489795918367347,35
 Wacker,0.0,11
 Wadsworth,0.0,18
 Walsh,0.0,21
-Wardj,0.0,7
-Wardl,0.0,16
+Ward J,0.0,7
+Ward L,0.0,16
 Warren,0.03333333333333333,6
-Washington,0.0,4
-Washingtong,0.044444444444444446,18
-Washingtonghs,0.02666666666666667,30
+Washington G,0.044444444444444446,18
+Washington H Es,0.0,4
+Washington Hs,0.02666666666666667,30
 Waters,0.0,16
 Webster,0.0,5
-Wells,0.08333333333333333,12
-Wellshs,0.02553191489361702,47
+Wells Es,0.08333333333333333,12
+Wells Hs,0.02553191489361702,47
 Wentworth,0.175,16
+West Park,0.0071428571428571435,28
+West Ridge,0.00625,32
 Westcott,0.0,6
-Westinghousehs,0.006896551724137932,29
-Westpark,0.0071428571428571435,28
-Westridge,0.00625,32
 Whistler,0.0,13
 White,0.0,11
 Whitney,0.0,24
 Whittier,0.0,11
 Wildwood,0.0,18
-Williams,0.004878048780487805,41
+Williams Hs,0.004878048780487805,41
 Woodlawn,0.08888888888888889,9
 Woodson,0.00808080808080808,33
-Worldlanguagehs,0.010810810810810811,37
 Yates,0.0,45
-Young,0.006060606060606061,33
-Youngwomenshs,0.0,9
+Young Es,0.006060606060606061,33
+Young Hs,0.030434782608695653,46
+Young Womens Hs,0.0,9
 Zapata,0.006277056277056278,22
-BLACK,,
-BRONZEVILLE HS,,
-BROWNELL,,
-CASALS,,
-CHRISTOPHER,,
-DECATUR,,
-HOYNE,,
-JORDAN,,
-KIPP CHICAGO - ASCEND PRIMARY,,
-LELAND,,
-LORCA,,
-MCAULIFFE,,
-MELODY,,
-POE,,
-VOISE HS,,
+Douglass Hs,0.02962962962962963,27
+Bowen Hs,0.0,37
+Chicago Tech Hs,0.0,7
+Hyde Park Hs,0.0,51
+Noble - Johnson Hs,0.0,17
+Raby Hs,0.014285714285714287,28
+Kenwood Hs,0.02222222222222222,63
+Perspectives - Leadership Hs,0.05333333333333334,15
+Senn Hs,0.0,25
+Marshall Hs,0.0,49
+Richards Hs,0.0,18
+Kelvyn Park Hs,0.0,28
+Brooks Hs,0.0,33
+Noble - Bulls Hs,0.0,21
+Phillips Hs,0.0,46
+Roosevelt Hs,0.015789473684210527,38
+Fenger Hs,0.013333333333333334,30
+Hirsch Hs,0.0,24
+Madero,0.05,20
+Vaughn Hs,0.0,12
+Harper Hs,0.041379310344827586,29
+Marine Leadership At Ames Hs,0.0,17
+Noble - Uic Hs,0.0,17
+Sullivan Hs,0.0,31
+Westinghouse Hs,0.006896551724137932,29
+Phoenix Military Hs,0.0,36
+World Language Hs,0.010810810810810811,37
+Back Of The Yards Hs,0.0,29
+Crane Medical Hs,0.0,25
+Goode Hs,0.0,32
+North-Grand Hs,0.0,21
+Prosser Hs,0.0,34
+Hernandez,0.0,25
+Aspira - Haugan,0.0,22
+Chicago Military Hs,0.0,21
