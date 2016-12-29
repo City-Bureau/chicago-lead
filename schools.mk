@@ -14,15 +14,15 @@ fusion.clean.csv : raw/cps_lead_fusion_table.csv
 	perl -p -e 's|Individualschool_Falconer_609910|Individualschool_Falconer_609910.pdf|;\
 	s|4,LEAD FOUND,IndividualSchool_Williams_610380.pdf|4,LEAD FOUND,None|' $< > $@
  
-cps_lead_scores.csv : hand_scrape.clean.csv tabula.clean.csv fusion.clean.csv
+output/cps_lead_scores.csv : hand_scrape.clean.csv tabula.clean.csv fusion.clean.csv
 	csvstack $< $(word 2,$^) | csvsql --query "select distinct SchoolName, sample, location, date, result, s.filename \
 	from '$(basename $(word 3,$^))' as f left join stdin as s on (f.Filename=s.filename)" --no-inference $(word 3,$^) | \
-	python scripts/cps_score.py > output/$@
+	python scripts/cps_score.py > $@
 
-cps_lead.geojson : output/cps_lead_scores.csv fusion.clean.csv
+output/cps_lead.geojson : output/cps_lead_scores.csv fusion.clean.csv
 	csvsql --query "select s.school_name, s.score, s.num_fixtures, f.lat, f.long from $(notdir $(basename $<)) as s \
 	join '$(basename $(word 2,$^))' as f on (upper(s.school_name)=f.SchoolName)" --no-inference $< $(word 2,$^) | \
-	csvjson --lat Lat --lon Long --crs urn:ogc:def:crs:OGC:1.3:CRS84 --indent 2  > output/$@
+	csvjson --lat Lat --lon Long --crs urn:ogc:def:crs:OGC:1.3:CRS84 --indent 2  > $@
 
 .PHONY : clean_schools
 clean_schools :
