@@ -1,0 +1,4165 @@
+ProjectNum,On Street,From Street,To Street,Est Start Date,GeoJSON,Tracer Name,Tracer Email
+1601108,N HOMAN AVE,W POTOMAC AVE,W GRAND AVE,2/3/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71162509918213,
+            41.90044039283634
+          ],
+          [
+            -87.71177530288695,
+            41.90459273939202
+          ]
+        ]
+      }
+    }
+  ]
+}",Forest,fgregg@datamade.us
+1601109,S MORGAN ST,W 99TH ST,W 103RD ST,2/15/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64665126800537,
+            41.71418635520256
+          ],
+          [
+            -87.64652252197266,
+            41.70683386435006
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601109,W 99TH ST,S MORGAN ST,S SANGAMON ST,2/15/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64789581298828,
+            41.714154320029515
+          ],
+          [
+            -87.64667272567748,
+            41.71420237278307
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601087,W 108TH PL,WESTERN AVE,HOYNE AVE,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6813268661499,
+            41.696612665455845
+          ],
+          [
+            -87.67411708831787,
+            41.69674084101755
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601087,S BELL AVE,W 108TH PL,W 111TH ST,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67767906188965,
+            41.69664470937022
+          ],
+          [
+            -87.67752885818481,
+            41.69180589749341
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601094,N MAPLEWOOD AVE,W BIRCHWOOD AVE,W FARGO AVE,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6937347650528,
+            42.017640230924975
+          ],
+          [
+            -87.69372403621674,
+            42.01672357445792
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601094,N CAMPBELL AVE,W BIRCHWOOD AVE,W FARGO AVE,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6937347650528,
+            42.017640230924975
+          ],
+          [
+            -87.69372403621674,
+            42.01672357445792
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601094,N ARTESIAN AVE,W BIRCHWOOD AVE,W FARGO AVE,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69139051437377,
+            42.01769204154819
+          ],
+          [
+            -87.69139051437377,
+            42.01677937131617
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601094,W FARGO AVE,N ROCKWELL ST,N WESTERN AVE,2/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6949417591095,
+            42.016727559949416
+          ],
+          [
+            -87.69021034240723,
+            42.01684313909422
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1501030,S TRIPP AVE,W 26TH ST,W 31ST ST,3/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.7306580543518,
+            41.844197435648304
+          ],
+          [
+            -87.73044347763062,
+            41.83682786072714
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1501030,W 28TH ST,S KILDARE AVE,S KEELER AVE,3/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.731773853302,
+            41.84052074730943
+          ],
+          [
+            -87.72928476333618,
+            41.84052074730943
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1501030,W 27TH ST,S TRIPP AVE,S KEELER AVE,3/21/2016," {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73061513900757,
+            41.84232714667589
+          ],
+          [
+            -87.72937059402466,
+            41.84237510348629
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601096,W FARWELL AVE,N BELL AVE,N RIDGE BLVD,3/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68595099449158,
+            42.006336535187764
+          ],
+          [
+            -87.68066167831421,
+            42.00646409161992
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601096,N HAMILTON AVE,W MORSE AVE,W FARWELL AVE,3/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68386960029602,
+            42.00730117435973
+          ],
+          [
+            -87.68388032913208,
+            42.00637639660026
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601096,N SEELEY AVE,W LUNT AVE,W MORSE AVE,3/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68263846635818,
+            42.008931461032525
+          ],
+          [
+            -87.6819384098053,
+            42.007317118686
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601096,N OAKLEY AVE,220' SOUTH OF W LUNT AVE,W MORSE AVE,3/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6880994439125,
+            42.00862254683951
+          ],
+          [
+            -87.68806457519531,
+            42.00719355005307
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601107,W WASHINGTON BLVD,N WALLER AVE,N PARKSIDE AVE,3/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76819825172423,
+            41.8821908235642
+          ],
+          [
+            -87.76656746864319,
+            41.88223076266814
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601107,N PARKSIDE AVE,W WEST END AVE,N PARKSIDE AVE,3/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76665329933167,
+            41.884203723324205
+          ],
+          [
+            -87.76634216308594,
+            41.87777340460667
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601115,S KENWOOD AVE,E 75TH ST,E 76TH ST,4/4/2016,"{
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59208440780638,
+            41.75869980925755
+          ],
+          [
+            -87.59199857711792,
+            41.756923064848245
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601115,E 76TH ST,320' EAST OF S GREENWOOD AVE,S STONY ISLAND AVE,4/4/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59732007980347,
+            41.756843030158514
+          ],
+          [
+            -87.58599042892456,
+            41.756987092528156
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601125,N BROADWAY,W THORNDALE AVE,W FOSTER AVE,4/4/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65986919403076,
+            41.97633772983207
+          ],
+          [
+            -87.66034126281738,
+            41.99005504640042
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601090,W 49TH ST,S HALSTED ST,S WALLACE ST,4/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6454496383667,
+            41.80519779579733
+          ],
+          [
+            -87.64055728912354,
+            41.80545371339868
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+600058,S TALMAN AVE,W 57TH ST,W 59TH ST,4/26/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69003868103027,
+            41.79014484395154
+          ],
+          [
+            -87.68999576568604,
+            41.78646505128152
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601117,S DR MARTIN LUTHER KING JR DR,E 53RD ST,E GARFIELD BLVD,5/4/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61610627174377,
+            41.798471594880034
+          ],
+          [
+            -87.61597752571106,
+            41.794488327385416
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1501312,W CORTLAND ST,N CALIFORNIA AVE,N WESTERN AVE,5/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69720554351807,
+            41.91569095547961
+          ],
+          [
+            -87.68744230270384,
+            41.915786759016186
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601095,N CAMPBELL AVE,W ALBION AVE,W DEVON AVE,5/6/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6924204826355,
+            42.001345689029755
+          ],
+          [
+            -87.69235610961914,
+            41.997630204319115
+          ]
+        ]
+      }
+    }
+  ]
+}
+",,
+1601118,N ROCKWELL ST,N AVONDALE AVE,W LOGAN BLVD (NORTH),5/6/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69273161888123,
+            41.92973262271604
+          ],
+          [
+            -87.69265651702881,
+            41.92849541973741
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,W LOGAN BLVD (SOUTH),N ALBANY AVE,N CAMPBELL AVE,5/6/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69021034240723,
+            41.92851936582922
+          ],
+          [
+            -87.70487666130066,
+            41.928415599366424
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,W LOGAN BLVD (NORTH),N ALBANY AVE,N FRANCISCO AVE,5/6/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.7048873901367,
+            41.928415599366424
+          ],
+          [
+            -87.6999843120575,
+            41.9284395454882
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,W LOGAN BLVD (NORTH),N CALIFORNIA AVE,N CAMPBELL AVE,5/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69023180007935,
+            41.928503401769014
+          ],
+          [
+            -87.69752740859985,
+            41.92849541973741
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,N MAPLEWOOD AVE,N AVONDALE AVE,W LOGAN BLVD (NORTH),5/6/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69143342971802,
+            41.9285014062612
+          ],
+          [
+            -87.69144684076309,
+            41.9290721189501
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,N CAMPBELL AVE,W LOGAN BLVD (NORTH),W LOGAN BLVD (SOUTH),5/6/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69022107124329,
+            41.928511383799595
+          ],
+          [
+            -87.69021034240723,
+            41.928247976262305
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,N TALMAN AVE,W LOGAN BLVD (NORTH),W LOGAN BLVD (SOUTH),5/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6938796043396,
+            41.92822802110151
+          ],
+          [
+            -87.69387423992157,
+            41.928738871252
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,N ROCKWELL ST,W LOGAN BLVD (NORTH),W LOGAN BLVD (SOUTH),5/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69264578819275,
+            41.92823999419875
+          ],
+          [
+            -87.69265651702881,
+            41.928750844253365
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601118,N MAPLEWOOD AVE,W LOGAN BLVD (NORTH),W LOGAN BLVD (SOUTH),5/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6914656162262,
+            41.92823201213417
+          ],
+          [
+            -87.69145488739014,
+            41.92875882625301
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601176,W OLIVE AVE,N CLARK ST,N GLENWOOD AVE,5/6/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66901016235352,
+            41.98447277418717
+          ],
+          [
+            -87.66499757766724,
+            41.984536574349
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1201068,S ARTESIAN AVE,W 42ND ST,W 43RD ST,5/31/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68595099449158,
+            41.81732476718488
+          ],
+          [
+            -87.6859188079834,
+            41.81568158308477
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1201068,S CAMPBELL AVE,W 42ND ST,W 43RD ST,5/31/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68715262413025,
+            41.81747269166553
+          ],
+          [
+            -87.68713116645813,
+            41.81566559081826
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601101,S KENWOOD AVE,E 78TH ST,E 83RD ST,6/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.5918698310852,
+            41.75324136582065
+          ],
+          [
+            -87.59169816970825,
+            41.74418028541609
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601101,S KIMBARK AVE,S ANTHONY AVE,E 79TH ST,6/1/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59259939193726,
+            41.754329890131274
+          ],
+          [
+            -87.59308218955994,
+            41.75395371102316
+          ],
+          [
+            -87.59306073188782,
+            41.751376424648015
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601101,E 78TH ST,S KIMBARK AVE,S KENWOOD AVE,6/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59307146072386,
+            41.75327338150503
+          ],
+          [
+            -87.59189128875732,
+            41.75324136582065
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601101,S DANTE AVE,E 78TH ST,S ANTHONY AVE,6/1/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59188055992126,
+            41.753217354046875
+          ],
+          [
+            -87.59142994880676,
+            41.753505494739294
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601106,S ABERDEEN ST,W 73RD ST,W 76TH ST,6/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65160799026488,
+            41.76146887138723
+          ],
+          [
+            -87.65147924423218,
+            41.75597864914978
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601106,S MAY ST,W 73RD ST,W 74TH ST,6/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65280961990356,
+            41.76146887138723
+          ],
+          [
+            -87.65276670455933,
+            41.75961217240651
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601100,S KARLOV AVE,W 32ND ST,W 33RD ST,6/6/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72675275802612,
+            41.835053280983125
+          ],
+          [
+            -87.72675275802612,
+            41.833262664163016
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+601316,S WINCHESTER AVE,W 59TH ST,W 61ST ST,6/7/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67293691635132,
+            41.786657045686894
+          ],
+          [
+            -87.6728081703186,
+            41.782993053245384
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601112,W KOSTNER AVE,W CRYSTAL ST,W AUGUSTA BLVD,6/10/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73619413375854,
+            41.903410945170634
+          ],
+          [
+            -87.73606538772583,
+            41.898843264567006
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601112,W KOSTNER AVE,W HIRSCH ST,W POTOMAC AVE,6/10/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73624777793884,
+            41.90614979973239
+          ],
+          [
+            -87.73621559143066,
+            41.90432124806034
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601166,N PAULINA ST,W DEVON AVE,W THOME AVE,6/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67199277877806,
+            41.998028871866495
+          ],
+          [
+            -87.67191767692566,
+            41.995565066448435
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601166,W THOME AVE,N PAULINA ST,N CLARK ST,6/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6719069480896,
+            41.99561290823844
+          ],
+          [
+            -87.6700508594513,
+            41.99565277636929
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601110,W JACKSON BLVD,S CENTRAL AVE,S LARAMIE AVE,6/16/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76473283767699,
+            41.87652720588145
+          ],
+          [
+            -87.75490522384644,
+            41.87667099928225
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601111,S DR MARTIN LUTHER KING JR DR,E 63RD ST,E MARQUETTE RD,6/20/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61558055877686,
+            41.78024092122948
+          ],
+          [
+            -87.61555910110474,
+            41.77472030035482
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601111,E 65TH ST,S DR MARTIN LUTHER KING JR DR,S VERNON AVE,6/20/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61558055877686,
+            41.77664057021167
+          ],
+          [
+            -87.61435747146606,
+            41.776624568200425
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601123,W IRVING PARK RD,N CENTRAL AVE,N CICERO AVE,6/20/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76698589324951,
+            41.95317108865344
+          ],
+          [
+            -87.74733066558838,
+            41.953426414345635
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601131,S OGLESBY AVE,E 77TH ST,E 79TH ST,6/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.56751537322998,
+            41.7553223520904
+          ],
+          [
+            -87.56747245788574,
+            41.751656569484126
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601131,E 78TH ST,S OGLESBY AVE,S YATES BLVD,6/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.5674831867218,
+            41.75352150251759
+          ],
+          [
+            -87.56622791290283,
+            41.75355351806226
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601121,W 103RD ST,S WESTERN AVE,S  SEELEY AVE,6/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68162727355957,
+            41.706369299646816
+          ],
+          [
+            -87.67203569412231,
+            41.70656153372427
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601052,S DAMEN AVE,S BLUE ISLAND AVE,2125' SOUTH OF S BLUE ISLAND AVE,7/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6656574010849,
+            41.85333229221915
+          ],
+          [
+            -87.66603291034698,
+            41.853308317924984
+          ],
+          [
+            -87.66603827476501,
+            41.85230138945567
+          ],
+          [
+            -87.67579078674316,
+            41.848577214696846
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601186,S BURLEY AVE,E 92ND ST,E 93RD ST,7/7/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.54560708999634,
+            41.72832031739653
+          ],
+          [
+            -87.54558563232422,
+            41.72647867412209
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601139,N WAYNE AVE,W EARLY AVE,N RIDGE AVE,7/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66323268413544,
+            41.98676555236687
+          ],
+          [
+            -87.66321659088135,
+            41.98571287837659
+          ],
+          [
+            -87.66330778598785,
+            41.98560920499665
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601139,N RIDGE AVE,N CLARK ST,W BRYN MAWR AVE,7/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66881704330444,
+            41.983483863503515
+          ],
+          [
+            -87.66019105911255,
+            41.98369121701629
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601139,N WAYNE AVE,N RIDGE AVE,W BRYN MAWR AVE,7/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66364574432373,
+            41.985796614444844
+          ],
+          [
+            -87.66358137130737,
+            41.983563614934496
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601139,W HOLLYWOOD AVE,N GLENWOOD AVE,N WAYNE AVE,7/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66361087560654,
+            41.985527462404946
+          ],
+          [
+            -87.66501098871231,
+            41.98550951889517
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601139,N GREENVIEW AVE,W THORNDALE AVE,N RIDGE AVE,7/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66755640506744,
+            41.989955367260464
+          ],
+          [
+            -87.6698899269104,
+            41.98992745707329
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601128,N ARMOUR ST,W OHIO ST,W KINZIE ST,7/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66555547714233,
+            41.892454352041554
+          ],
+          [
+            -87.6654589176178,
+            41.88883634691523
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601128,W OHIO ST,N ARMOUR ST,25' EAST  OF N ARMOUR ST,7/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66555547714233,
+            41.89246233858115
+          ],
+          [
+            -87.66582369804382,
+            41.89246233858115
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601183,S ASHLAND AVE,W HARRISON ST,W HARRISON ST,7/15/2016,,,
+1601183,W HARRISON ST,S MORGAN ST,500' WEST OF S HALSTED ST,7/15/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6518440246582,
+            41.87437026604634
+          ],
+          [
+            -87.64703750610352,
+            41.874386243646065
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401298,N DAVLIN CT,W WELLINGTON AVE,N MILWAUKEE AVE,7/26/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72629141807556,
+            41.935471334336285
+          ],
+          [
+            -87.7229118347168,
+            41.938512083498395
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401298,N SPRINGFIELD AVE,W BELMONT AVE,N HARDING AVE,7/26/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72595882415771,
+            41.93911861979233
+          ],
+          [
+            -87.72393643856049,
+            41.939150542595385
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401298,W BARRY AVE,150' WEST OF N HARDING AVE,N DAVLIN CT,7/26/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72593200206757,
+            41.937291012672745
+          ],
+          [
+            -87.72493958473206,
+            41.93668445899613
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401298,N HARDING AVE,W BELMONT AVE,W BARRY AVE,7/26/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72595345973969,
+            41.939094677679556
+          ],
+          [
+            -87.72591054439545,
+            41.937295003138374
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601181,E 56TH ST,S WABASH AVE,S INDIANA AVE,8/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62401342391968,
+            41.79108875672614
+          ],
+          [
+            -87.62073040008545,
+            41.79113675191962
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601181,S WABASH AVE,E GARFIELD BLVD,E 59TH ST,8/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62573003768921,
+            41.79464030398088
+          ],
+          [
+            -87.62551546096802,
+            41.78731302223369
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601181,E 57TH ST,S STATE ST,S WABASH AVE,8/1/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6256227493286,
+            41.79102476307896
+          ],
+          [
+            -87.62401342391968,
+            41.79110475512796
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601164,S SANGAMON ST,W 59TH ST,W 61ST ST,8/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6485824584961,
+            41.78696103565281
+          ],
+          [
+            -87.6485288143158,
+            41.78333706144204
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601164,W 61ST ST,S RACINE AVE,S SANGAMON ST,8/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65460133552551,
+            41.78325705970054
+          ],
+          [
+            -87.64850735664368,
+            41.78336106194502
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401165,N GREENVIEW AVE,W ROSCOE ST,W BELMONT AVE,8/9/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66633868217468,
+            41.943372192489775
+          ],
+          [
+            -87.66622066497803,
+            41.939709189061645
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1401165,W ROSCOE ST,N ASHLAND AVE,N SOUTHPORT AVE,8/9/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66884922981262,
+            41.943364212318876
+          ],
+          [
+            -87.66390323638916,
+            41.94343603382104
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601153,S OAKLEY AVE,W 63RD ST,W MARQUETTE RD,8/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68106937408447,
+            41.77921684195455
+          ],
+          [
+            -87.68087625503539,
+            41.77199981964043
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601153,W 64TH ST,S OAKLEY AVE,S BELL AVE,8/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6810210943222,
+            41.77742466387183
+          ],
+          [
+            -87.67980873584746,
+            41.777456667491066
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601182,S ASHLAND AVE,W 121ST ST,W 123RD ST,8/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66129612922667,
+            41.67390553950492
+          ],
+          [
+            -87.66117811203003,
+            41.670307238994866
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601150,S HARDING AVE,W 16TH ST,W 19TH ST,8/17/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72361993789671,
+            41.85501846169991
+          ],
+          [
+            -87.72373795509338,
+            41.8589180577883
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601150,W 18TH STREET,S PULASKI RD,S HARDING AVE,8/17/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72492885589598,
+            41.85703221723925
+          ],
+          [
+            -87.72367358207703,
+            41.857068176583354
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601054,S WALLACE ST,W 81ST ST,W 83RD ST,8/23/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63908743858337,
+            41.74703802569508
+          ],
+          [
+            -87.63904452323914,
+            41.74344381632755
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601007,E 56TH ST,S INDIANA AVE,S DR MARTIN LUTHER KING DR,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62080550193787,
+            41.79294454470473
+          ],
+          [
+            -87.61592388153076,
+            41.79300853643536
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601007,E 55TH PL,S INDIANA AVE,S DR MARTIN LUTHER KING JR DR,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62084841728209,
+            41.79384042311992
+          ],
+          [
+            -87.61594533920288,
+            41.793928410503256
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601007,S INDIANA AVE,E GARFIELD AVE,E 59TH ST,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62248992919922,
+            41.79435234802088
+          ],
+          [
+            -87.62227535247803,
+            41.78742501755872
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601007,S PRAIRIE AVE,E GARFIELD BLVD,E 56TH ST,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61921763420104,
+            41.79439234198159
+          ],
+          [
+            -87.61920690536499,
+            41.792952543674566
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601145,S UNION AVE,W 65TH ST,W MARQUETTE RD,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64270305633545,
+            41.776120502802414
+          ],
+          [
+            -87.64261722564697,
+            41.77252792198076
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601145,S EMERALD AVE,W 65TH ST,W 66TH ST,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64364719390869,
+            41.77428823171372
+          ],
+          [
+            -87.64370083808899,
+            41.77577645589093
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601145,W 66TH PL,S HALSTED ST,S UNION AVE,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64464497566223,
+            41.77431223560348
+          ],
+          [
+            -87.64267086982727,
+            41.77435224206642
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601145,S UNION AVE,175' NORTH OF W 65TH ST,W 65TH ST,8/29/2016,,,
+1601145,W 65TH ST,S UNION AVE,S LOWE AVE,8/29/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64271378517151,
+            41.77613650493945
+          ],
+          [
+            -87.64078259468079,
+            41.77618451132653
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601148,W CONGRESS PKWY,S LOCKWOOD AVE,S LARAMIE AVE,9/2/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.75746941566467,
+            41.873914902775304
+          ],
+          [
+            -87.75481939315796,
+            41.873954847051714
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601148,W CONGRESS PKWY,S LOTUS AVE,S LOCKWOOD AVE,9/2/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76158928871153,
+            41.873858980746405
+          ],
+          [
+            -87.75745868682861,
+            41.8739228916326
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601146,S KILDARE AVE,W 28TH ST,W 31ST ST,9/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73173093795776,
+            41.84047278910923
+          ],
+          [
+            -87.73164510726929,
+            41.83682786072714
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601146,W 31ST ST,S KOSTNER AVE,S KEELER AVE,9/13/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73411273956299,
+            41.836779899759385
+          ],
+          [
+            -87.72919893264769,
+            41.83684384770841
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601171,W BERENICE AVE,W DAMEN AVE,N RAVENSWOOD AVE,9/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67868757247925,
+            41.95142367599524
+          ],
+          [
+            -87.67413854598999,
+            41.95149548841824
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601171,W GRACE ST,LINCOLN AVE,RAVENSWOOD AVE,9/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67626285552977,
+            41.95053000351881
+          ],
+          [
+            -87.67411708831787,
+            41.950585858415664
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601171,W GRACE ST,N LEAVITT ST,N LINCOLN AVE,9/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68351554870604,
+            41.950466169291076
+          ],
+          [
+            -87.67625212669373,
+            41.95056192060874
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601113,W ARMITAGE AVE,N KOSTNER AVE,N KEDVALE AVE,9/15/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73020744323729,
+            41.91709605960304
+          ],
+          [
+            -87.73643016815184,
+            41.917080092684486
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601114,N CENTRAL AVE,W BLOOMINGDALE AVE,W NORTH AVE,9/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.76564478874207,
+            41.91264113440991
+          ],
+          [
+            -87.76555895805357,
+            41.909822714703026
+          ],
+          [
+            -87.76573061943054,
+            41.90935163524875
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601138,S CLARK ST,W 16TH ST,W CULLERTON ST,9/20/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63030052185059,
+            41.86019656212213
+          ],
+          [
+            -87.63019323348999,
+            41.85544998608186
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601170,W WAVELAND AVE,N HOYNE AVE,N DAMEN AVE,10/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68102645874023,
+            41.94867080545412
+          ],
+          [
+            -87.67862319946289,
+            41.94871868247931
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601170,N SEELEY AVE,W WAVELAND AVE,W ADDISON ST,10/11/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67980337142944,
+            41.9486867644665
+          ],
+          [
+            -87.67979264259338,
+            41.94685943158634
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601129,W CORTEZ ST,N SACRAMENTO AVE,N CALIFORNIA AVE,4/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70176529884337,
+            41.90044837837734
+          ],
+          [
+            -87.6968514919281,
+            41.90050427713626
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601129,N FRANCISCO AVE,W CORTEZ ST,W CHICAGO AVE,4/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69928693771361,
+            41.90047233499431
+          ],
+          [
+            -87.69919037818909,
+            41.89564888819341
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601129,S RICHMOND ST,W DIVISION ST,W AUGUSTA BLVD,4/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70056366920471,
+            41.90288392177624
+          ],
+          [
+            -87.70046710968018,
+            41.89923456468745
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601129,N SACRAMENTO AVE,W THOMAS ST,W AUGUSTA BLVD,4/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70177602767944,
+            41.901055276570155
+          ],
+          [
+            -87.7017331123352,
+            41.899210607606115
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601129,N FRANCISCO AVE,W DIVISION ST,W THOMAS ST,4/22/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6993727684021,
+            41.90289190701162
+          ],
+          [
+            -87.69934058189392,
+            41.90107124749733
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601098,W FILLMORE ST,S HOMAN AVE,S SACRAMENTO BLVD,8/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.7008318901062,
+            41.86829848901988
+          ],
+          [
+            -87.71061658859253,
+            41.86818663508575
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601098,S TROY ST,W FILLMORE ST,W ROOSEVELT RD,8/19/2016,"  {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70450115203857,
+            41.86826653077296
+          ],
+          [
+            -87.70450115203857,
+            41.86641292511604
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+701045,W WARREN BLVD,N KEDZIE AVE,N SACRAMENTO BLVD,9/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70619630813597,
+            41.8819112491378
+          ],
+          [
+            -87.70123958587646,
+            41.88200710336466
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+701045,N ALBANY AVE,W WASHINGTON BLVD,W MADISON ST,9/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70368576049805,
+            41.88283783397407
+          ],
+          [
+            -87.70364284515381,
+            41.88098465086491
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601172,S LAWNDALE AVE,W 26TH ST,W 31ST ST,9/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71722555160522,
+            41.84434130176638
+          ],
+          [
+            -87.71705389022826,
+            41.837003717301364
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601172,W 28TH ST,S PULASKI RD,S MILLARD AVE,9/6/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.7244782447815,
+            41.840536733368175
+          ],
+          [
+            -87.71593809127808,
+            41.84069659373597
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601089,E 81ST ST,S WOODLAWN AVE,S DORCHESTER AVE,9/20/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.5954532623291,
+            41.74776644895167
+          ],
+          [
+            -87.59056091308594,
+            41.74779846736673
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601089,S AVALON AVE,420' SOUTH OF E 81ST ST,E 83RD ST,9/20/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59416580200195,
+            41.74739823603076
+          ],
+          [
+            -87.5941014289856,
+            41.744100234837425
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601089,E 81ST ST,200' WEST OF S UNIVERSITY AVE,S UNIVERSITY AVE,9/20/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.59706258773804,
+            41.747750439738155
+          ],
+          [
+            -87.59663343429565,
+            41.747750439738155
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601103,S SACRAMENTO AVE,W 27TH ST,680' SOUTH  OF W 28TH ST,9/26/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70008087158203,
+            41.842790727670916
+          ],
+          [
+            -87.7000379562378,
+            41.8404568030345
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601103,S SACRAMENTO AVE,W 26TH ST,OF W 27TH ST,9/26/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70012378692627,
+            41.8446290330321
+          ],
+          [
+            -87.70008087158203,
+            41.842790727670916
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601167,W WAVELAND AVE,N HALSTED ST,N BROADWAY,9/27/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6495909690857,
+            41.94911765629103
+          ],
+          [
+            -87.64834642410278,
+            41.949133615191585
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601167,W GRACE ST,N BROADWAY,N PINE GROVE AVE,9/27/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64961242675781,
+            41.9511603630854
+          ],
+          [
+            -87.6478099822998,
+            41.95165507129077
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601167,N BROADWAY,W IRVING PARK RD,W ADDISON ST,9/27/2016,"  {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65047073364258,
+            41.95455940976513
+          ],
+          [
+            -87.64974117279053,
+            41.953346625176685
+          ],
+          [
+            -87.64967679977417,
+            41.9527402242286
+          ],
+          [
+            -87.6495909690857,
+            41.951112487894015
+          ],
+          [
+            -87.64720916748047,
+            41.947346193497644
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601179,W SUPERIOR ST,N ASHLAND AVE,N BISHOP ST,9/27/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66733646392822,
+            41.895153745553294
+          ],
+          [
+            -87.66398906707764,
+            41.89523360752909
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601159,S SOUTH CHICAGO AVE,E MARQUETTE RD,E 73RD ST,9/29/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61536598205566,
+            41.77291199367918
+          ],
+          [
+            -87.6006031036377,
+            41.7622691561037
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601088,W 101ST PL,S NORMAL AVE,S EGGLESTON AVE,10/17/2016,"   {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63570785522461,
+            41.71069442736454
+          ],
+          [
+            -87.63364791870117,
+            41.71069442736454
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601088,W 102ND ST,S NORMAL AVE,S EGGLESTON AVE,10/17/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63555765151978,
+            41.707955213596286
+          ],
+          [
+            -87.63364791870117,
+            41.707987251858796
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601088,S EGGLESTON AVE,W 101ST ST,W 103RD ST,10/17/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63369083404541,
+            41.710726464261924
+          ],
+          [
+            -87.63358354568481,
+            41.70704211640322
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601149,W HADDON AVE,200' EAST OF N SPAULDING AVE,N KEDZIE AVE,10/18/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70878195762634,
+            41.901845832670624
+          ],
+          [
+            -87.70678639411926,
+            41.90188575948675
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601149,W THOMAS ST,200' EAST OF N SPAULDING AVE,N KEDZIE AVE,10/18/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70872831344604,
+            41.90099937829354
+          ],
+          [
+            -87.70676493644714,
+            41.901015349234704
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601149,W CORTEZ ST,200' EAST OF N SPAULDING AVE,N KEDZIE AVE,10/18/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70874977111816,
+            41.90013694153896
+          ],
+          [
+            -87.70671129226685,
+            41.900152912695816
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601175,N LOCKWOOD AVE,W FULLERTON AVE,W GRAND AVE,10/27/2016,"    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.75859594345093,
+            41.92408918585747
+          ],
+          [
+            -87.75840282440186,
+            41.917415397134896
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1701043,W BRADLEY PL,N LEAVITT ST,N WOLCOTT AVE,10/27/2016,,,
+1701043,N HOYNE AVE,W BRADLEY PL,W ADDISON ST,10/27/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6810586452484,
+            41.94958046278435
+          ],
+          [
+            -87.68099427223206,
+            41.94683549238006
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1701043,N WOLCOTT AVE,W BRADLEY PL,W WAVELAND AVE,10/27/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.67621994018555,
+            41.94961238034969
+          ],
+          [
+            -87.67617702484131,
+            41.94871868247931
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601136,N HAMILTON AVE,W SUNNYSIDE AVE,W MONTROSE AVE,10/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68227100372314,
+            41.96323972040695
+          ],
+          [
+            -87.6822280883789,
+            41.961436738468834
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601136,W AGATITE AVE,N LEAVITT ST,N HAMILTON AVE,10/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68389105796814,
+            41.96230632462242
+          ],
+          [
+            -87.68223881721497,
+            41.962338235815146
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601136,N LEAVITT ST,W SUNNYSIDE AVE,W MONTROSE AVE,10/28/2016,,,
+1601147,W HOMER ST,N WASHTENAW AVE,N WESTERN AVE,10/31/2016,,,
+1601105,W 70TH ST,90' WEST OF S STEWART AVE,S PRINCETON AVE,11/4/2016,,,
+1601105,S STEWART AVE,W 70TH ST,OF W 71ST ST,11/4/2016,,,
+1601105,S HARVARD AVE,W 69TH ST,W 70TH ST,11/4/2016,,,
+1601105,S PRINCETON AVE,W 69TH ST,W 71ST ST,11/4/2016,,,
+1601105,W 70TH PL,265' WEST OF S PRINCETON AVE,S PRINCETON AVE,11/4/2016,,,
+1601105,W 71ST ST,S PRINCETON AVE,S WENTWORTH AVE,11/4/2016,,,
+1601160,S SOUTH CHICAGO AVE,E 73RD ST,S HARPER AVE,11/4/2016,,,
+1601180,N BROADWAY,W IRVING PARK RD,W BELMONT AVE,8/10/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65064239501952,
+            41.95454345222303
+          ],
+          [
+            -87.64978408813477,
+            41.95336258301847
+          ],
+          [
+            -87.64969825744629,
+            41.95125611336028
+          ],
+          [
+            -87.64450550079346,
+            41.942765696654604
+          ],
+          [
+            -87.64446258544922,
+            41.940052355178686
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601168,N BROADWAY,W ADDISON ST,W BELMONT AVE,8/17/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64731645584105,
+            41.94736215284164
+          ],
+          [
+            -87.64450550079346,
+            41.94279761763187
+          ],
+          [
+            -87.6444411277771,
+            41.9400204328271
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1401191,W ALTGELD ST,N LINCOLN AVE,N HALSTED ST,9/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.65124320983887,
+            41.927250210576666
+          ],
+          [
+            -87.64883995056152,
+            41.92728213932028
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1401191,W LILL AVE,N LINCOLN AVE,N HALSTED ST,9/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6524555683136,
+            41.928128245203986
+          ],
+          [
+            -87.64888286590576,
+            41.92820008386593
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1401191,N HALSTED ST,W WRIGHTWOOD AVE,W FULLERTON AVE,9/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.64888286590576,
+            41.92910205129288
+          ],
+          [
+            -87.64878630638123,
+            41.92544621060429
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+601102,N CHRISTIANA AVE,W GEORGE ST,W DIVERSEY AVE,10/24/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71112620830536,
+            41.933859119802214
+          ],
+          [
+            -87.7111691236496,
+            41.93377531545724
+          ],
+          [
+            -87.71109402179718,
+            41.932007417184565
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+601102,W DIVERSEY AVE,N KIMBALL AVE,N SACRAMENTO AVE,10/24/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71230101585388,
+            41.931991453997256
+          ],
+          [
+            -87.70252704620361,
+            41.932079251478
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601162,W ONTARIO ST,N PAULINA ST,N ASHLAND AVE,11/4/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66964316368103,
+            41.89275783984439
+          ],
+          [
+            -87.66725599765778,
+            41.89280176559114
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601162,W ERIE ST,N PAULINA ST,N ASHLAND AVE,11/4/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66964316368103,
+            41.89331289933232
+          ],
+          [
+            -87.66721844673155,
+            41.89334883826961
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601133,N RIDGEWAY AVE,W CHICAGO AVE,W FERDINAND ST,11/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71999359130858,
+            41.89543326203167
+          ],
+          [
+            -87.71983265876769,
+            41.889898608081005
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601143,N CICERO AVE,W IRVING PARK RD,W ADDISON ST,11/14/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.74728775024413,
+            41.953426414345635
+          ],
+          [
+            -87.74709463119507,
+            41.94611731201173
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601135,W 57TH PL,S PULASKI RD,S CENTRAL PARK AVE,11/16/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72304058074951,
+            41.78868895123459
+          ],
+          [
+            -87.71284818649292,
+            41.78883294209751
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601135,S HAMLIN AVE,W 56TH ST,W 58TH ST,11/16/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71823406219482,
+            41.791488715573735
+          ],
+          [
+            -87.71811604499817,
+            41.78782499926518
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601093,E 91ST ST,S BUFFALO AVE,S MACKINAW AVE,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.54429280757904,
+            41.73016190787875
+          ],
+          [
+            -87.54291415214537,
+            41.730181924876554
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601093,S BUFFALO AVE,E 90TH ST,E 92ND ST,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.54434108734131,
+            41.731987432424674
+          ],
+          [
+            -87.54424452781676,
+            41.72832031739653
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601093,S GREEN BAY AVE,E 91ST ST,80' SOUTH OF E 91ST ST,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.54150867462158,
+            41.730203943566956
+          ],
+          [
+            -87.54149526357651,
+            41.72998375632339
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601093,E 92ND ST,S BUFFALO AVE,145' EAST  OF S BUFFALO AVE,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.54425525665283,
+            41.72834834199508
+          ],
+          [
+            -87.54373759031296,
+            41.72835434726459
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601161,E 83RD ST,200' WEST  OF S JEFFERY BLVD,S CLYDE AVE,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.57638812065125,
+            41.74431637117085
+          ],
+          [
+            -87.57339477539062,
+            41.744364401368344
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601161,S JEFFERY BLVD,E 83RD ST,S. ANTHONY AVENUE,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.57583022117613,
+            41.744340386274104
+          ],
+          [
+            -87.57579803466797,
+            41.7422670492739
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601161,S ANTHONY AVE,E 83RD ST,S JEFFERY BLVD,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.57879137992859,
+            41.74431637117085
+          ],
+          [
+            -87.57769703865051,
+            41.74366795998786
+          ],
+          [
+            -87.57577657699585,
+            41.74228305985473
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601161,E 84TH ST,100' WEST OF S EUCLID AVE,S JEFFERY BLVD,11/21/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.5773885846138,
+            41.742489195726165
+          ],
+          [
+            -87.57579535245895,
+            41.74250920888232
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601154,S WENTWORTH AVE,W 69TH ST,S VINCENNES AVE,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6298713684082,
+            41.76910318099586
+          ],
+          [
+            -87.62969970703125,
+            41.76180499218383
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601154,S PERRY AVE,W 69TH ST,W 71ST ST,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62826204299925,
+            41.7690951790505
+          ],
+          [
+            -87.62818694114685,
+            41.76546219276089
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601154,W 70TH ST,S WENTWORTH AVE,S PERRY AVE,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62982308864594,
+            41.76726270727479
+          ],
+          [
+            -87.628213763237,
+            41.76729071487922
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601154,W 72ND ST,S YALE AVE,S WENTWORTH AVE,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.63096570968628,
+            41.76359760669696
+          ],
+          [
+            -87.6297265291214,
+            41.76362561590137
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601157,N MAPLEWOOD AVE,W FULLERTON AVE,N MILWAUKEE AVE,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69149780273438,
+            41.924879456720035
+          ],
+          [
+            -87.6913583278656,
+            41.91924357374448
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601157,W SHAKESPEARE AVE,N MAPLEWOOD AVE,N CAMPBELL AVE,11/25/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69138514995575,
+            41.92080426822993
+          ],
+          [
+            -87.68928229808807,
+            41.92080027673263
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1401300,N LAWNDALE AVE,W BELMONT AVE,N MILWAUKEE AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.71967709064484,
+            41.93918246538244
+          ],
+          [
+            -87.7196341753006,
+            41.937119422415186
+          ],
+          [
+            -87.7199774980545,
+            41.9367602785212
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1401300,N RIDGEWAY AVE,W BELMONT AVE,N MILWAUKEE AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.72070169448853,
+            41.93918246538244
+          ],
+          [
+            -87.72065877914427,
+            41.93727106034093
+          ],
+          [
+            -87.72072315216064,
+            41.937223174719115
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601097,N KILDARE AVE,W WRIGHTWOOD AVE,W FULLERTON AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73422002792358,
+            41.92800851392094
+          ],
+          [
+            -87.73412346839905,
+            41.92439252330567
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601097,W WRIGHTWOOD AVE,N KOSTNER AVE,N KEELER AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73671984672546,
+            41.92800851392094
+          ],
+          [
+            -87.731773853302,
+            41.92805640646113
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601097,N KEELER AVE,W WRIGHTWOOD AVE,W FULLERTON AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.73178458213806,
+            41.92806438854767
+          ],
+          [
+            -87.7316665649414,
+            41.9244404185604
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601137,W TOUHY AVE,N ROGERS AVE,W CLARK ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.68265724182129,
+            42.012538670570486
+          ],
+          [
+            -87.67463207244872,
+            42.0126502715811
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601137,W TOUHY AVE,N WESTERN AVE,N RIDGE BLVD,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69023180007935,
+            42.01230749642558
+          ],
+          [
+            -87.68335461616515,
+            42.01224372409983
+          ],
+          [
+            -87.68308639526367,
+            42.01233938256449
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601163,W WABANSIA AVE,N ROCKWELL ST,N WESTERN AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.69215226173401,
+            41.91211418720928
+          ],
+          [
+            -87.6872706413269,
+            41.91217007575498
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601165,E 85TH ST,S COLFAX AVE,S BURNHAM AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.56120681762695,
+            41.74089012438931
+          ],
+          [
+            -87.55634665489197,
+            41.74096217351647
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601165,S MARQUETTE AVE,E 83RD ST,E 87TH ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.55882501602173,
+            41.744580536812535
+          ],
+          [
+            -87.55871772766113,
+            41.737263547220635
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601165,S SAGINAW AVE,E 83RD ST,E 87TH ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.5600266456604,
+            41.74451649675678
+          ],
+          [
+            -87.5599193572998,
+            41.7372955708733
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601165,S MANISTEE AVE,E 83RD ST,E 87TH ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.55764484405518,
+            41.744580536812535
+          ],
+          [
+            -87.55751609802246,
+            41.73731158269362
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601169,S CALUMET AVE,E 41ST ST,E 43RD ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61845588684082,
+            41.82021522960313
+          ],
+          [
+            -87.61835932731628,
+            41.81660912771036
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601169,S PRAIRIE AVE,E PERSHING RD,E 44TH ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6200008392334,
+            41.82382912355111
+          ],
+          [
+            -87.6197862625122,
+            41.814778013765654
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601169,E 42ND ST,S INDIANA AVE,150' EAST OF S CALUMET AVE,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62147605419159,
+            41.818372225069936
+          ],
+          [
+            -87.61790871620177,
+            41.81843619140862
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601169,E 41ST ST,S STATE ST,S DR MARTIN LUTHER KING JR DR,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62636303901672,
+            41.82011128715796
+          ],
+          [
+            -87.61688947677612,
+            41.82025520742172
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601178,S KEDZIE AVE,W 59TH ST,W 63RD ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.70336389541626,
+            41.786273056301205
+          ],
+          [
+            -87.70317077636719,
+            41.778960819580526
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601184,S CHARLES ST,W 95TH ST,W 100TH PL,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66431093215942,
+            41.721201673458346
+          ],
+          [
+            -87.66053438186646,
+            41.71130312568477
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601184,W 100TH PL,S PROSPECT AVE,S MALTA ST,11/28/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66257286071777,
+            41.711255070763805
+          ],
+          [
+            -87.66244411468504,
+            41.71130312568477
+          ],
+          [
+            -87.65898942947388,
+            41.71136719885689
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601126,E 47TH ST,S PRAIRIE AVE,S LAKE PARK AVE,12/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.61965751647949,
+            41.809356330158465
+          ],
+          [
+            -87.5925350189209,
+            41.809740181260175
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601126,S DREXEL BLVD,E 46TH ST,E 47TH ST,12/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6044225692749,
+            41.81137152278263
+          ],
+          [
+            -87.60440111160278,
+            41.80954025909838
+          ]
+        ]
+      }
+    },
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.60390758514403,
+            41.811387516121314
+          ],
+          [
+            -87.60389685630798,
+            41.809572246686194
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601144,N CICERO AVE,W WRIGHTWOOD AVE,W ARMITAGE AVE,12/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.74642944335938,
+            41.928559275962265
+          ],
+          [
+            -87.7461290359497,
+            41.91693639023786
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601144,N CICERO AVE,W DIVERSEY AVE,W WRIGHTWOOD AVE,12/5/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.74657964706421,
+            41.931560446429806
+          ],
+          [
+            -87.74644017219543,
+            41.92817613765428
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,
+1601099,E 113TH PL,S STATE ST,S MICHIGAN AVE,12/12/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.62304782867432,
+            41.68805636911617
+          ],
+          [
+            -87.62100934982298,
+            41.68808841729322
+          ]
+        ]
+      }
+    }
+  ]
+}",Nissa,nissarhee@gmail.com
+1601099,S STATE ST,E 113TH ST,E 119TH ST,12/12/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.6230263710022,
+            41.6889537120389
+          ],
+          [
+            -87.62268304824828,
+            41.678040531771785
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1701087,N ADA ST,N OGDEN AVE,W LAKE ST,12/12/2016,,,
+1701087,W ARBOUR PL,70' WEST  OF N OGDEN AVE,N ADA ST,12/12/2016,,,
+1701087,N ADA ST,W HUBBARD ST,W KINZIE ST,12/12/2016,,,
+1701087,N OGDEN AVE,50' SOUTH  OF W KINZIE ST,W ARBOUR PL,12/12/2016,,,
+1601130,S ASHLAND AVE,W 63RD ST,W MARQUETTE RD,12/19/2016,"{
+  ""type"": ""FeatureCollection"",
+  ""features"": [
+    {
+      ""type"": ""Feature"",
+      ""properties"": {},
+      ""geometry"": {
+        ""type"": ""LineString"",
+        ""coordinates"": [
+          [
+            -87.66422510147095,
+            41.779472863306474
+          ],
+          [
+            -87.66409635543822,
+            41.772191857358166
+          ]
+        ]
+      }
+    }
+  ]
+}",,
+1601130,S ASHLAND AVE,W MARQUETTE RD,W 71ST ST,12/19/2016,,,
+1601134,N AVERS AVE,W CHICAGO AVE,W FERDINAND ST,12/20/2016,,,
+1601187,E BALBO AVE,S STATE ST,S WABASH AVE,12/26/2016,,,
+1601187,E BALBO AVE,120' WEST OF S MICHIGAN AVE,50' WEST OF S MICHIGAN AVE,12/26/2016,,,
+1601188,E 73RD ST,S SOUTH CHICAGO AVE,S UNIVERSITY AVE,,,,

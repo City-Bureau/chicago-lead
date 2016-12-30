@@ -1,53 +1,19 @@
-PG_DB = water
+raw/water_projects.geojson :
+	esridump http://gisapps.cityofchicago.org/arcgis/rest/services/ExternalApps/CDOT_Resolution/MapServer/32 raw/water_projects.geojson
 
-.PHONY : setupdb
-setupdb : 
-	make $(PG_DB)
-	make water_projects
 
-$(PG_DB) :
-	createdb $@
-	psql -d $@ -c "CREATE EXTENSION POSTGIS"
+.INTERMEDIATE : older_water_projects.geojson
+older_water_projects.geojson : raw/water_projects.geojson
+	cat $< | python scripts/convert_timestamps.py > $@
 
-water_projects : raw/water_projects.geojson
-	ogr2ogr -f PostgreSQL PG:"dbname=$(PG_DB)" -nln $@ $<
-	psql -d $(PG_DB) -c "alter table water_projects alter column project_submit_date type bigint using (project_submit_date::bigint), \
-	alter column enddate type bigint using (enddate::bigint), alter column startdate type bigint using (startdate::bigint)"
-	psql -d $(PG_DB) -c "alter table water_projects alter column project_submit_date type timestamp using timestamp 'epoch' + project_submit_date * interval '1 millisecond'"
-	psql -d $(PG_DB) -c "alter table water_projects alter column enddate type timestamp using timestamp 'epoch' + enddate * interval '1 millisecond'"
-	psql -d $(PG_DB) -c "alter table water_projects alter column startdate type timestamp using timestamp 'epoch' + startdate * interval '1 millisecond'"
 
-foia : raw/WaterCIP2016_20161121.xlsx
-	in2csv $< |\
-	csvsql --db postgresql:///$(PG_DB) --table $@ --insert
+raw/Sections\ to\ Trace\ -\ to_be_traced.csv : raw/WaterCIP2016_20161121.xlsx  
+	# Hand Traced at
+	# https://docs.google.com/spreadsheets/d/1XHXLWtJi4I2y5ARhBNzLLH_bH_gZhV0KnBFEqA0bEUM/edit#gid=257982765
 
-output/water_projects_all_years.geojson : setupdb
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)"
+.INTERMEDIATE : traces.geojson
+traces.geojson : raw/Sections\ to\ Trace\ -\ to_be_traced.csv
+	cat "$<" | python scripts/traces.py > $@
 
-2011_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2012-01-01'::DATE AND (enddate IS NULL or enddate >= '2011-01-01'::DATE)"
-
-2012_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2013-01-01'::DATE AND (enddate IS NULL or enddate >= '2012-01-01'::DATE)"
-
-2013_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2014-01-01'::DATE AND (enddate IS NULL or enddate >= '2013-01-01'::DATE)"
-
-2014_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2015-01-01'::DATE AND (enddate IS NULL or enddate >= '2014-01-01'::DATE)"
-
-2015_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2016-01-01'::DATE AND (enddate IS NULL or enddate >= '2015-01-01'::DATE)"
-
-2016_projects.geojson :
-	ogr2ogr -f GeoJSON $@ "PG:dbname=$(PG_DB)" \
-            -sql "SELECT * FROM water_projects WHERE startdate < '2017-01-01'::DATE AND (enddate IS NULL or enddate >= '2016-01-01'::DATE)"
-
-.PHONY : clean_water_projects
-clean_water_projects :
-	dropdb $(PG_DB)
+output/water_projects.geojson : older_water_projects.geojson traces.geojson
+	python scripts/merge_geojson.py $^ > $@
