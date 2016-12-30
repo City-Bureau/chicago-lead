@@ -1,0 +1,71 @@
+Sample ID #,Sample LocationSample Collection Time & Date,Test Result (ppb),Test Results,
+52615-1-KIT-KS01-001,"Main- Kitchen, North Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS01-002,"Main- Kitchen, North Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS01-003,"Main- Kitchen, North Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS01-004,"Main- Kitchen, North Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS01-005,"Main- Kitchen, North Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS02-001,"Main- Kitchen, Center Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS02-002,"Main- Kitchen, Center Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS02-003,"Main- Kitchen, Center Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS02-004,"Main- Kitchen, Center Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS02-005,"Main- Kitchen, Center Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS03-001,"Main- Kitchen, South Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS03-002,"Main- Kitchen, South Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS03-003,"Main- Kitchen, South Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS03-004,"Main- Kitchen, South Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-KIT-KS03-005,"Main- Kitchen, South Sink",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F04-001,"Main- Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F04-002,"Main- Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F04-003,"Main- Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F04-004,"Main- Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F04-005,"Main- Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F05-001,"Main- Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F05-002,"Main- Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F05-003,"Main- Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F05-004,"Main- Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F05-005,"Main- Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F06-001,"Main- Outside Girls Toilets, East Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F06-002,"Main- Outside Girls Toilets, East Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F06-003,"Main- Outside Girls Toilets, East Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F06-004,"Main- Outside Girls Toilets, East Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F06-005,"Main- Outside Girls Toilets, East Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F07-001,"Main- Outside Girls Toilets, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F07-002,"Main- Outside Girls Toilets, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F07-003,"Main- Outside Girls Toilets, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F07-004,"Main- Outside Girls Toilets, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F07-005,"Main- Outside Girls Toilets, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F08-001,"Main- Outside Lunchroom, East Fountain",9/21/16 6:00 AM,310,AA
+52615-1-HAL-F08-002,"Main- Outside Lunchroom, East Fountain",9/21/16 6:00 AM,130,AA
+52615-1-HAL-F08-003,"Main- Outside Lunchroom, East Fountain",9/21/16 6:00 AM,230,AA
+52615-1-HAL-F08-004,"Main- Outside Lunchroom, East Fountain",9/21/16 6:00 AM,280,AA
+52615-1-HAL-F08-005,"Main- Outside Lunchroom, East Fountain",9/21/16 6:00 AM,110,AA
+52615-1-HAL-F09-001,"Main- Outside Lunchroom, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F09-002,"Main- Outside Lunchroom, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F09-003,"Main- Outside Lunchroom, West Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-1-HAL-F09-004,"Main- Outside Lunchroom, West Fountain",9/21/16 6:00 AM,2.5,BA
+52615-1-HAL-F09-005,"Main- Outside Lunchroom, West Fountain",9/21/16 6:00 AM,2.7,BA
+52615-1-102-S10-001,"Main- Inside Room 102, Sink",9/21/16 6:00 AM,21,AA
+52615-1-102-S10-002,"Main- Inside Room 102, Sink",9/21/16 6:00 AM,18,AA
+52615-1-102-S10-003,"Main- Inside Room 102, Sink",9/21/16 6:00 AM,19,AA
+52615-1-102-S10-004,"Main- Inside Room 102, Sink",9/21/16 6:00 AM,23,AA
+52615-1-102-S10-005,"Main- Inside Room 102, Sink",9/21/16 6:00 AM,6.5,BA
+52615-1-102-F11-001,"Main- Inside Room 102, Fountain",9/21/16 6:00 AM,8.8,BA
+52615-1-102-F11-002,"Main- Inside Room 102, Fountain",9/21/16 6:00 AM,3,BA
+52615-1-102-F11-003,"Main- Inside Room 102, Fountain",9/21/16 6:00 AM,2.7,BA
+52615-1-102-F11-004,"Main- Inside Room 102, Fountain",9/21/16 6:00 AM,2.2,BA
+52615-1-102-F11-005,"Main- Inside Room 102, Fountain",9/21/16 6:00 AM,2.1,BA
+52615-1-100-S12-001,"Main- Inside Room 100, Sink",9/21/16 6:00 AM,11,BA
+52615-1-100-S12-002,"Main- Inside Room 100, Sink",9/21/16 6:00 AM,5.3,BA
+52615-1-100-S12-003,"Main- Inside Room 100, Sink",9/21/16 6:00 AM,6,BA
+52615-1-100-S12-004,"Main- Inside Room 100, Sink",9/21/16 6:00 AM,3.6,BA
+52615-1-100-S12-005,"Main- Inside Room 100, Sink",9/21/16 6:00 AM,2.8,BA
+52615-2-HAL-F01-001,"Main- 2nd Floor Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F01-002,"Main- 2nd Floor Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F01-003,"Main- 2nd Floor Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F01-004,"Main- 2nd Floor Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F01-005,"Main- 2nd Floor Outside Restrooms, North Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F02-001,"Main- 2nd Floor Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F02-002,"Main- 2nd Floor Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F02-003,"Main- 2nd Floor Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F02-004,"Main- 2nd Floor Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
+52615-2-HAL-F02-005,"Main- 2nd Floor Outside Restrooms, South Fountain",9/21/16 6:00 AM,<2.0,ND
