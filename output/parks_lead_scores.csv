@@ -20,8 +20,7 @@ Ashe Beach,0.0,3
 Ashmore,1.0,1
 Aspen,0.0,2
 Aster,0.0,1
-Athletic Field,0.0,1
-Oudoor,0.25,4
+Athletic Field,0.2,5
 Augusta,0.0,4
 Austin-Foster,1.0,2
 Austin Town Hall,0.0,9
@@ -72,8 +71,7 @@ Chippewa,0.0,2
 Chopin,0.2,5
 Churchill,0.0,6
 Citizens Memorial,1.0,1
-Clarendon,0.0,4
-Oudoor,0.125,8
+Clarendon,0.08333333333333333,12
 Clark (John),0.0,2
 Clark (Richard),0.0,4
 Clark Boathouse,0.0,2
@@ -95,7 +93,7 @@ Cosme,0.0,3
 Cotton Tail,0.0,4
 Cragin,0.0,3
 Cresent,0.0,1
-Oudoor,0.0,2
+Daley (Richard),0.0,2
 Davis (M.),0.0,1
 Davis Square,0.1111111111111111,9
 Dawes,0.16666666666666666,6
@@ -166,8 +164,7 @@ Green Briar,0.4,5
 Griffin,1.0,1
 Gross,1.0,2
 Haas,0.0,6
-Hale,0.0,4
-Oudoor,0.16666666666666666,6
+Hale,0.1,10
 Hamilton,0.0,9
 Hamlin,0.5,6
 Hansberry,0.0,1
@@ -216,8 +213,7 @@ Juniper,1.0,1
 Kedvale,0.0,3
 Kelly,0.0,4
 Kells,1.0,1
-Kelvyn,0.0,3
-Oudoor,0.25,4
+Kelvyn,0.14285714285714285,7
 Kennedy,0.25,12
 Kennicott,0.125,8
 Kensington,1.0,1
@@ -233,8 +229,8 @@ Kosciuszko,0.2,10
 Krause,0.0,3
 Kucinski-Murphy,0.0,1
 LaFollette,0.0,11
-Lake Shore,0.0,2
-Oudoor,0.16666666666666666,6
+Lake Shore,0.0,7
+Lamb,1.0,1
 Lane Beach,0.0,3
 Langdon,1.0,1
 Langley,0.0,5
@@ -268,8 +264,7 @@ Mandrake,0.0,9
 Mann,0.0,12
 Maple,1.0,1
 Maplewood,1.0,3
-Marquette,0.25,8
-Oudoor,0.058823529411764705,17
+Marquette,0.12,25
 Marshfield,0.0,2
 Mason,0.0,2
 Matanky,0.0,1
@@ -407,8 +402,7 @@ South Lakeview,1.0,2
 South Shore Cultural Center,0.0,7
 Spikings Farm,0.0,2
 Spruce,1.0,1
-Stanton,0.0,4
-Oudoor,0.0,1
+Stanton,0.0,5
 Starr,0.0,3
 Stars and Stripes,0.0,3
 Stout,1.0,3
@@ -454,8 +448,7 @@ Webster,0.0,2
 Weisman,0.0,3
 Welles,0.0,15
 Wendt,0.0,1
-Wentworth,0.0,1
-Oudoor,0.2,5
+Wentworth,0.16666666666666666,6
 Wentworth Garden,0.0,4
 Wesolek,1.0,2
 West Chatham,0.0,4
