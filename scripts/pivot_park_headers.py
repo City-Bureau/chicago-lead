@@ -1,14 +1,15 @@
 import sys
+import csv
 
-name = 'park_name'
-lines = []
+reader = csv.reader(sys.stdin)
+writer = csv.writer(sys.stdout)
 
-for line in sys.stdin.readlines():
-    if ',\n' in line:
-        name = line.rstrip(',\n')
-    line = '%s,%s' % (name,line)
-    lines.append(line)
+writer.writerow(next(reader))
 
-lines.append(lines.pop(-1).rstrip('\n'))
+park_name = None
 
-print(''.join([line for line in lines if ',\n' not in line]))
+for location, result in reader:
+    if not result:
+        park_name = location
+    else:
+        writer.writerow([park_name, location, result])
