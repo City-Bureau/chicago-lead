@@ -10,7 +10,7 @@ park_fixtures.csv : tabula/parks.csv
         perl -p -e 's/ ,/,/' | \
 	perl -p -e 's/\s*[UJ].{1,2}$$//' | \
         perl -p -e 's/˂/</' | \
-        csvgrep -c fixture_location -r ".*(Follow Up|repair|Test 2|Indoor|Outdoor|Oudoor).*" -i | \
+        csvgrep -c fixture_location -r ".*(Follow Up|repair|Test 2|Indoor|Out?door).*" -i | \
 	python scripts/pivot_park_headers.py > $@
 
 output/parks_lead_scores.csv : park_fixtures.csv
