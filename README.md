@@ -3,8 +3,6 @@
 how much lead is pouring out of chicago's fixtures?
 
 ## requirements
-
-* ogr2ogr (`brew install gdal`) 
 * csvkit (`pip install csvkit`)
 * pyesridump (`pip install pyesridump`)
 
