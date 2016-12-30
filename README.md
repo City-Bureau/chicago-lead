@@ -4,7 +4,6 @@ how much lead is pouring out of chicago's fixtures?
 
 ## requirements
 
-* postgres ([instructions](http://exponential.io/blog/2015/02/21/install-postgresql-on-mac-os-x-via-brew/))
 * ogr2ogr (`brew install gdal`) 
 * csvkit (`pip install csvkit`)
 * pyesridump (`pip install pyesridump`)
