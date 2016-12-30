@@ -19,6 +19,7 @@ the files should land in `output/`.
 
 ### 🌱 parks
 
+#### files
 * [parks_lead_scores.csv](output/parks_lead_scores.csv) contains three fields:
 
   * **park_name**: the name of the park
@@ -31,6 +32,7 @@ the files should land in `output/`.
 
 ### 📚 schools
 
+#### files
 * [cps_lead_scores.geojson](../output/cps_lead_scores.geojson) - schools plotted by lat/long pairs, with attributes for:
   * **lead_score**: the proportion of fixtures tested that contained lead in excess of the epa standard of 15 ppb. to calcuate, each trial was translated to one of two values: 0 for a measurement at or below the epa standard, 1 for a measurement above it. the trials were averaged to produce a score for that fixture, then the fixture averages were averaged to produce a school-level score.
   * **num_fixtures**: the number of fixtures tested in a school
