@@ -1,11 +1,5 @@
-tabula = java -jar ./tabula-java/target/tabula-0.9.1-jar-with-dependencies.jar
-
-tabula-java :
-	git clone https://github.com/tabulapdf/tabula-java.git
-	cd tabula-java && mvn clean compile assembly:single
-
-tabula/parks.csv : raw/Water_Fountain_Testing_Final_Results.pdf tabula-java
-	$(tabula) -p all $< > $@
+tabula/parks.csv : raw/Water_Fountain_Testing_Final_Results.pdf
+	# This was scraped using tabula, with user input
 
 .INTERMEDIATE : park_fixtures.csv
 park_fixtures.csv : tabula/parks.csv
