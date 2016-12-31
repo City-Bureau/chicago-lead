@@ -3,6 +3,7 @@
 how much lead is pouring out of chicago's fixtures?
 
 ## requirements
+* python3 (we do some division that assumes that 1/2=0.5)
 * csvkit (`pip install csvkit`)
 * pyesridump (`pip install pyesridump`)
 
@@ -18,17 +19,8 @@ the files should land in `output/`.
 
 ### 🌱 parks
 
-#### to reproduce
-
-in a terminal window, run:
-
-`make output/parks_lead_scores.csv`
-
-`make clean_parks`
-
-#### output
-
-1. [parks_lead_scores.csv](output/parks_lead_scores.csv) contains three fields:
+#### files
+* [parks_lead_scores.csv](output/parks_lead_scores.csv) contains three fields:
 
   * **park_name**: the name of the park
   * **num_fixtures**: the number of fixtures tested in the park
@@ -40,17 +32,8 @@ in a terminal window, run:
 
 ### 📚 schools
 
-#### to reproduce
-
-in a terminal window, run:
-
-`make output/cps_lead.geojson`
-
-`make clean_schools`
-
-#### contents
-
-* [cps_lead.geojson](../output/cps_lead.geojson) - schools plotted by lat/long pairs, with attributes for:
+#### files
+* [cps_lead_scores.geojson](../output/cps_lead_scores.geojson) - schools plotted by lat/long pairs, with attributes for:
   * **lead_score**: the proportion of fixtures tested that contained lead in excess of the epa standard of 15 ppb. to calcuate, each trial was translated to one of two values: 0 for a measurement at or below the epa standard, 1 for a measurement above it. the trials were averaged to produce a score for that fixture, then the fixture averages were averaged to produce a school-level score.
   * **num_fixtures**: the number of fixtures tested in a school
   
