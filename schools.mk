@@ -9,7 +9,7 @@ fusion.csv : raw/cps_lead_fusion_table.csv
 output/cps_lead_scores.csv : get-the-lead-out/cps.csv
 	cat $< | python scripts/cps_score.py > $@
 
-output/cps_lead_scores.geojson : output/cps_lead_scores.csv fusion.csv
-	csvjoin -c "filename","Filename" $^ | \
-	csvjson --lat Lat --lon Long --crs urn:ogc:def:crs:OGC:1.3:CRS84 --indent 2  > $@
-
+output/cps_lead_scores.geojson : fusion.csv output/cps_lead_scores.csv 
+	csvjoin -c "Filename","filename" --left $^ | \
+	csvcut -c "SchoolName","score","num_fixtures","Lat","Long" | \
+	csvjson --lat Lat --lon Long --crs urn:ogc:def:crs:OGC:1.3:CRS84 --indent 2 > $@
