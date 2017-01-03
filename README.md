@@ -19,44 +19,55 @@ the files should land in `output/`.
 
 ### 🌱 parks
 
-#### files
-* [parks_lead_scores.csv](output/parks_lead_scores.csv) contains three fields:
+* **files**
+  * [parks_lead_scores.csv](output/parks_lead_scores.csv) contains three fields:
 
-  * **park_name**: the name of the park
-  * **num_fixtures**: the number of fixtures tested in the park
-  * **score**: the proportion of fixtures tested that exceeded the epa action level, 15 ppb. to calcuate this score, each test result was translated to a value, 0 if at or below 15 ppb, 1 if above. the park score is the average of its encoded fixture values.
+    * **park_name**: the name of the park
+    * **num_fixtures**: the number of fixtures tested in the park
+    * **score**: the proportion of fixtures tested that exceeded the epa action level, 15 ppb. to calcuate this score, each test result was translated to a value, 0 if at or below 15 ppb, 1 if above. the park score is the average of its encoded fixture values.
 
-#### notes
+* **notes**
 
-* with a few isolated exceptions, parks fixtures were tested only once. we omitted retests and calcuated park scores based only on initial lead test results.
+  * with a few isolated exceptions, parks fixtures were tested only once. we omitted retests and calcuated park scores based only on initial lead test results.
 
 ### 📚 schools
 
-#### files
-* [cps_lead_scores.geojson](../output/cps_lead_scores.geojson) - schools plotted by lat/long pairs, with attributes for:
-  * **lead_score**: the proportion of fixtures tested that contained lead in excess of the epa standard of 15 ppb. to calcuate, each trial was translated to one of two values: 0 for a measurement at or below the epa standard, 1 for a measurement above it. the trials were averaged to produce a score for that fixture, then the fixture averages were averaged to produce a school-level score.
-  * **num_fixtures**: the number of fixtures tested in a school
+* **files**
+  * [cps_lead_scores.geojson](output/cps_lead_scores.geojson) - schools plotted by lat/long pairs, with attributes for:
+    * **lead_score**: the proportion of fixtures tested that contained lead in excess of the epa standard of 15 ppb. to calcuate, each trial was translated to one of two values: 0 for a measurement at or below the epa standard, 1 for a measurement above it. the trials were averaged to produce a score for that fixture, then the fixture averages were averaged to produce a school-level score.
+    * **num_fixtures**: the number of fixtures tested in a school
   
-* [cps_lead_scores.csv](../output/cps_lead_scores.csv) - the above, in csv format
+  * [cps_lead_scores.csv](output/cps_lead_scores.csv) - the above, in csv format
 
-#### notes
+* **notes**
+  * the above datasets contain results for 501 of 516 schools. the remaining 15 link to dead files on the cps site and thus could not be scraped. they are in our dataset with null values for score and fixtures:
 
-* the above datasets contain results for 501 of 516 schools. the remaining 15 link to dead files on the cps site and thus could not be scraped. they are in our dataset with null values for score and fixtures:
-
-  * Hoyne
-  * Melody
-  * Brownell
-  * Mcauliffe
-  * Decatur
-  * Kipp Chicago - Ascend Primary
-  * Jordan
-  * Leland
-  * Voise Hs
-  * Casals
-  * Bronzeville Hs
-  * Lorca
-  * Black
-  * Christopher
-  * Poe
+    * Hoyne
+    * Melody
+    * Brownell
+    * Mcauliffe
+    * Decatur
+    * Kipp Chicago - Ascend Primary
+    * Jordan
+    * Leland
+    * Voise Hs
+    * Casals
+    * Bronzeville Hs
+    * Lorca
+    * Black
+    * Christopher
+    * Poe
   
-* the lat/long pairs were sourced from the data underlying [the lead map on the cps site](http://cps.edu/Pages/LeadTesting.aspx).
+  * the lat/long pairs were sourced from the data underlying [the lead map on the cps site](http://cps.edu/Pages/LeadTesting.aspx).
+
+### 💧 water projects
+
+* **files**
+
+  * [water_projects.geojson](output/water_projects.geojson) - planned & actual work on chicago's water mains, from 2000 to present. fields of interest include: 
+
+    * **STARTDATE** - yyyy-mm-dd hh:mm:ss
+    * **ENDDATE** - yyyy-mm-dd hh:mm:ss
+    * **PLANNED_ACTUAL_FLAG** - whether work is 'Planned' or 'Actual'
+    * **FULL_ADDR** - source address string for geocoding, i.e. 'ON N MANGO AVE FROM W FULLERTON AVE TO W GRAND AVE'
+    * **PROJECT_DESC** - short description of work to be done
