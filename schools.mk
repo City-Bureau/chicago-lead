@@ -4,7 +4,7 @@ fusion.csv : raw/cps_lead_fusion_table.csv
 	perl -p -e 's/4,LEAD FOUND,IndividualSchool_Williams_610380.pdf/4,LEAD FOUND,None/' > $@
 
 .INTERMEDIATE : measured_cps_lead_scores.csv
-measured_cps_lead_scores.csv : get-the-lead-out/cps.csv
+measured_cps_lead_scores.csv : get-the-lead-out/output/cps.csv
 	cat $< | python scripts/cps_score.py > $@
 
 output/cps_lead_scores.csv : fusion.csv measured_cps_lead_scores.csv 
