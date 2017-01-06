@@ -1,6 +1,13 @@
 # chicago-lead
 
-How much lead is pouring out of Chicago's water fixtures? We aggregate test results from the city's schools and parks to find out.
+How much lead is pouring out of Chicago's water fixtures, and where is it doing so in the highest amounts? 
+
+To find out, we:
+
+* Aggregate results from lead tests conducted in the city's schools and parks in 2016
+* Geocode water main construction projects, which [shake loose the protective coating that keeps lead from leaching into water](http://southsideweekly.com/ground-zero/)
+
+The results of this analysis appear in [a special issue of South Side Weekly](http://www.citybureau.org/lead/), powered by [City Bureau](http://www.citybureau.org/).
 
 ## Setup
 ### Dependencies
@@ -8,15 +15,33 @@ How much lead is pouring out of Chicago's water fixtures? We aggregate test resu
 * csvkit (`pip install csvkit`)
 * pyesridump (`pip install pyesridump`)
 
-### To reproduce the data
+### Getting started
 
-Clone this repo, and, from a terminal window, run:
+Clone this repo: 
 
-`make all`
+**Using SSH**
 
-The data files should land in `output/`.
+`git clone git@github.com:datamade/chicago-lead.git`
+
+**Using HTTPS**
+
+`git clone https://github.com/datamade/chicago-lead.git`
+
+Refer to **Data Docs** (below) for a description of the data.
+
+### Replicating our work
+
+To scrap the canned data and make it from scratch, run the following from a terminal window pointed at your project directory:
+
+```
+make clean
+make all
+```
+
+The fresh data files will land in `output/`.
 
 ## Data Docs
+Have an idea for further analysis? Here's the user manual for what we've done so far.
 
 ### 🌱 Parks
 
@@ -75,8 +100,7 @@ The data files should land in `output/`.
 
 ## Errors and bugs
 
-If something is not behaving intuitively, it is a bug and should be reported.
-Report it by [creating an issue](https://github.com/datamade/chicago-lead/issues).
+If something is not behaving intuitively, it is a bug and should be reported. Report it by [creating an issue](https://github.com/datamade/chicago-lead/issues).
 
 Help us fix the problem as quickly as possible by following [Mozilla's guidelines for reporting bugs](https://developer.mozilla.org/en-US/docs/Mozilla/QA/Bug_writing_guidelines#General_Outline_of_a_Bug_Report).
 
